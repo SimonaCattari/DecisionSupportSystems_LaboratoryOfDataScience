@@ -1,0 +1,5159 @@
+n_losses,year,player_name,nemesis
+5,1970,Ismail El Shafei,Marty Riessen
+5,1970,Zeljko Franulovic,Cliff Richey
+5,1970,Roy Emerson,Rod Laver
+5,1970,John Newcombe,Ken Rosewall
+5,1970,Ken Rosewall,Rod Laver
+4,1970,Cliff Drysdale,Rod Laver
+4,1970,Pierre Barthes,Cliff Richey
+4,1970,Cliff Richey,Ilie Nastase
+4,1970,Charlie Pasarell,Stan Smith
+4,1970,Bob Carmichael,Cliff Richey
+4,1970,Cliff Richey,Stan Smith
+4,1970,Roger Taylor,Tom Okker
+4,1970,Nikola Pilic,John Newcombe
+4,1970,Tom Okker,Roger Taylor
+4,1970,Mark Cox,Marty Riessen
+4,1970,Bob Lutz,Arthur Ashe
+3,1970,Clark Graebner,Thomaz Koch
+3,1970,Clark Graebner,Arthur Ashe
+3,1970,Terry Addison,Arthur Ashe
+3,1970,Stan Smith,Marty Riessen
+3,1970,Stan Smith,Cliff Richey
+3,1970,Bob Hewitt,Tom Okker
+3,1970,Tony Roche,Ken Rosewall
+3,1970,Ilie Nastase,Jaime Fillol
+3,1970,Earl Butch Buchholz,Ken Rosewall
+3,1970,Ilie Nastase,Cliff Richey
+3,1970,Raymond Moore,Rod Laver
+3,1970,Raymond Moore,Ken Rosewall
+3,1970,Jim Mcmanus,Cliff Richey
+3,1970,Premjit Lall,Clark Graebner
+3,1970,Allan Stone,Arthur Ashe
+3,1970,Ion Tiriac,Clark Graebner
+3,1970,Tom Gorman,John Newcombe
+3,1970,Ray Keldie,Clark Graebner
+3,1970,Jaime Fillol,Stan Smith
+3,1970,Tom Gorman,Brian Fairlie
+3,1970,Tom Gorman,Bob Lutz
+3,1970,Stan Smith,Arthur Ashe
+3,1970,Graham Stilwell,John Newcombe
+3,1970,Jan Kodes,Arthur Ashe
+3,1970,Jan Kodes,Cliff Richey
+3,1970,Jan Kodes,Allan Stone
+3,1970,Jan Kodes,Zeljko Franulovic
+3,1970,Fred Stolle,Dennis Ralston
+3,1970,Fred Stolle,Ken Rosewall
+3,1970,Graham Stilwell,Rod Laver
+3,1970,Fred Stolle,Tony Roche
+3,1970,Fred Stolle,Earl Butch Buchholz
+3,1970,Andres Gimeno,John Newcombe
+3,1970,Andres Gimeno,Ken Rosewall
+3,1970,Fred Stolle,Rod Laver
+3,1970,Patricio Cornejo,Fred Stolle
+3,1970,John Alexander,Tom Okker
+3,1970,Wieslaw Gasiorek,Zeljko Franulovic
+3,1970,Andres Gimeno,Rod Laver
+3,1970,Arthur Ashe,Cliff Richey
+3,1970,Arthur Ashe,Stan Smith
+3,1970,Owen Davidson,Roger Taylor
+3,1970,Owen Davidson,Mark Cox
+3,1970,Richard Gonzalez,Marty Riessen
+3,1970,Dennis Ralston,Arthur Ashe
+3,1970,Manuel Orantes,Zeljko Franulovic
+7,1971,Tom Okker,Rod Laver
+6,1971,Marty Riessen,Ken Rosewall
+6,1971,Arthur Ashe,Rod Laver
+6,1971,Nikola Pilic,Cliff Drysdale
+6,1971,Roy Emerson,Rod Laver
+5,1971,Andres Gimeno,Ken Rosewall
+5,1971,Owen Davidson,Cliff Drysdale
+5,1971,Phil Dent,Tom Okker
+4,1971,Bob Lutz,Rod Laver
+4,1971,Graham Stilwell,Andres Gimeno
+4,1971,Bob Lutz,Marty Riessen
+4,1971,Brian Fairlie,Tom Okker
+4,1971,Clark Graebner,Zeljko Franulovic
+4,1971,Ray Ruffels,Cliff Drysdale
+4,1971,Frank Froehling,Ilie Nastase
+4,1971,John Alexander,Marty Riessen
+4,1971,John Alexander,Cliff Drysdale
+4,1971,Allan Stone,Tom Okker
+4,1971,Charlie Pasarell,Cliff Drysdale
+4,1971,Joaquin Loyo Mayo,Thomaz Koch
+4,1971,Graham Stilwell,Roy Emerson
+4,1971,Ismail El Shafei,Charlie Pasarell
+4,1971,Cliff Drysdale,Ken Rosewall
+4,1971,Roger Taylor,Marty Riessen
+4,1971,Torben Ulrich,Brian Fairlie
+4,1971,Dennis Ralston,Roy Emerson
+4,1971,John Newcombe,Marty Riessen
+4,1971,Mark Cox,Tom Okker
+4,1971,Tom Gorman,Ilie Nastase
+4,1971,Cliff Drysdale,Arthur Ashe
+3,1971,Richard Russell,Nicola Spear
+3,1971,Ray Keldie,Gerald Battrick
+3,1971,Haroon Rahim,Jimmy Connors
+3,1971,Robert Maud,Rod Laver
+3,1971,Vladimir Zednik,Cliff Richey
+3,1971,Robert Maud,Andres Gimeno
+3,1971,Tom Edlefsen,Alejandro Olmedo
+3,1971,Zeljko Franulovic,Ilie Nastase
+3,1971,Zeljko Franulovic,Stan Smith
+3,1971,Bill Bowrey,Ken Rosewall
+3,1971,Bill Bowrey,John Alexander
+3,1971,Jaime Fillol,Clark Graebner
+3,1971,Robert Maud,Cliff Drysdale
+3,1971,Bill Bowrey,Tom Okker
+3,1971,Bill Bowrey,Roger Taylor
+3,1971,Martin Mulligan,Clark Graebner
+3,1971,Bill Bowrey,Cliff Drysdale
+3,1971,Ken Rosewall,Rod Laver
+3,1971,Dick Crealy,Rod Laver
+3,1971,Pierre Barthes,Jaime Fillol
+3,1971,Ken Rosewall,Arthur Ashe
+3,1971,Ken Rosewall,John Newcombe
+3,1971,Cliff Richey,Stan Smith
+3,1971,Jeff Borowiak,Zeljko Franulovic
+3,1971,Bob Carmichael,Roy Emerson
+3,1971,Bob Carmichael,Andres Gimeno
+3,1971,Fred Stolle,Roy Emerson
+3,1971,Fred Stolle,Ken Rosewall
+3,1971,Fred Stolle,Bob Lutz
+3,1971,Onny Parun,Stan Smith
+3,1971,Onny Parun,Cliff Richey
+3,1971,Frew Mcmillan,Ken Rosewall
+3,1971,Thomaz Koch,Ilie Nastase
+3,1971,Rod Laver,Marty Riessen
+3,1971,Richard Russell,Onny Parun
+9,1972,Tom Gorman,Ilie Nastase
+7,1972,Roy Emerson,Arthur Ashe
+6,1972,Jimmy Connors,Ilie Nastase
+5,1972,Tony Roche,Tom Okker
+4,1972,Bob Carmichael,Tom Okker
+4,1972,Charlie Pasarell,John Newcombe
+4,1972,Charlie Pasarell,Cliff Drysdale
+4,1972,Jeff Borowiak,John Newcombe
+4,1972,John Alexander,Arthur Ashe
+4,1972,Jeff Borowiak,Tom Okker
+4,1972,Terry Addison,Bob Lutz
+4,1972,Bob Carmichael,Mark Cox
+4,1972,Cliff Drysdale,John Newcombe
+4,1972,Ilie Nastase,Stan Smith
+4,1972,Patrice Dominguez,Alex Metreveli
+4,1972,Andres Gimeno,Stan Smith
+4,1972,Tom Leonard,John Newcombe
+4,1972,Tom Okker,Arthur Ashe
+4,1972,Tom Okker,Rod Laver
+4,1972,Roger Taylor,Ken Rosewall
+3,1972,Ismail El Shafei,John Newcombe
+3,1972,Ismail El Shafei,Cliff Drysdale
+3,1972,Brian Fairlie,Marty Riessen
+3,1972,Brian Fairlie,Nikola Pilic
+3,1972,Frantisek Pala,Ilie Nastase
+3,1972,Ray Ruffels,Marty Riessen
+3,1972,Ray Ruffels,Mark Cox
+3,1972,Roy Barth,Roger Taylor
+3,1972,Frank Froehling,John Newcombe
+3,1972,Bob Lutz,Arthur Ashe
+3,1972,Ross Case,Alex Metreveli
+3,1972,Jim Mcmanus,Jaime Fillol
+3,1972,Haroon Rahim,Cliff Richey
+3,1972,Frew Mcmillan,Cliff Richey
+3,1972,Juan Gisbert,Stan Smith
+3,1972,Juan Gisbert,Harold Solomon
+3,1972,Bob Hewitt,Andrew Pattison
+3,1972,Allan Stone,Marty Riessen
+3,1972,Robert Maud,Roy Emerson
+3,1972,Robert Maud,Rod Laver
+3,1972,Andrew Pattison,Manuel Orantes
+3,1972,Onny Parun,Colin Dibley
+3,1972,Robert Maud,Bob Lutz
+3,1972,Graham Stilwell,Roy Emerson
+3,1972,Manuel Orantes,Cliff Richey
+3,1972,Ken Rosewall,Rod Laver
+3,1972,David Lloyd,Vladimir Zednik
+3,1972,Pierre Barthes,Andres Gimeno
+3,1972,Nikola Pilic,John Alexander
+3,1972,Phil Dent,John Newcombe
+3,1972,Nikola Pilic,Mark Cox
+3,1972,Fred Stolle,Arthur Ashe
+3,1972,Rod Laver,Marty Riessen
+3,1972,Mark Cox,Arthur Ashe
+3,1972,Mark Cox,John Newcombe
+3,1972,Mark Cox,John Alexander
+3,1972,Jan Kodes,Stan Smith
+3,1972,Manuel Orantes,Ilie Nastase
+3,1972,Manuel Orantes,Jimmy Connors
+3,1972,Arthur Ashe,Tom Okker
+3,1972,Graham Stilwell,Ken Rosewall
+3,1972,Marty Riessen,Ken Rosewall
+3,1972,Marty Riessen,Cliff Drysdale
+3,1972,Marty Riessen,John Newcombe
+3,1972,Cliff Richey,Arthur Ashe
+3,1972,Ove Bengtson,Stan Smith
+3,1972,Szabolcz Baranyi,Ilie Nastase
+3,1972,Jean Loup Rouyer,Stan Smith
+3,1972,Ove Bengtson,Manuel Orantes
+3,1972,Arthur Ashe,Ken Rosewall
+3,1972,Arthur Ashe,Ismail El Shafei
+3,1972,Dick Stockton,Tom Gorman
+3,1972,Dick Stockton,Andrew Pattison
+6,1973,Harold Solomon,Stan Smith
+5,1973,John Alexander,Stan Smith
+5,1973,Brian Gottfried,Cliff Richey
+5,1973,Cliff Richey,Stan Smith
+5,1973,Roy Emerson,Rod Laver
+4,1973,Paul Gerken,Jimmy Connors
+4,1973,Onny Parun,Stan Smith
+4,1973,Patrice Dominguez,Paolo Bertolucci
+4,1973,Phil Dent,Roy Emerson
+4,1973,Mike Estep,Jurgen Fassbender
+4,1973,Gerald Battrick,Tom Okker
+4,1973,Stan Smith,Rod Laver
+4,1973,Rod Laver,Stan Smith
+4,1973,Paul Gerken,Adriano Panatta
+4,1973,Mark Cox,Tom Gorman
+4,1973,Roscoe Tanner,Arthur Ashe
+4,1973,Ian Fletcher,Jimmy Connors
+4,1973,Ilie Nastase,Tom Okker
+4,1973,Jimmy Connors,Ilie Nastase
+3,1973,Jan Kodes,Ilie Nastase
+3,1973,Karl Meiler,Jimmy Connors
+3,1973,Barry Phillips Moore,Nikola Pilic
+3,1973,Pat Cramer,Ilie Nastase
+3,1973,Alex Metreveli,Tom Okker
+3,1973,Buster C Mottram,Manuel Orantes
+3,1973,Alex Metreveli,Jan Kodes
+3,1973,Vladimir Zednik,Mark Cox
+3,1973,Milan Holecek,Bob Lutz
+3,1973,Corrado Barazzutti,Bjorn Borg
+3,1973,Georges Goven,Manuel Orantes
+3,1973,Bjorn Borg,Adriano Panatta
+3,1973,Bob Carmichael,Arthur Ashe
+3,1973,Bjorn Borg,Manuel Orantes
+3,1973,Jean Baptiste Chanfreau,Ken Rosewall
+3,1973,Jurgen Fassbender,Ion Tiriac
+3,1973,Tom Okker,Ilie Nastase
+3,1973,Andrew Pattison,Jaime Fillol
+3,1973,Marty Riessen,Arthur Ashe
+3,1973,Erik Van Dillen,Tom Okker
+3,1973,Marty Riessen,Charlie Pasarell
+3,1973,Roy Barth,John Alexander
+3,1973,Tom Okker,Jimmy Connors
+3,1973,Allan Stone,Patrick Proisy
+3,1973,Frew Mcmillan,Rod Laver
+3,1973,Ross Case,Arthur Ashe
+3,1973,Barry Phillips Moore,John Newcombe
+3,1973,Adriano Panatta,Ilie Nastase
+3,1973,Charlie Pasarell,John Alexander
+3,1973,Raymond Moore,Tom Okker
+3,1973,Charlie Pasarell,Hans Jurgen Pohmann
+3,1973,Raymond Moore,Ilie Nastase
+3,1973,Dick Stockton,Rod Laver
+3,1973,Joaquin Loyo Mayo,Alex Metreveli
+3,1973,Andres Gimeno,Georges Goven
+3,1973,Adriano Panatta,Manuel Orantes
+3,1973,Jaime Pinto Bravo,Paul Gerken
+3,1973,Tom Leonard,Mark Cox
+3,1973,Jaime Pinto Bravo,Ilie Nastase
+3,1973,Clark Graebner,Jimmy Connors
+3,1973,Torben Ulrich,Marty Riessen
+3,1973,Francois Jauffret,Ilie Nastase
+3,1973,Roger Taylor,Ken Rosewall
+3,1973,Patrick Proisy,Ilie Nastase
+3,1973,Nikola Pilic,Ilie Nastase
+3,1973,Sherwood Stewart,Arthur Ashe
+3,1973,Nikola Pilic,Cliff Richey
+3,1973,Jaime Fillol,Tom Okker
+3,1973,John Newcombe,Tom Okker
+3,1973,Pierre Barthes,Roscoe Tanner
+3,1973,Manuel Orantes,Ilie Nastase
+3,1973,Tom Edlefsen,Phil Dent
+3,1973,Arthur Ashe,Ken Rosewall
+3,1973,Arthur Ashe,Tom Okker
+3,1973,Jan Kodes,John Newcombe
+3,1973,Brian Fairlie,Roger Taylor
+6,1974,Onny Parun,Bjorn Borg
+4,1974,Ove Bengtson,Jimmy Connors
+4,1974,Ivan Molina,Manuel Orantes
+4,1974,Alex Metreveli,Stan Smith
+4,1974,Syd Ball,Onny Parun
+4,1974,Stan Smith,John Newcombe
+4,1974,Harold Solomon,Arthur Ashe
+4,1974,Brian Gottfried,Stan Smith
+4,1974,Charlie Pasarell,Raul Ramirez
+4,1974,Jurgen Fassbender,Sandy Mayer
+4,1974,Manuel Orantes,Guillermo Vilas
+4,1974,Georges Goven,Ilie Nastase
+4,1974,Jaime Pinto Bravo,Manuel Orantes
+4,1974,Manuel Orantes,Bjorn Borg
+3,1974,Pierre Barthes,Phil Dent
+3,1974,Geoff Masters,John Newcombe
+3,1974,Geoff Masters,Stan Smith
+3,1974,Jun Kuki,Hans Jurgen Pohmann
+3,1974,Antonio Zugarelli,Paul Gerken
+3,1974,Andrew Pattison,Jimmy Connors
+3,1974,Jorge Andrew,Eddie Dibbs
+3,1974,Tito Vazquez,Bjorn Borg
+3,1974,Jan Kodes,Roscoe Tanner
+3,1974,Ross Case,Onny Parun
+3,1974,Erik Van Dillen,Manuel Orantes
+3,1974,Colin Dibley,Brian Gottfried
+3,1974,Patrick Proisy,Guillermo Vilas
+3,1974,Colin Dibley,Rod Laver
+3,1974,Jan Kodes,Guillermo Vilas
+3,1974,Billy Martin,Vitas Gerulaitis
+3,1974,Belus Prajoux,Ian Fletcher
+3,1974,Vitas Gerulaitis,Arthur Ashe
+3,1974,Vitas Gerulaitis,Karl Meiler
+3,1974,Vitas Gerulaitis,Jimmy Connors
+3,1974,Byron Bertram,Karl Meiler
+3,1974,Eddie Dibbs,Jan Kodes
+3,1974,Eddie Dibbs,Harold Solomon
+3,1974,Raul Ramirez,Guillermo Vilas
+3,1974,Jan Kodes,Bjorn Borg
+3,1974,Kim Warwick,Karl Meiler
+3,1974,Kim Warwick,Jimmy Connors
+3,1974,Eddie Dibbs,Brian Gottfried
+3,1974,Guillermo Vilas,Bjorn Borg
+3,1974,Ian Fletcher,Jimmy Connors
+3,1974,Tom Gorman,Tom Okker
+3,1974,Patricio Cornejo,Guillermo Vilas
+3,1974,Roger Taylor,Arthur Ashe
+3,1974,Tom Leonard,Eddie Dibbs
+3,1974,Barry Phillips Moore,Jaime Fillol
+3,1974,Barry Phillips Moore,Brian Gottfried
+3,1974,Cliff Drysdale,Tom Okker
+3,1974,Jeff Borowiak,John Newcombe
+3,1974,Jeff Borowiak,Marty Riessen
+3,1974,Arthur Ashe,Bjorn Borg
+3,1974,Arthur Ashe,John Newcombe
+3,1974,Cliff Richey,John Newcombe
+3,1974,Jean Baptiste Chanfreau,Marty Riessen
+3,1974,Jean Baptiste Chanfreau,Tom Gorman
+3,1974,Roger Taylor,Ilie Nastase
+3,1974,Graham Stilwell,Bjorn Borg
+3,1974,Dick Dell,Onny Parun
+3,1974,Marty Riessen,Tom Okker
+3,1974,Jaime Fillol,Stan Smith
+3,1974,Juan Gisbert,Mark Cox
+3,1974,Zeljko Franulovic,Dick Crealy
+3,1974,Adriano Panatta,Bjorn Borg
+3,1974,Jaime Fillol,Raul Ramirez
+3,1974,Hans Joachim Ploetz,Eddie Dibbs
+3,1974,Guillermo Vilas,Arthur Ashe
+3,1974,Ismail El Shafei,Stan Smith
+3,1974,Dick Crealy,Guillermo Vilas
+3,1974,Brian Fairlie,John Newcombe
+3,1974,Tony Roche,John Newcombe
+5,1975,Onny Parun,Arthur Ashe
+5,1975,Bjorn Borg,Arthur Ashe
+4,1975,Manuel Orantes,Ilie Nastase
+4,1975,Jose Higueras,Bjorn Borg
+4,1975,Cliff Drysdale,John Alexander
+4,1975,Zeljko Franulovic,Arthur Ashe
+4,1975,Guillermo Vilas,Manuel Orantes
+4,1975,Zeljko Franulovic,Guillermo Vilas
+4,1975,Stan Smith,Vijay Amritraj
+4,1975,Eddie Dibbs,Bjorn Borg
+4,1975,Roscoe Tanner,Raul Ramirez
+4,1975,Karl Meiler,Jimmy Connors
+4,1975,Geoff Masters,Roscoe Tanner
+4,1975,Mike Estep,Cliff Drysdale
+4,1975,Marty Riessen,John Alexander
+4,1975,Wojtek Fibak,Jimmy Connors
+4,1975,Hans Kary,Jan Kodes
+3,1975,Tom Okker,Arthur Ashe
+3,1975,Harold Solomon,Bob Lutz
+3,1975,Gerald Battrick,Dick Stockton
+3,1975,Toma Ovici,Patrick Proisy
+3,1975,Barry Phillips Moore,Harold Solomon
+3,1975,Ivan Molina,Harold Solomon
+3,1975,Arthur Ashe,Bjorn Borg
+3,1975,Rolf Thung,Harold Solomon
+3,1975,Arthur Ashe,Rod Laver
+3,1975,Norman Holmes,Manuel Orantes
+3,1975,Jeff Borowiak,Rod Laver
+3,1975,Sandy Mayer,Jimmy Connors
+3,1975,Charlie Pasarell,Eddie Dibbs
+3,1975,Ricardo Cano,Guillermo Vilas
+3,1975,Roy Emerson,Raul Ramirez
+3,1975,Brian Gottfried,Rod Laver
+3,1975,Hans Jurgen Pohmann,Arthur Ashe
+3,1975,Balazs Taroczy,Adriano Panatta
+3,1975,Victor Pecci,Guillermo Vilas
+3,1975,John Lloyd,Dick Crealy
+3,1975,John Lloyd,Bob Hewitt
+3,1975,Brian Gottfried,Ross Case
+3,1975,Bernard Mitton,Jimmy Connors
+3,1975,Raul Ramirez,Brian Gottfried
+3,1975,Sashi Menon,Manuel Orantes
+3,1975,John Yuill,Karl Meiler
+3,1975,Brian Gottfried,Harold Solomon
+3,1975,Raul Ramirez,Bjorn Borg
+3,1975,Anand Amritraj,Stan Smith
+3,1975,Victor Pecci,Ilie Nastase
+3,1975,Anand Amritraj,Cliff Richey
+3,1975,Paolo Bertolucci,Onny Parun
+3,1975,Bob Hewitt,Arthur Ashe
+3,1975,Adriano Panatta,Manuel Orantes
+3,1975,Adriano Panatta,Bob Hewitt
+3,1975,Nicola Spear,Manuel Orantes
+3,1975,Ismail El Shafei,Ilie Nastase
+3,1975,Dick Crealy,Tony Roche
+3,1975,Brian Fairlie,Brian Gottfried
+3,1975,Jairo Velasco,Hans Kary
+3,1975,Anand Amritraj,Marty Riessen
+3,1975,Ismail El Shafei,Rod Laver
+3,1975,Juan Gisbert,Billy Martin
+3,1975,Phil Dent,Ilie Nastase
+3,1975,Juan Gisbert,Raul Ramirez
+3,1975,Juan Gisbert,Manuel Orantes
+3,1975,Haroon Rahim,John Alexander
+3,1975,Patrick Proisy,Manuel Orantes
+3,1975,Jim Mcmanus,Harold Solomon
+3,1975,Erik Van Dillen,Bob Lutz
+3,1975,Bob Kreiss,Wojtek Fibak
+3,1975,Jaime Fillol,Adriano Panatta
+3,1975,Jaime Fillol,Arthur Ashe
+3,1975,Raymond Moore,Onny Parun
+3,1975,Ilie Nastase,Manuel Orantes
+3,1975,Jaime Fillol,Guillermo Vilas
+3,1975,Syd Ball,Ross Case
+5,1976,Jaime Fillol,Guillermo Vilas
+5,1976,Raul Ramirez,Jimmy Connors
+5,1976,Colin Dibley,Jimmy Connors
+5,1976,Brian Gottfried,Harold Solomon
+4,1976,Kjell Johansson,Manuel Orantes
+4,1976,Zeljko Franulovic,Adriano Panatta
+4,1976,Stan Smith,Arthur Ashe
+4,1976,Roscoe Tanner,Jimmy Connors
+4,1976,Hans Kary,Manuel Orantes
+4,1976,Jan Kodes,Raul Ramirez
+3,1976,Eddie Dibbs,Jimmy Connors
+3,1976,Byron Bertram,Harold Solomon
+3,1976,Harold Solomon,Brian Gottfried
+3,1976,Wojtek Fibak,Roscoe Tanner
+3,1976,Jimmy Connors,Ilie Nastase
+3,1976,Eddie Dibbs,Manuel Orantes
+3,1976,Wojtek Fibak,Eddie Dibbs
+3,1976,Kim Warwick,Roscoe Tanner
+3,1976,Billy Martin,Raul Ramirez
+3,1976,Trey Waltke,Jimmy Connors
+3,1976,Vitas Gerulaitis,Jimmy Connors
+3,1976,Bjorn Borg,Jimmy Connors
+3,1976,Gene Mayer,Cliff Richey
+3,1976,Jim Delaney,Charles Owens
+3,1976,Bob Lutz,Eddie Dibbs
+3,1976,Ramiro Benavides,Adriano Panatta
+3,1976,Lito Alvarez,Zeljko Franulovic
+3,1976,Guillermo Vilas,Wojtek Fibak
+3,1976,John Newcombe,Arthur Ashe
+3,1976,Cliff Richey,Raul Ramirez
+3,1976,Dick Stockton,Jimmy Connors
+3,1976,Dick Stockton,Ilie Nastase
+3,1976,Jeff Borowiak,Ilie Nastase
+3,1976,Charlie Pasarell,Onny Parun
+3,1976,Guillermo Vilas,Bjorn Borg
+3,1976,Marty Riessen,Bjorn Borg
+3,1976,Ismail El Shafei,Dick Crealy
+3,1976,Tom Gorman,Harold Solomon
+3,1976,Antonio Munoz,Manuel Orantes
+3,1976,Sherwood Stewart,Brian Gottfried
+3,1976,Jorge Andrew,Brian Gottfried
+3,1976,Jiri Hrebec,Jimmy Connors
+3,1976,Bob Carmichael,Dick Crealy
+6,1977,Bob Lutz,Brian Gottfried
+5,1977,John Alexander,Dick Stockton
+5,1977,Buster C Mottram,Guillermo Vilas
+4,1977,Onny Parun,Phil Dent
+4,1977,Brian Teacher,Roscoe Tanner
+4,1977,Tony Roche,Vitas Gerulaitis
+4,1977,Eddie Dibbs,Bjorn Borg
+4,1977,Andrew Pattison,Harold Solomon
+4,1977,Jimmy Connors,Dick Stockton
+4,1977,Peter Fleming,Guillermo Vilas
+4,1977,Brian Gottfried,Guillermo Vilas
+4,1977,Ion Tiriac,Guillermo Vilas
+3,1977,Ray Ruffels,Bill Scanlon
+3,1977,John Lloyd,Bjorn Borg
+3,1977,Marty Riessen,Brian Gottfried
+3,1977,Belus Prajoux,Jaime Fillol
+3,1977,Dick Crealy,Stan Smith
+3,1977,Russell Simpson,Ray Ruffels
+3,1977,Ivan Molina,Hans Gildemeister
+3,1977,Billy Martin,Stan Smith
+3,1977,Ken Rosewall,John Alexander
+3,1977,Eric Deblicker,Guillermo Vilas
+3,1977,Jeff Borowiak,Raul Ramirez
+3,1977,Gene Mayer,Guillermo Vilas
+3,1977,Dick Stockton,Harold Solomon
+3,1977,Gene Mayer,Wojtek Fibak
+3,1977,Cliff Drysdale,Jimmy Connors
+3,1977,Chris Lewis,Buster C Mottram
+3,1977,Patricio Cornejo,Jaime Fillol
+3,1977,Ulrich Pinner,Wojtek Fibak
+3,1977,Jan Kodes,Ilie Nastase
+3,1977,Hans Gildemeister,Guillermo Vilas
+3,1977,Jeff Borowiak,Tom Gorman
+3,1977,Wojtek Fibak,Eddie Dibbs
+3,1977,Raymond Moore,Brian Gottfried
+3,1977,Wojtek Fibak,Guillermo Vilas
+3,1977,Bill Scanlon,Kim Warwick
+3,1977,Paul Mcnamee,Guillermo Vilas
+3,1977,Deon Joubert,Sherwood Stewart
+3,1977,Raymond Moore,Ilie Nastase
+3,1977,John James,Phil Dent
+3,1977,Jose Higueras,Guillermo Vilas
+3,1977,Ross Case,Harold Solomon
+3,1977,Bernard Mitton,Mark Cox
+3,1977,John Yuill,Wojtek Fibak
+3,1977,Ramiro Benavides,Belus Prajoux
+3,1977,Geoff Masters,Kim Warwick
+3,1977,Colin Dibley,Nick Saviano
+3,1977,Bill Lofgren,Phil Dent
+3,1977,Byron Bertram,Brian Gottfried
+3,1977,Harold Solomon,John Alexander
+3,1977,Fred Mcnair,Tom Gullikson
+3,1977,Rolf Norberg,Jiri Hrebec
+3,1977,Raul Ramirez,Brian Teacher
+3,1977,Stan Smith,Jimmy Connors
+3,1977,Stan Smith,Guillermo Vilas
+6,1978,Harold Solomon,Bjorn Borg
+5,1978,Vitas Gerulaitis,Bjorn Borg
+5,1978,Roscoe Tanner,Bjorn Borg
+4,1978,Peter Fleming,Ilie Nastase
+4,1978,Raul Ramirez,Bjorn Borg
+4,1978,Kim Warwick,Raul Ramirez
+4,1978,Ulrich Pinner,Balazs Taroczy
+4,1978,Raul Ramirez,Jimmy Connors
+3,1978,Mike Machette,Tom Gullikson
+3,1978,Patricio Cornejo,Hans Gildemeister
+3,1978,Tom Okker,Bjorn Borg
+3,1978,Denis Naegelen,Eliot Teltscher
+3,1978,Ricardo Ycaza,Jose Luis Clerc
+3,1978,Wojtek Fibak,Manuel Orantes
+3,1978,Jaime Fillol,Vitas Gerulaitis
+3,1978,Mike Cahill,Deon Joubert
+3,1978,Tom Gullikson,John McEnroe
+3,1978,Tom Gullikson,Harold Solomon
+3,1978,John Sadri,Mike Cahill
+3,1978,Jose Luis Clerc,Guillermo Vilas
+3,1978,Yannick Noah,Guillermo Vilas
+3,1978,Butch Walts,Stan Smith
+3,1978,John Alexander,Jimmy Connors
+3,1978,Pat Dupre,Brian Gottfried
+3,1978,Brian Teacher,Roscoe Tanner
+3,1978,Jose Higueras,Jimmy Connors
+3,1978,Marcello Lara,Gene Mayer
+3,1978,Colin Dibley,Brian Gottfried
+3,1978,Jaime Fillol,Manuel Orantes
+3,1978,Bernard Mitton,Harold Solomon
+3,1978,Frew Mcmillan,Ilie Nastase
+3,1978,Jaime Fillol,Rolf Gehring
+3,1978,Brian Gottfried,Jimmy Connors
+3,1978,Phil Dent,Harold Solomon
+3,1978,Corrado Barazzutti,Jose Higueras
+3,1978,John Austin,Roscoe Tanner
+3,1978,Sandy Mayer,Vitas Gerulaitis
+5,1979,Vitas Gerulaitis,Jimmy Connors
+5,1979,Jimmy Connors,Bjorn Borg
+5,1979,Sherwood Stewart,Victor Amaya
+4,1979,Wojtek Fibak,John McEnroe
+4,1979,Raul Ramirez,Harold Solomon
+4,1979,Andrew Pattison,Bill Scanlon
+4,1979,John Alexander,John McEnroe
+4,1979,Phil Dent,Guillermo Vilas
+3,1979,Zeljko Franulovic,Vitas Gerulaitis
+3,1979,Bruce Manson,Butch Walts
+3,1979,Gene Mayer,John McEnroe
+3,1979,Gene Mayer,Bjorn Borg
+3,1979,Terry Moor,Brian Gottfried
+3,1979,Tim Gullikson,Gene Mayer
+3,1979,Pavel Slozil,Wojtek Fibak
+3,1979,Heinz Gunthardt,Wojtek Fibak
+3,1979,Joel Bailey,Erik Van Dillen
+3,1979,Eliot Teltscher,Eddie Dibbs
+3,1979,John McEnroe,Bjorn Borg
+3,1979,Jose Luis Clerc,Guillermo Vilas
+3,1979,Johan Kriek,Vitas Gerulaitis
+3,1979,Vincent Van Patten,Harold Solomon
+3,1979,Peter Mcnamara,Jose Luis Clerc
+3,1979,Peter Fleming,Vitas Gerulaitis
+3,1979,Pat Dupre,Jimmy Connors
+3,1979,Mark Edmondson,Vitas Gerulaitis
+3,1979,Colin Dibley,Chris Delaney
+3,1979,Harold Solomon,Eddie Dibbs
+3,1979,Brian Gottfried,Arthur Ashe
+3,1979,Buster C Mottram,Guillermo Vilas
+3,1979,Vijay Amritraj,John Alexander
+3,1979,Vijay Amritraj,John McEnroe
+3,1979,Zeljko Franulovic,Tomas Smid
+3,1979,Marty Riessen,Roscoe Tanner
+3,1979,Eddie Dibbs,Brian Gottfried
+3,1979,Eddie Dibbs,Jimmy Connors
+3,1979,Corrado Barazzutti,John Alexander
+3,1979,Corrado Barazzutti,Jose Higueras
+3,1979,John Lloyd,John McEnroe
+3,1979,John Marks,Phil Dent
+5,1980,Pascal Portes,Tomas Smid
+5,1980,Vitas Gerulaitis,Bjorn Borg
+5,1980,Vijay Amritraj,John McEnroe
+4,1980,Ricardo Ycaza,Jose Luis Clerc
+4,1980,Ivan Lendl,Jimmy Connors
+4,1980,Brian Teacher,Ivan Lendl
+3,1980,Thomaz Koch,Guillermo Vilas
+3,1980,Fritz Buehning,Vitas Gerulaitis
+3,1980,Guillermo Vilas,Harold Solomon
+3,1980,Eliot Teltscher,Jimmy Connors
+3,1980,John McEnroe,Bjorn Borg
+3,1980,John McEnroe,Vitas Gerulaitis
+3,1980,Shlomo Glickstein,Kim Warwick
+3,1980,Fritz Buehning,Gene Mayer
+3,1980,Tim Wilkison,Eliot Teltscher
+3,1980,Wolfgang Popp,Ivan Lendl
+3,1980,Andres Gomez,Jose Luis Clerc
+3,1980,Andres Gomez,Victor Pecci
+3,1980,Yannick Noah,Bill Scanlon
+3,1980,Stanislav Birner,Vitas Gerulaitis
+3,1980,Chris Lewis,Brian Gottfried
+3,1980,Bob Lutz,John McEnroe
+3,1980,Gene Mayer,Bjorn Borg
+3,1980,Victor Amaya,Gene Mayer
+3,1980,Stan Smith,Gene Mayer
+3,1980,Patrick Proisy,Peter Mcnamara
+3,1980,Erik Van Dillen,Roscoe Tanner
+3,1980,Alvin Gardiner,Brad Drewett
+3,1980,Jimmy Connors,John McEnroe
+3,1980,Brian Gottfried,Wojtek Fibak
+3,1980,Rod Frawley,Roscoe Tanner
+3,1980,George Hardie,John Sadri
+3,1980,Bruce Manson,Wojtek Fibak
+3,1980,Paul Mcnamee,John McEnroe
+3,1980,Peter Fleming,Vijay Amritraj
+3,1980,Peter Mcnamara,Bjorn Borg
+3,1980,Mark Edmondson,Eliot Teltscher
+3,1980,Trey Waltke,Brian Gottfried
+5,1981,Guillermo Vilas,Ivan Lendl
+5,1981,Harold Solomon,Ivan Lendl
+4,1981,Bernard Mitton,Roscoe Tanner
+4,1981,Raul Ramirez,John McEnroe
+4,1981,Ricardo Cano,Guillermo Vilas
+4,1981,Brian Gottfried,John McEnroe
+4,1981,Jose Higueras,Guillermo Vilas
+4,1981,Angel Gimenez,Balazs Taroczy
+4,1981,Sandy Mayer,John McEnroe
+3,1981,John Fitzgerald,Peter Mcnamara
+3,1981,Tom Gullikson,Hank Pfister
+3,1981,Bill Scanlon,John McEnroe
+3,1981,Tim Wilkison,John Austin
+3,1981,Chris Mayotte,Bill Scanlon
+3,1981,Ivan Lendl,Bjorn Borg
+3,1981,Ivan Lendl,Jose Luis Clerc
+3,1981,Mats Wilander,Peter Mcnamara
+3,1981,Mel Purcell,Jose Luis Clerc
+3,1981,Christoph Zipf,Jerome Potier
+3,1981,Ivan Lendl,Jimmy Connors
+3,1981,Heinz Gunthardt,Tomas Smid
+3,1981,Tom Gullikson,John McEnroe
+3,1981,Tim Gullikson,Ivan Lendl
+3,1981,Pavel Slozil,Ricardo Cano
+3,1981,Stan Smith,John McEnroe
+3,1981,Jimmy Connors,Bjorn Borg
+3,1981,Vijay Amritraj,Bill Scanlon
+3,1981,Eddie Dibbs,Ivan Lendl
+3,1981,John Austin,Brian Teacher
+3,1981,Mike Estep,Johan Kriek
+3,1981,Bjorn Borg,John McEnroe
+3,1981,Russell Simpson,Shlomo Glickstein
+3,1981,Chris Lewis,Mark Edmondson
+3,1981,Terry Moor,Vitas Gerulaitis
+3,1981,Brian Teacher,John McEnroe
+5,1982,Wojtek Fibak,Ivan Lendl
+5,1982,Yannick Noah,Guillermo Vilas
+4,1982,David Carter,Eliot Teltscher
+4,1982,Hank Pfister,Jimmy Connors
+4,1982,John McEnroe,Ivan Lendl
+4,1982,Jose Luis Clerc,Ivan Lendl
+3,1982,Eliot Teltscher,Jose Higueras
+3,1982,Peter Elter,Tomas Smid
+3,1982,Christophe Freyss,Dominique Bedel
+3,1982,Marcos Hocevar,Guillermo Vilas
+3,1982,Greg Whitecross,Craig A Miller
+3,1982,Steve Denton,John McEnroe
+3,1982,Erick Iskersky,Vitas Gerulaitis
+3,1982,Erick Iskersky,Brian Teacher
+3,1982,Andres Gomez,Victor Pecci
+3,1982,John Fitzgerald,John Alexander
+3,1982,Henri Leconte,John McEnroe
+3,1982,Chip Hooper,Jimmy Connors
+3,1982,Juan Aguilera,Ivan Lendl
+3,1982,Steve Denton,Vitas Gerulaitis
+3,1982,Ramesh Krishnan,Ivan Lendl
+3,1982,Jose Luis Damiani,Balazs Taroczy
+3,1982,Rolf Gehring,Jose Higueras
+3,1982,Guillermo Vilas,Wojtek Fibak
+3,1982,Bob Lutz,Bill Scanlon
+3,1982,Heinz Gunthardt,Ivan Lendl
+3,1982,Harold Solomon,Eliot Teltscher
+3,1982,Harold Solomon,Brian Gottfried
+3,1982,Jimmy Connors,John McEnroe
+3,1982,Brian Gottfried,Kevin Curren
+3,1982,Jose Higueras,Jose Luis Clerc
+3,1982,Corrado Barazzutti,Mats Wilander
+3,1982,Vitas Gerulaitis,Ivan Lendl
+3,1982,Balazs Taroczy,Ivan Lendl
+3,1982,Peter Mcnamara,John McEnroe
+3,1982,Peter Mcnamara,Jose Luis Clerc
+3,1982,Gene Mayer,John McEnroe
+3,1982,Rolf Gehring,Tomas Smid
+3,1982,Brian Gottfried,Jimmy Connors
+5,1983,Tomas Smid,Guillermo Vilas
+4,1983,Anders Jarryd,Mats Wilander
+4,1983,Joakim Nystrom,Mats Wilander
+3,1983,Victor Pecci,Thierry Tulasne
+3,1983,Brad Gilbert,John McEnroe
+3,1983,Paul Mcnamee,Guillermo Vilas
+3,1983,Jim Gurfein,Fernando Luna
+3,1983,Chris Lewis,Tomas Smid
+3,1983,Mike Bauer,Tim Mayotte
+3,1983,Tim Gullikson,Scott Davis
+3,1983,Mark Dickson,Wojtek Fibak
+3,1983,Hank Pfister,Jimmy Connors
+3,1983,Henrik Sundstrom,Mats Wilander
+3,1983,Pavel Slozil,Guillermo Vilas
+3,1983,Juan Avendano,Henrik Sundstrom
+3,1983,Pavel Slozil,Libor Pimek
+3,1983,Bill Scanlon,Ivan Lendl
+3,1983,Gianni Ocleppo,Jimmy Arias
+3,1983,Kevin Curren,Ivan Lendl
+3,1983,Manuel Orantes,Chris Lewis
+3,1983,Eliot Teltscher,Jose Higueras
+3,1983,Tim Mayotte,Ivan Lendl
+3,1983,Tim Wilkison,Jimmy Connors
+3,1983,John McEnroe,Mats Wilander
+3,1983,Johan Kriek,Ivan Lendl
+3,1983,Ivan Lendl,John McEnroe
+3,1983,Charlie Fancutt,Greg Whitecross
+6,1984,Ivan Lendl,John McEnroe
+6,1984,Jimmy Connors,John McEnroe
+4,1984,Henri Leconte,Jimmy Connors
+4,1984,Tim Mayotte,Jimmy Connors
+4,1984,Andres Gomez,Ivan Lendl
+4,1984,Tom Gullikson,Tomas Smid
+4,1984,Steve Denton,Kevin Curren
+3,1984,Chris Lewis,Diego Perez
+3,1984,Mats Wilander,John McEnroe
+3,1984,Brian Gottfried,Jimmy Arias
+3,1984,Leif Shiras,Vijay Amritraj
+3,1984,Anders Jarryd,Ivan Lendl
+3,1984,Brad Gilbert,David Pate
+3,1984,Wojtek Fibak,John McEnroe
+3,1984,Francesco Cancellotti,Henrik Sundstrom
+3,1984,Alberto Tous,Henrik Sundstrom
+3,1984,Emilio Sanchez,Simone Colombo
+3,1984,Ben Testerman,Kevin Curren
+3,1984,Vitas Gerulaitis,John McEnroe
+3,1984,Drew Gitlin,Brad Gilbert
+3,1984,Victor Pecci,Joakim Nystrom
+3,1984,Marko Ostoja,Joakim Nystrom
+3,1984,Tomas Smid,Henrik Sundstrom
+3,1984,Shlomo Glickstein,Anders Jarryd
+3,1984,Tim Wilkison,Joakim Nystrom
+3,1984,Tomas Smid,Ivan Lendl
+3,1984,Gene Mayer,Ivan Lendl
+3,1984,David Dowlen,Marty Davis
+3,1984,Johan Kriek,John McEnroe
+3,1984,Lloyd Bourne,Brian Teacher
+6,1985,Jimmy Connors,Ivan Lendl
+4,1985,Vijay Amritraj,Anders Jarryd
+4,1985,Stefan Edberg,Jimmy Connors
+3,1985,Brad Gilbert,Ivan Lendl
+3,1985,Jim Gurfein,Cesar Kist
+3,1985,Brad Gilbert,Stefan Edberg
+3,1985,Brad Gilbert,John McEnroe
+3,1985,Slobodan Zivojinovic,Jimmy Connors
+3,1985,Lawson Duncan,Ivan Lendl
+3,1985,Jakob Hlasek,Stefan Edberg
+3,1985,Paul Annacone,John McEnroe
+3,1985,Ken Flach,Tim Mayotte
+3,1985,Boris Becker,Ivan Lendl
+3,1985,Alessandro De Minicis,Jonas Svensson
+3,1985,Jimmy Brown,Diego Perez
+3,1985,Jakob Hlasek,Mats Wilander
+3,1985,Anders Jarryd,Boris Becker
+3,1985,Mats Wilander,Ivan Lendl
+3,1985,Joakim Nystrom,Miloslav Mecir
+3,1985,Anders Jarryd,John McEnroe
+3,1985,Ramesh Krishnan,John McEnroe
+3,1985,John Sadri,Tim Mayotte
+3,1985,Tim Wilkison,Stefan Edberg
+3,1985,Stanislav Birner,Jan Gunnarsson
+3,1985,Gabriel Urpi,Martin Jaite
+3,1985,John McEnroe,Ivan Lendl
+3,1985,Tim Mayotte,Ivan Lendl
+3,1985,Peter Doohan,Brad Gilbert
+3,1985,Wally Masur,Henri Leconte
+3,1985,Nduka Odizor,Tim Mayotte
+3,1985,Chip Hooper,Paul Annacone
+3,1985,Ivan Lendl,John McEnroe
+5,1986,Aaron Krickstein,Andres Gomez
+4,1986,Tim Wilkison,Stefan Edberg
+4,1986,Paul Annacone,Boris Becker
+4,1986,Stefan Edberg,Boris Becker
+4,1986,Andres Gomez,Ivan Lendl
+3,1986,Greg Holmes,Ivan Lendl
+3,1986,Michiel Schapers,Miloslav Mecir
+3,1986,Libor Pimek,Jonas Svensson
+3,1986,Martin Jaite,Andres Gomez
+3,1986,Menno Oosting,Stanislav Birner
+3,1986,Robert Seguso,Jimmy Connors
+3,1986,Boris Becker,Ivan Lendl
+3,1986,Bob Green,Christo Steyn
+3,1986,Brad Gilbert,Ivan Lendl
+3,1986,Ricki Osterthun,Kent Carlsson
+3,1986,Lawson Duncan,Eliot Teltscher
+3,1986,Marcelo Hennemann,Fernando Roese
+3,1986,Johan Carlsson,Ramesh Krishnan
+3,1986,Sergio Casal,Miloslav Mecir
+3,1986,Tim Mayotte,Ivan Lendl
+3,1986,Mike Leach,David Pate
+3,1986,Jimmy Connors,Ivan Lendl
+3,1986,Hans Gildemeister,Horacio De La Pena
+3,1986,Tomas Smid,Kevin Curren
+3,1986,Bill Scanlon,Michiel Schapers
+3,1986,Alejandro Ganzabal,Luiz Mattar
+3,1986,Henrik Sundstrom,Kent Carlsson
+3,1986,Yannick Noah,Tim Mayotte
+3,1986,Yannick Noah,Stefan Edberg
+3,1986,Jan Gunnarsson,Yannick Noah
+3,1986,Mike Leach,Brad Gilbert
+3,1986,Ivan Lendl,Boris Becker
+3,1986,Jimmy Arias,Thierry Tulasne
+3,1986,Jimmy Arias,Todd Witsken
+3,1986,Diego Perez,Andres Gomez
+3,1986,Jan Gunnarsson,Mikael Pernfors
+3,1986,Henri Leconte,Boris Becker
+5,1987,Jimmy Connors,Ivan Lendl
+4,1987,Jan Gunnarsson,Mats Wilander
+4,1987,Anders Jarryd,Stefan Edberg
+4,1987,Brad Gilbert,Ivan Lendl
+4,1987,Emilio Sanchez,Kent Carlsson
+3,1987,Roland Stadler,Claudio Mezzadri
+3,1987,Per Henricsson,Eduardo Masso
+3,1987,Andreas Maurer,Damir Keretic
+3,1987,Javier Sanchez,Emilio Sanchez
+3,1987,Cassio Motta,Luiz Mattar
+3,1987,Jaime Yzaga,Eric Jelen
+3,1987,Karel Novacek,Amos Mansdorf
+3,1987,David Engel,Christer Allgardh
+3,1987,Miloslav Mecir,Stefan Edberg
+3,1987,Slobodan Zivojinovic,Boris Becker
+3,1987,Pat Cash,Anders Jarryd
+3,1987,Mats Wilander,Ivan Lendl
+3,1987,Kelly Evernden,Jimmy Connors
+3,1987,Boris Becker,Brad Gilbert
+4,1988,Lawson Duncan,Thomas Muster
+4,1988,Julio Goes,Cassio Motta
+3,1988,Dacio Campos,Danilo Marcelino
+3,1988,Shuzo Matsuoka,Emilio Sanchez
+3,1988,Carl Uwe Steeb,Tim Mayotte
+3,1988,Christer Allgardh,Bruno Oresar
+3,1988,Richey Reneberg,Andrei Chesnokov
+3,1988,Christer Allgardh,Guillermo Perez Roldan
+3,1988,Josef Cihak,Jordi Arrese
+3,1988,Magnus Gustafsson,Christian Bergstrom
+3,1988,Francisco Yunis,Alberto Mancini
+3,1988,Claudio Mezzadri,Guy Forget
+3,1988,Miloslav Mecir,Stefan Edberg
+3,1988,Libor Pimek,Milan Srejber
+3,1988,Guy Forget,Stefan Edberg
+3,1988,Stefan Edberg,Boris Becker
+3,1988,Eduardo Osta,Jordi Arrese
+3,1988,Juan Avendano,Bruno Oresar
+3,1988,Jerome Potier,Christian Saceanu
+3,1988,Henri Leconte,Mats Wilander
+3,1988,Cassio Motta,Luiz Mattar
+3,1988,Andrei Chesnokov,Henri Leconte
+4,1989,Horst Skoff,Stefan Edberg
+4,1989,Stefan Edberg,Boris Becker
+3,1989,Andre Agassi,Ivan Lendl
+3,1989,Guillermo Perez Roldan,Boris Becker
+3,1989,Javier Sanchez,Martin Jaite
+3,1989,Aaron Krickstein,John McEnroe
+3,1989,Josef Cihak,Jordi Arrese
+3,1989,Goran Prpic,Martin Jaite
+3,1989,David Macpherson,Mario Tabares
+3,1989,Magnus Gustafsson,Paolo Cane
+3,1989,Pete Sampras,Michael Chang
+3,1989,Alejandro Aramburu,Luiz Mattar
+3,1989,Jimmy Brown,Jim Courier
+3,1989,Robert Seguso,Jim Pugh
+3,1989,John McEnroe,Ivan Lendl
+3,1989,John McEnroe,Boris Becker
+3,1989,Thierry Tulasne,Lawson Duncan
+3,1989,Julio Goes,Fernando Roese
+3,1989,Mats Wilander,Alberto Mancini
+3,1989,Anders Jarryd,Brad Gilbert
+3,1989,Juan Aguilera,Franco Davin
+3,1989,Sergio Casal,Karel Novacek
+3,1989,Scott Davis,Brad Gilbert
+4,1990,Richey Reneberg,Boris Becker
+3,1990,Jason Stoltenberg,Jim Courier
+3,1990,David Wheaton,Brad Gilbert
+3,1990,Alexander Volkov,Ronald Agenor
+3,1990,Martin Strelba,Fernando Luna
+3,1990,David Rikl,Philippe Pech
+3,1990,Francisco Clavet,Marian Vajda
+3,1990,Richard Fromberg,Emilio Sanchez
+3,1990,Marc Rosset,Richard Fromberg
+3,1990,David Wheaton,Stefan Edberg
+3,1990,Joao Zwetsch,Pedro Rebolledo
+3,1990,Michael Chang,Stefan Edberg
+3,1990,Tomas Carbonell,Guillermo Perez Roldan
+3,1990,Andrei Cherkasov,Boris Becker
+3,1990,Petr Korda,Andrei Cherkasov
+3,1990,Ivan Lendl,Stefan Edberg
+3,1990,Tim Mayotte,Pete Sampras
+3,1990,Scott Davis,Ivan Lendl
+3,1990,Paul Chamberlin,Patrick McEnroe
+3,1990,Stefan Edberg,Boris Becker
+3,1990,Brad Gilbert,Stefan Edberg
+3,1990,Boris Becker,Andre Agassi
+3,1990,Danilo Marcelino,Jaime Oncins
+3,1990,Patrick McEnroe,Christian Bergstrom
+3,1990,Jaime Yzaga,Petr Korda
+3,1990,Jakob Hlasek,Stefan Edberg
+3,1990,Guillermo Perez Roldan,Thomas Muster
+5,1991,Michael Chang,Stefan Edberg
+5,1991,Hernan Gumy,Fernando Meligeni
+5,1991,Seung Ho Ji,Eui Jong Chang
+4,1991,Derrick Rostagno,Guy Forget
+4,1991,Luis Andreotti,Hernan Gumy
+4,1991,Peter Lundgren,Stefan Edberg
+4,1991,Luis Adrian Morejon,Pablo Campana
+4,1991,Derrick Rostagno,Jim Courier
+4,1991,Juan Luis Tati Rascon,Alex Corretja
+4,1991,Alberto Berasategui,German Lopez
+3,1991,Amos Mansdorf,Guy Forget
+3,1991,Emilio Benfele Alvarez,Raviv Weidenfeld
+3,1991,Javier Sanchez,Karel Novacek
+3,1991,Trevor Kronemann,Florian Krumrey
+3,1991,Marcelo Filippini,Guillermo Perez Roldan
+3,1991,Mark Markov,Michael Van Der Berg
+3,1991,Guillermo Perez Roldan,Magnus Gustafsson
+3,1991,Armando Perez,Mario Tabares
+3,1991,Eduardo Masso,Francisco Clavet
+3,1991,Sebastien Hette,Pat Crow
+3,1991,Torben Theine,Federico Sanchez
+3,1991,Sergio Gomez Barrio,Federico Garcia Berro
+3,1991,Omar Camporese,Boris Becker
+3,1991,Patrik Langvardt,Marko Srdanovic
+3,1991,Andre Agassi,Jim Courier
+3,1991,Clinton Marsh,Brian Gyetko
+3,1991,Magnus Gustafsson,Karel Novacek
+3,1991,Scott Gessner,David Prinosil
+3,1991,Alexander Volkov,Boris Becker
+3,1991,Alejo Mancisidor,Alberto Berasategui
+3,1991,Roland So,Zeeshan Ali
+3,1991,Laurence Tieleman,Malcolm Allen
+3,1991,Alexander Mronz,Brad Gilbert
+3,1991,Americo Venero Montes,Oscar Bustos
+3,1991,Petr Korda,Andre Agassi
+3,1991,James Lenton,Lan Bale
+3,1991,Joao Cunha Silva,Gabriel Markus
+3,1991,Brad Koontz,Joost Wijnhoud
+3,1991,Gap Taik Ro,Eui Jong Chang
+3,1991,Carlos Rojas,Americo Venero Montes
+3,1991,Massimo Cierro,Frederic Fontang
+3,1991,Floriano Salvoni,George Cosac
+3,1991,Cesar Kist,Roberto Jabali
+3,1991,Ricardo Herrera,Pat Crow
+3,1991,Guy Forget,Jim Courier
+3,1991,Seong Kon Kim,Eui Jong Chang
+3,1991,Martin Jaite,Emilio Sanchez
+3,1991,Tae Hee Kong,Eui Jong Chang
+3,1991,Jakob Hlasek,Ivan Lendl
+3,1991,Nicolas Becerra,Roberto Saad
+3,1991,Tarik Benhabiles,Francesco Cancellotti
+3,1991,Pablo Minutella,Luis Valdez
+3,1991,Pat Cash,Stefan Edberg
+3,1991,Mark Avedikian,Laurence Tieleman
+3,1991,Jorgen Windahl,Markus Zillner
+3,1991,Laurence Matthews,Conny Falk
+3,1991,Jordi Arrese,Frederic Fontang
+3,1991,Paul Hand,Wayne Arthurs
+3,1991,Rodolphe Gilbert,Shuzo Matsuoka
+3,1991,Jose Ayala,Roberto Saad
+3,1991,Goran Prpic,Magnus Gustafsson
+3,1991,Jamie Holmes,Jason Cask
+3,1991,Goran Prpic,Andre Agassi
+3,1991,Mark Leschly,Oliver Fernandez
+3,1991,Marian Vajda,Karel Novacek
+3,1991,John Mattice,Roland So
+3,1991,Scott Davis,Ivan Lendl
+3,1991,Nicolas Becerra,Hernan Gumy
+3,1991,Jim Courier,Pete Sampras
+3,1991,Ernesto Diaz,Andres Alarcon
+3,1991,Srdan Muskatirovic,Jeremy Bates
+3,1991,David Rikl,Martin Damm Sr
+3,1991,Fabrice Santoro,Cedric Pioline
+3,1991,Fabrice Santoro,Michael Stich
+3,1991,Jacco Eltingh,Luis Herrera
+3,1991,Renzo Furlan,Sergi Bruguera
+3,1991,Michael Stich,Ivan Lendl
+3,1991,Guillaume Raoux,Francisco Clavet
+3,1991,Sergi Bruguera,Emilio Sanchez
+3,1991,Andrei Cherkasov,Emilio Sanchez
+3,1991,Goran Ivanisevic,Stefan Edberg
+3,1991,Goran Ivanisevic,Goran Prpic
+3,1991,Carlos Costa,Guillermo Perez Roldan
+3,1991,Pete Sampras,Guy Forget
+3,1991,Chi Wan Kim,Eui Jong Chang
+3,1991,Jaime Cortes,Alvaro Jordan
+3,1991,Kenny Thorne,Andrew Sznajder
+3,1991,Joao Zwetsch,Luis Andreotti
+3,1991,Carsten Arriens,Pietro Pennisi
+3,1991,David Adams,Heath Denman
+3,1991,Silvio Moine,Daniele Musa
+3,1991,Chris Wilkinson,Patrick Rafter
+3,1991,Fernando Meligeni,Roberto Jabali
+3,1991,Richard Krajicek,Michael Stich
+3,1991,Miguel Tobon,Mario Rincon
+3,1991,Oliver Fernandez,Jimmy Brown
+3,1991,Daniele Balducci,Pietro Pennisi
+3,1991,Marcos Ondruska,Guy Forget
+3,1991,Pablo Campana,Alvaro Jordan
+3,1991,Andres Alarcon,Pablo Campana
+3,1991,Jan Siemerink,Jakob Hlasek
+3,1991,Jordi Burillo,Federico Sanchez
+4,1992,Claudio Rigagnoli,Alberto Berasategui
+4,1992,Richard Krajicek,Jim Courier
+4,1992,Andy Zingman,Pablo Escribano
+4,1992,Michael Chang,Ivan Lendl
+4,1992,David Valeriano Torres,Alex Lopez Moron
+4,1992,Stefan Edberg,Goran Ivanisevic
+4,1992,Mauricio Aquino,Juan Pino
+4,1992,Mark Woodforde,Richard Krajicek
+4,1992,Sander Groen,Peter Nyborg
+3,1992,Jakob Hlasek,Guy Forget
+3,1992,Patricio Delgado,Americo Venero Montes
+3,1992,Arne Thoms,Martin Damm Sr
+3,1992,Gakuji Okada,Jeroen Heinhuis
+3,1992,Todd Woodbridge,Michael Chang
+3,1992,Andrew Bates,Bonit Wiryawan
+3,1992,Andrei Cherkasov,Petr Korda
+3,1992,Sebastian Allende,Pablo Escribano
+3,1992,Andrei Cherkasov,Michael Chang
+3,1992,Federico Pierini,Americo Venero Montes
+3,1992,Andrei Cherkasov,Karel Novacek
+3,1992,Brendan Curry,Jamie Holmes
+3,1992,Magnus Larsson,Goran Ivanisevic
+3,1992,Jesus Manteca Jurado,Juan Luis Tati Rascon
+3,1992,Victor Lopez Moron,Xavier Avila
+3,1992,Federico Depetris,Gaston Naon
+3,1992,Miguel Tobon,Mario Rincon
+3,1992,Oscar Martinez Dieguez,Robert Eriksson
+3,1992,Sandor Noszaly,Nuno Marques
+3,1992,Daiji Morii,Laurence Tieleman
+3,1992,Marc Rosset,Goran Ivanisevic
+3,1992,Javier Molina Peiro,Jaime Cortes
+3,1992,Ruben Alvarenga,Miguel Pastura
+3,1992,Stephan Rhode,Michael Geserer
+3,1992,Kentaro Masuda,Gabrio Castrichella
+3,1992,Goran Mihajlovic,Bret Garnett
+3,1992,Jae Sik Kim,Eui Jong Chang
+3,1992,Thomas Gollwitzer,Michael Geserer
+3,1992,Jan Siemerink,Petr Korda
+3,1992,Steven Baldas,Joern Grunewald
+3,1992,Rene Hanak,Agustin Garizzio
+3,1992,Mark Joachim,Mihai Vanta
+3,1992,Krister Wedenby,Jorgen Windahl
+3,1992,Johan Donar,Nicklas Utgren
+3,1992,Chi Wan Kim,Brett Steven
+3,1992,Sean Cole,Kentaro Masuda
+3,1992,Luis Adrian Morejon,Owen Casey
+3,1992,Albert Portas,Vicente Solves
+3,1992,Markus Naewie,Karsten Braasch
+3,1992,Johan Donar,Chris Wilkinson
+3,1992,Patricio Arnold,Yann Lefebvre
+3,1992,Glenn Wilson,Owen Casey
+3,1992,Ricardo Mena,Pablo Escribano
+3,1992,Stephen Noteboom,Jason Sher
+3,1992,Todd Witsken,Aaron Krickstein
+3,1992,Americo Venero Montes,Mario Rincon
+3,1992,Paul Haarhuis,Goran Ivanisevic
+3,1992,Miguel Pastura,Donald Johnson
+3,1992,Richard Fromberg,Wayne Ferreira
+3,1992,Miguel Pastura,Hector Moretti
+3,1992,Jonas Svensson,Boris Becker
+3,1992,Hernan Gumy,Nelson Aerts
+3,1992,Thomas Muster,Jim Courier
+3,1992,Thierry Champion,Emilio Sanchez
+3,1992,Horst Skoff,Emilio Sanchez
+3,1992,Wally Masur,Stefan Edberg
+3,1992,Petr Korda,Pete Sampras
+3,1992,Roberto Azar,Jaime Oncins
+3,1992,Carl Uwe Steeb,Boris Becker
+3,1992,Eduardo Masso,Karel Novacek
+3,1992,Paul Haarhuis,Marcelo Filippini
+3,1992,Alexander Volkov,Pete Sampras
+3,1992,Jim Courier,Boris Becker
+3,1992,Ivan Lendl,Stefan Edberg
+3,1992,Mario Rincon,Pablo Campana
+3,1992,Pete Sampras,Petr Korda
+3,1992,Jaime Oncins,Petr Korda
+3,1992,Jaime Oncins,Luiz Mattar
+3,1992,Francisco Clavet,Sergi Bruguera
+3,1992,Agustin Garizzio,Manuel Gasbarri
+3,1992,Andreas Lesch,Wojtek Kowalski
+3,1992,Christer Allgardh,Martin Stringari
+3,1992,Alberto Berasategui,Guillermo Perez Roldan
+5,1993,Stefan Edberg,Michael Stich
+4,1993,Achille Margotto,Marco Meneschincheri
+4,1993,David Wheaton,Pete Sampras
+4,1993,Fabian Clementi,Lucas Arnold Ker
+4,1993,Marius Barnard,Fabien Cousin
+4,1993,Zeeshan Ali,Paul Wekesa
+4,1993,Mark Joachim,Adam Skrzypczak
+4,1993,Diego Del Rio,Miguel Pastura
+4,1993,Donnie Isaak,Keith Evans
+4,1993,Marcelo Filippini,Javier Sanchez
+4,1993,Renzo Furlan,Thomas Muster
+4,1993,Joao Cunha Silva,Francisco Roig
+4,1993,Fabrice Santoro,Michael Stich
+4,1993,Eric Amend,Jozsef Krocsko
+4,1993,Andrei Chesnokov,Michael Chang
+4,1993,Jose Antonio Fernandez,Miguel Pastura
+3,1993,Marc Rothchild,Donnie Isaak
+3,1993,Americo Venero Montes,Alejandro Aramburu
+3,1993,Kip Brady,Alexis Hombrecher
+3,1993,Steve Herdoiza,Jaroslav Bulant
+3,1993,Jeff Morneau,Neville Godwin
+3,1993,Colin Beecher,Nuno Marques
+3,1993,Jordi Rodriguez,David Caballero
+3,1993,Massimo Calvelli,Jaroslav Bulant
+3,1993,Roberto Parli,Udo Plamberger
+3,1993,Kim Tiilikainen,Tuomas Ketola
+3,1993,Gerrit Steenkamp,Eyal Ran
+3,1993,Marco Cacopardo,Ty Tucker
+3,1993,Mario Pacheco,Oscar Ortiz
+3,1993,Tetsuya Chaen,Han Cheol Shin
+3,1993,Ignacio Truyol Turrion,Gilles Bastie
+3,1993,Robert Eriksson,Ryan Blake
+3,1993,Leigh Holland,Bryan Jones
+3,1993,Felix Mantilla,Albert Portas
+3,1993,Martijn Bok,Patricio Arnold
+3,1993,Armand Strombach,Igor Kornienko
+3,1993,Roman Ruppenthal,Axel Finnberg
+3,1993,Lorenzo Manta,Patrik Langvardt
+3,1993,Enrique Abaroa,Michael Roberts
+3,1993,Marco Meneschincheri,Davide Sanguinetti
+3,1993,Roland Thornqvist,Vincent Spadea
+3,1993,Oscar Ortiz,Pablo Campana
+3,1993,Paulino Alonso,Gonzalo Fernandez
+3,1993,Miles Maclagan,Andrew Foster
+3,1993,Hiram Silfa,Miguel Tobon
+3,1993,Jacobo Diaz,Alex Calatrava
+3,1993,Sang Hoon Lee,Hyeong Keun Song
+3,1993,Andy Zingman,Hector Moretti
+3,1993,Miguel Pastura,Hernan Gumy
+3,1993,Eddy Bank,Eric Amend
+3,1993,Mark Tjia,Neville Godwin
+3,1993,Paul Garvin,Mario Pacheco
+3,1993,Jan Kodes,Dusan Prchlik
+3,1993,Pablo Minutella,Luis Lobo
+3,1993,Laurence Matthews,Eric Amend
+3,1993,Stelian Gima,Mark Tjia
+3,1993,Stephen Gleeson,Brent Larkham
+3,1993,Jose Alejos,Oscar Martinez Dieguez
+3,1993,Manuel Gasbarri,Achille Margotto
+3,1993,Amos Mansdorf,Stefan Edberg
+3,1993,Hector Moretti,Lucas Arnold Ker
+3,1993,Hector Moretti,Hernan Gumy
+3,1993,Igor Kornienko,Jan Kroslak
+3,1993,Pietro Angelini,Danilo Marcelino
+3,1993,Alex Radulescu,Jeremy Bates
+3,1993,Franco Davin,Renzo Furlan
+3,1993,Roland Burtscher,Viktor Nagy
+3,1993,Alex Corretja,Thomas Muster
+3,1993,Jacco Eltingh,Richey Reneberg
+3,1993,Jonas Svensson,Andrei Medvedev
+3,1993,Michael Stich,Petr Korda
+3,1993,Cedric Pioline,Pete Sampras
+3,1993,Malivai Washington,Pete Sampras
+3,1993,Andrei Cherkasov,Boris Becker
+3,1993,Michael Daniel,Eyal Ran
+3,1993,Vicente Solves,Alex Lopez Moron
+3,1993,Robbie Weiss,Grant Stafford
+3,1993,Otavio Della,Fernando Meligeni
+3,1993,Michael Chang,Jim Courier
+3,1993,Karel Novacek,Michael Stich
+3,1993,Carl Uwe Steeb,Michael Chang
+3,1993,Jaime Yzaga,Alexander Volkov
+3,1993,Javier Sanchez,Jonas Svensson
+3,1993,Dean Cohen,Jonathan Canter
+3,1993,Hidehiko Tanizawa,Eui Jong Chang
+3,1993,Jiu Hua Zhang,Jia Ping Xia
+3,1993,Jia Ping Xia,Peter Tramacchi
+3,1993,Scott Gessner,Torben Theine
+3,1993,Neville Godwin,Andrei Pavel
+3,1993,Kenneth Carlsen,Guillaume Raoux
+3,1993,Alex Obrien,David Wheaton
+3,1993,Mario Visconti,Milen Velev
+3,1993,Andrei Pavel,Bill Barber
+3,1993,Seung Ho Ji,Jae Sik Kim
+3,1993,Paul Kilderry,Heath Denman
+3,1993,Andrei Medvedev,Pete Sampras
+3,1993,Noam Behr,Juan Luis Tati Rascon
+3,1993,Oliver Fernandez,Dirk Dier
+3,1993,Grant Stafford,Patrick Rafter
+3,1993,Todd Martin,Jim Courier
+3,1993,Todd Martin,Wayne Ferreira
+3,1993,Todd Martin,Jaime Yzaga
+3,1993,Karim Alami,Davide Sanguinetti
+3,1993,Andrei Medvedev,Cedric Pioline
+3,1993,Rick Witsken,Mark Quinney
+4,1994,Hernan Colombo Russel,Franco Squillari
+4,1994,Slava Dosedel,Alberto Berasategui
+4,1994,David Wheaton,Michael Chang
+4,1994,Michael Stich,Boris Becker
+4,1994,Jason Stoltenberg,Stefan Edberg
+4,1994,Alberto Berasategui,Sergi Bruguera
+4,1994,Noam Behr,Eyal Erlich
+4,1994,Greg Rusedski,Wayne Ferreira
+4,1994,Lior Mor,Gilad Bloom
+3,1994,Andrew Batie,Alejandro Hernandez
+3,1994,Franco Squillari,Mariano Hood
+3,1994,Ronald Dueller,Filippo Messori
+3,1994,Jacobo Diaz,Juan Luis Tati Rascon
+3,1994,Rafael Serpa Guinazu,Marcelo Charpentier
+3,1994,Marcelo Charpentier,Ernesto Bottiroli
+3,1994,Yaser Zaatini,Oscar Ortiz
+3,1994,James Sekulov,Andrew Ilie
+3,1994,Juan Robinson Gamonal,Pablo Campana
+3,1994,James Sekulov,Allen Belobrajdic
+3,1994,Tom Hand,Andrew Richardson
+3,1994,Steven Downs,Peter Tramacchi
+3,1994,Patricio Donati,Mariano Hood
+3,1994,Francesco Michelotti,Tamer El Sawy
+3,1994,Jose Maria Vicente,Eduardo Nicolas
+3,1994,Nicolas Escude,Galo Blanco
+3,1994,Thomas Perchtold,Andrew Batie
+3,1994,Patrick Rafter,Sergi Bruguera
+3,1994,Marc Kevin Goellner,Sergi Bruguera
+3,1994,Gary Henderson,Tim Henman
+3,1994,Jordi Mas,Alex Calatrava
+3,1994,Andrew Richardson,Nick Gould
+3,1994,Paul Kilderry,Alexander Mronz
+3,1994,Joern Renzenbrink,Jeremy Bates
+3,1994,Roberto Carretero,Jordi Arrese
+3,1994,Thomas Shimada,Clinton Marsh
+3,1994,Eyal Erlich,Gilad Bloom
+3,1994,Patrik Fredriksson,Patrick Mohr
+3,1994,Davide Scala,Daniele Balducci
+3,1994,Adolf Musil,Aleksandar Kitinov
+3,1994,Rodolfo Ramos Paganini,Marcelo Charpentier
+3,1994,Nicolas Sabas,Axel Finnberg
+3,1994,Gonzalo Fernandez,Nicolas Kischkewitz
+3,1994,Danny Erez,Patrik Fredriksson
+3,1994,Bradley Sceney,David Dilucia
+3,1994,Cameron Liggett,Donnie Isaak
+3,1994,Massimo Bertolini,Mose Navarra
+3,1994,Arnd Caspari,Bartlomiej Dabrowski
+3,1994,Federico Lusin,Pier Squillari
+3,1994,Ingo Kroll,Milan Palme
+3,1994,Sulistyo Wibowo,Mahesh Bhupathi
+3,1994,Sandro Della Piana,Herbert Wiltschnig
+3,1994,Stephen Gleeson,Bing Pan
+3,1994,Juan Antonio Marin,Alex Calatrava
+3,1994,Lucas Arnold Ker,Marcelo Charpentier
+3,1994,Sebastian Prieto,Tamer El Sawy
+3,1994,Oscar Burrieza,Carlos Gomez Diaz
+3,1994,David Salvador Estepa,Felix Mantilla
+3,1994,Alex Obrien,Jason Stoltenberg
+3,1994,Nick Weal,Barry Cowan
+3,1994,Sergi Duran,Jordi Mas
+3,1994,Gunter Van Der Veeren,Massimo Bertolini
+3,1994,Stephen Gleeson,James Sekulov
+3,1994,Jonas Bjorkman,Wayne Ferreira
+3,1994,Todd Martin,Andre Agassi
+3,1994,Daniel Vacek,Yevgeny Kafelnikov
+3,1994,Mario Tabares,Marco Osorio
+3,1994,Michael Chang,Pete Sampras
+3,1994,Rodolphe Gilbert,Daniel Vacek
+3,1994,Ruslon Rainov,Fabio Rizzo
+3,1994,Andre Agassi,Pete Sampras
+3,1994,Gilbert Schaller,Emilio Sanchez
+3,1994,Ulf Stenlund,Wojtek Kowalski
+3,1994,Marcelo Filippini,Gilbert Schaller
+3,1994,Petr Korda,Thomas Enqvist
+3,1994,Petr Korda,Pete Sampras
+3,1994,Gilad Bloom,David Skoch
+3,1994,Emilio Sanchez,Alberto Berasategui
+3,1994,Jan Kodes,Emanuel Rasberger
+3,1994,Jairo Velasco,Felix Mantilla
+3,1994,Carlos Di Laura,Tamer El Sawy
+3,1994,Stefan Edberg,Todd Martin
+3,1994,Simon Youl,Jean Philippe Fleurian
+3,1994,Boris Becker,Goran Ivanisevic
+3,1994,Robbie Weiss,Michael Chang
+3,1994,Jordi Arrese,Alberto Berasategui
+3,1994,Peter Lundgren,Mose Navarra
+3,1994,Francisco Clavet,Alberto Berasategui
+3,1994,Gabriel Markus,Francisco Clavet
+3,1994,Nicklas Kulti,Alexander Volkov
+3,1994,Tommy Ho,Shuzo Matsuoka
+3,1994,Todd Martin,Magnus Larsson
+3,1994,Francesco Cina,Javier Molina Peiro
+3,1994,Grant Stafford,Luiz Mattar
+3,1994,Daniele Balducci,Vincent Spadea
+3,1994,Jordi Burillo,Alberto Berasategui
+3,1994,Eyal Ran,Hideki Kaneko
+3,1994,Andrei Medvedev,Guy Forget
+3,1994,Andrei Medvedev,Sergi Bruguera
+3,1994,Daniel Vacek,Pete Sampras
+3,1994,Ola Kristiansson,Nicolas Kischkewitz
+3,1994,Orlin Stanoytchev,Igor Saric
+3,1994,Wayne Ferreira,Jim Courier
+3,1994,Ruben Alvarenga,Marcio Carlsson
+3,1994,Goran Ivanisevic,Boris Becker
+3,1994,Goran Ivanisevic,Pete Sampras
+3,1994,Xavier Daufresne,Javier Sanchez
+3,1994,Magnus Larsson,Pete Sampras
+3,1994,Johan Alven,Patrik Fredriksson
+3,1994,Sergi Bruguera,Andre Agassi
+3,1994,Frank Ofori,Bing Pan
+3,1994,Henrik Holm,Richard Krajicek
+3,1994,Miguel Tobon,Pablo Campana
+3,1994,Michael Brown B395,Allen Belobrajdic
+3,1994,Samir Douat Mbioka,Claude Ngoran
+5,1995,Nelson Aerts,Francisco Costa
+5,1995,Pablo Campana,Nicolas Lapentti
+4,1995,Arnaud Boetsch,Stefan Edberg
+4,1995,Jim Courier,Michael Chang
+4,1995,Jim Courier,Pete Sampras
+4,1995,Sebastian Prieto,Miguel Pastura
+4,1995,Bernardo Mota,Bruno Fragoso
+4,1995,Julian Alonso,Alberto Martin
+4,1995,Carlos Costa,Thomas Muster
+4,1995,Americo Venero Montes,Nicolas Lapentti
+4,1995,Goran Ivanisevic,Thomas Enqvist
+4,1995,Steven Downs,Mark Draper
+4,1995,Anders Jarryd,Greg Rusedski
+4,1995,Alexander Volkov,Yevgeny Kafelnikov
+4,1995,Sergi Bruguera,Thomas Muster
+4,1995,Mats Wilander,Andre Agassi
+4,1995,Oscar Serrano,Juan Carlos Baguena
+4,1995,Todd Martin,Pete Sampras
+4,1995,Cristiano Testa,Nelson Aerts
+3,1995,Nicolas Sabas,Bernardo Mota
+3,1995,Fabien Cousin,Daniel Courcol
+3,1995,Olli Leppanen,Kim Tiilikainen
+3,1995,Ofer Sela,Filippo Messori
+3,1995,Kobi Ziv,Wolfgang Schranz
+3,1995,Peter Tramacchi,Scott Draper
+3,1995,Chad Rosser,Brian Macphie
+3,1995,Kenneth Carlsen,Paul Haarhuis
+3,1995,Mauro Barman,Nicolas Lapentti
+3,1995,Ciprian Petre Porumb,George Cosac
+3,1995,Vince Mellino,Vladimir Gabrichidze
+3,1995,Alberto Berasategui,Goran Ivanisevic
+3,1995,Pedro Leon,Maurice Ruah
+3,1995,German Puentes,Alberto Martin
+3,1995,Jon Hedman,Tapio Nurminen
+3,1995,Nicolas Kischkewitz,Filippo Messori
+3,1995,Michal Jordan,Bartlomiej Dabrowski
+3,1995,Dede Suhendar Dinata,Bonit Wiryawan
+3,1995,Clive Ullyett,Robbie Koenig
+3,1995,Robbie Koenig,George Bastl
+3,1995,Tal Harel Ben Simon,Lior Dahan
+3,1995,Nicolas Kischkewitz,Nuno Marques
+3,1995,Patricio Donati,Francisco Ruiz
+3,1995,Mehdi Tahiri,Ignacio Truyol Turrion
+3,1995,Martin Hromec,Yahiya Doumbia
+3,1995,Mark Philippoussis,Marcos Ondruska
+3,1995,Vladimir Platenik,Rainer Falenti
+3,1995,Ashley Naumann,Jaroslav Bulant
+3,1995,Jimmy Jackson,John Sullivan
+3,1995,Andrew Richardson,Luke Milligan
+3,1995,Damian Furmanski,Miguel Pastura
+3,1995,Yevgeny Kafelnikov,Goran Ivanisevic
+3,1995,Cyril Buscaglione,Yahiya Doumbia
+3,1995,Bernd Karbacher,Thomas Muster
+3,1995,Bjorn Jacob,Juan Pino
+3,1995,Andy Zingman,Sebastian Prieto
+3,1995,Vincenzo Carlone,Fabio Beraldo
+3,1995,Jonathan Erlich,Nir Welgreen
+3,1995,Gonzalo Fernandez,Hector Moretti
+3,1995,Saku Timonen,Nicklas Utgren
+3,1995,Antonio Couvert,Andy Zingman
+3,1995,Peter Kuhn,Robbie Koenig
+3,1995,Egberto Caldas,Francisco Costa
+3,1995,Hector Moretti,Filippo Messori
+3,1995,Francisco Costa,Francisco Ruiz
+3,1995,Andres Schneiter,Martijn Belgraver
+3,1995,Mariano Sanchez,Armando Perez
+3,1995,Jean Francois Bachelot,Olivier Mutis
+3,1995,Jurek Stasiak,Patrick Mohr
+3,1995,Nick Gould,Chris Haggard
+3,1995,Elia Grossi,Guillaume Marx
+3,1995,Nicklas Timfjord,Peter Lundgren
+3,1995,Miguel Pastura,Guillermo Canas
+3,1995,Konstantinos Economidis,Ofer Sela
+3,1995,Alberto Martin,Juan Antonio Marin
+3,1995,Alberto Martin,Juan Luis Tati Rascon
+3,1995,Rainer Schuettler,Sascha Bandermann
+3,1995,David Miketa,Vaclav Roubicek
+3,1995,Jan Weinzierl,Martin Rodriguez
+3,1995,Jonathan Erlich,Viktor Nagy
+3,1995,David Caballero,Alberto Martin
+3,1995,Patrick Rafter,Stefan Edberg
+3,1995,Wayne Ferreira,Andre Agassi
+3,1995,Orlin Stanoytchev,Todd Larkham
+3,1995,Francisco Clavet,Thomas Muster
+3,1995,Pete Sampras,Andre Agassi
+3,1995,Byron Black,Todd Martin
+3,1995,Juan Pino,Nicolas Lapentti
+3,1995,Michael Chang,Thomas Enqvist
+3,1995,Michael Chang,Thomas Muster
+3,1995,Michael Chang,Jim Courier
+3,1995,Gianluca Pozzi,Renzo Furlan
+3,1995,Richey Reneberg,Andrei Medvedev
+3,1995,Richey Reneberg,Thomas Enqvist
+3,1995,David Wheaton,Thomas Enqvist
+3,1995,David Wheaton,Yevgeny Kafelnikov
+3,1995,Jakob Hlasek,Yevgeny Kafelnikov
+3,1995,Boris Becker,Pete Sampras
+3,1995,Emilio Sanchez,Alberto Berasategui
+3,1995,Karel Novacek,Alexander Volkov
+3,1995,Mark Woodforde,Jim Courier
+3,1995,Mark Woodforde,Todd Woodbridge
+3,1995,Marcelo Filippini,Alberto Berasategui
+3,1995,Carl Uwe Steeb,Magnus Gustafsson
+3,1995,Juan Carlos Baguena,Albert Portas
+3,1995,Markus Zillner,Milen Velev
+3,1995,Massimo Ardinghi,Marcello Craca
+3,1995,Paul Haarhuis,Richard Krajicek
+3,1995,Johan Alven,Victor Sendin
+3,1995,Richard Krajicek,Boris Becker
+3,1995,Daniel Vacek,Wayne Ferreira
+3,1995,Andrei Medvedev,Arnaud Boetsch
+3,1995,Andrea Gaudenzi,Thomas Muster
+3,1995,Stephane Sansoni,Stephane Simian
+3,1995,Marcos Ondruska,Goran Ivanisevic
+3,1995,Jerome Loustalot,Oleg Ogorodov
+3,1995,Kentaro Masuda,Hyeong Keun Song
+3,1995,Miguel Tobon,Jaime Cortes
+3,1995,Maurice Ruah,Alejandro Hernandez
+3,1995,Peter Hajek,Rainer Schuettler
+3,1995,Martin Sinner,David Prinosil
+3,1995,Malivai Washington,Andrei Medvedev
+3,1995,Malivai Washington,Andre Agassi
+3,1995,Victor Lopez Moron,Salvador Navarro
+3,1995,Owen Casey,Richard Schmidt
+3,1995,Cedric Pioline,Yevgeny Kafelnikov
+3,1995,Mario Carnevale,Michael Kohlmann
+3,1995,Thomas Enqvist,Pete Sampras
+3,1995,Renzo Furlan,Marcelo Rios
+3,1995,Slava Dosedel,Andrea Gaudenzi
+3,1995,Sergio Cortes,Jacobo Diaz
+3,1995,Sebastian Weisz,Attila Savolt
+6,1996,Harel Levy,Raviv Weidenfeld
+5,1996,Raviv Weidenfeld,Eyal Erlich
+5,1996,Jim Thomas,Jeff Salzenstein
+5,1996,Sebastian Prieto,Martin Stringari
+4,1996,Mark Joachim,Gabrio Castrichella
+4,1996,Jonathan Erlich,Eyal Erlich
+4,1996,Leonardo Olguin,Martin Stringari
+4,1996,Marzio Martelli,Massimo Valeri
+4,1996,Leigh Holland,Jamie Holmes
+4,1996,Filippo Messori,Fabrice Santoro
+4,1996,Jan Michael Gambill,Cecil Mamiit
+4,1996,Philippe Moggio,Marco Osorio
+4,1996,Amir Hadad,Eyal Erlich
+4,1996,Daniel Vacek,Wayne Ferreira
+4,1996,Alejandro Aramburu,Martin Stringari
+3,1996,Jean Demeroutis,Hyung Taik Lee
+3,1996,Nicolas Kiefer,Jens Knippschild
+3,1996,Martin Hromec,Udo Plamberger
+3,1996,Gilles Bastie,Guillaume Marx
+3,1996,Gustavo Cavallaro,Gaston Gaudio
+3,1996,Galo Blanco,Alberto Berasategui
+3,1996,Christian Wall,Nenad Zimonjic
+3,1996,Radovan Chrz,Radek Stepanek
+3,1996,Thomas Perchtold,Michael Sell
+3,1996,Galo Blanco,Salvador Navarro
+3,1996,Daniel Fiala,Martijn Belgraver
+3,1996,Felix Mantilla,Filip Dewulf
+3,1996,Ronan Barbier,John Van Lottum
+3,1996,Hernan Gumy,Albert Costa
+3,1996,Ronan Barbier,Antony Dupuis
+3,1996,Lars Burgsmuller,Johan Van Herck
+3,1996,Lior Dahan,Kobi Ziv
+3,1996,Christian Vinck,Patricio Arnold
+3,1996,Chris Tontz,Sebastian Prieto
+3,1996,Federico Dondo,Daniel Orsanic
+3,1996,Juan Morgenstern,Eduardo Medica
+3,1996,Ramon Delgado,Luis Adrian Morejon
+3,1996,Martin Verkerk,Cyril Buscaglione
+3,1996,Tim Henman,Yevgeny Kafelnikov
+3,1996,Ricardo Rosas,Juan Pino
+3,1996,Iztok Bozic,Olivier Soules
+3,1996,Vaughan Snyman,Oren Motevassel
+3,1996,Adrian Voinea,Goran Ivanisevic
+3,1996,Paolo Tabini,Igor Gaudi
+3,1996,Giorgio Galimberti,Martijn Bok
+3,1996,Boris Borgula,Giorgio Galimberti
+3,1996,Sjeng Schalken,Carlos Moya
+3,1996,Antonio Couvert,Gaston Gaudio
+3,1996,Felix Mantilla,Albert Costa
+3,1996,Kai Becker,Stefano Galvani
+3,1996,Mark Draper,Mark Merklein
+3,1996,Nicolas Perrein,Jerome Potier
+3,1996,Hyung Taik Lee,Yong Il Yoon
+3,1996,Javier Perez Vazquez,Alfonso Honrado Comas
+3,1996,James Sekulov,Steven Downs
+3,1996,Richard Brostowicz,Juan Pino
+3,1996,Mark Draper,Doug Flach
+3,1996,Alfonso Honrado Comas,Francisco Fogues
+3,1996,Jurek Stasiak,Allen Belobrajdic
+3,1996,Jan Gruninger,Martin Hromec
+3,1996,Nicolas Thomann,Sandro Della Piana
+3,1996,Antonio Gordon,German Puentes
+3,1996,Tomas Behrend,Burkhard Scholz
+3,1996,Charlie Singer,Andrew Foster
+3,1996,Elia Grossi,Fabio Beraldo
+3,1996,Ricardo Rosas,Erik Casas
+3,1996,Mark Nielsen,Sule Ladipo
+3,1996,Juan Morgenstern,Gaston Gaudio
+3,1996,Andrei Stoliarov,Raviv Weidenfeld
+3,1996,Mihail Andreev,Nicolas Coutelot
+3,1996,George Bastl,Alexandre Strambini
+3,1996,Mathias Hellstrom,Giorgio Galimberti
+3,1996,Tetsuya Chaen,Gouichi Motomura
+3,1996,Ivan Vajda,Stefan Koubek
+3,1996,Steven Randjelovic,Vince Mellino
+3,1996,Noam Okun,Nir Welgreen
+3,1996,Paul Goldstein,Mark Merklein
+3,1996,Arvind Parmar,Chris Wilkinson
+3,1996,Dominik Hrbaty,Marcello Craca
+3,1996,Francisco Fogues,Jose Alejos
+3,1996,Dominik Hrbaty,Juan Albert Viloca Puig
+3,1996,Olivier Malcor,Gerard Solves
+3,1996,Glenn Weiner,Chris Pressley
+3,1996,Gaston Gaudio,Eduardo Medica
+3,1996,Julian Alonso,Marco Meneschincheri
+3,1996,Ricardo Schlachter,Marcio Carlsson
+3,1996,Alexander Shvec,Igor Tchelychev
+3,1996,Mariano Hood,Edwin Kempes
+3,1996,Colin Beecher,Nicola Bruno
+3,1996,Francisco Ruiz,Americo Venero Montes
+3,1996,Carlos Moya,Thomas Muster
+3,1996,Francisco Costa,Martin Stringari
+3,1996,Thomas Larsen,Bertrand Madsen
+3,1996,Gakuji Okada,Hideki Kaneko
+3,1996,Albert Portas,Felix Mantilla
+3,1996,Marcos Daniel,Emanuel Couto
+3,1996,Julian Knowle,Luis Herrera
+3,1996,Cristiano Testa,Alejandro Aramburu
+3,1996,David Skoch,Marco Meneschincheri
+3,1996,Chad Clark,Daniel Orsanic
+3,1996,Thomas Buchmayer,Bartlomiej Dabrowski
+3,1996,Chad Clark,Glenn Weiner
+3,1996,Ruben Gajardo,Sergio Cortes
+3,1996,Gonzalo Rodriguez,Davide Scala
+3,1996,Francisco Clavet,Yevgeny Kafelnikov
+3,1996,Fabio Beraldo,Gianluca Luddi
+3,1996,Francisco Clavet,Thomas Muster
+3,1996,Vincenzo Carlone,Nicolas Kischkewitz
+3,1996,Byron Black,Thomas Enqvist
+3,1996,Wolfgang Tusch,Edwin Kempes
+3,1996,Byron Black,Yevgeny Kafelnikov
+3,1996,Tjahjono Tjahjono,Martijn Bok
+3,1996,Michael Chang,Pete Sampras
+3,1996,Petr Kovacka,Andrei Stoliarov
+3,1996,Martin Blackman,Mark Merklein
+3,1996,Silvio Scaiola,Carlos Gomez Diaz
+3,1996,Jason Stoltenberg,Todd Martin
+3,1996,Robert Kraus,Markus Zillner
+3,1996,Todd Woodbridge,Wayne Ferreira
+3,1996,Diego Nargiso,Tomas Nydahl
+3,1996,Richey Reneberg,Pete Sampras
+3,1996,Andre Agassi,Michael Chang
+3,1996,Andre Agassi,Pete Sampras
+3,1996,Lars Anders Wahlgren,Grant Doyle
+3,1996,Marcelo Filippini,Alberto Berasategui
+3,1996,Mark Woodforde,Pete Sampras
+3,1996,Franco Davin,Roberto Jabali
+3,1996,Thomas Muster,Stefan Edberg
+3,1996,Jakob Hlasek,Pete Sampras
+3,1996,Alexander Volkov,Andrei Medvedev
+3,1996,Goran Ivanisevic,Pete Sampras
+3,1996,Magnus Larsson,Jakob Hlasek
+3,1996,Mark Knowles,Sebastien Lareau
+3,1996,Nicolas Escude,Jean Baptiste Perlant
+3,1996,Mehdi Tahiri,Lior Mor
+3,1996,Mehdi Tahiri,Eyal Erlich
+3,1996,Gerard Solves,Thierry Champion
+3,1996,Gouichi Motomura,Satoshi Iwabuchi
+3,1996,Hendrik Dreekmann,Cedric Pioline
+3,1996,Suwandi Suwandi,Yong Il Yoon
+3,1996,Gaurav Natekar,Raviv Weidenfeld
+3,1996,Yevgeny Kafelnikov,Goran Ivanisevic
+3,1996,Francisco Rodriguez,Francisco Costa
+3,1996,Mikael Stadling,Alexandre Strambini
+3,1996,Jordi Mas,Ricardo Rubio
+3,1996,Sergi Bruguera,Cedric Pioline
+3,1996,Renzo Furlan,Todd Martin
+3,1996,Renzo Furlan,Wayne Ferreira
+3,1996,Jan Siemerink,Tim Henman
+3,1996,Jan Siemerink,Sebastien Lareau
+3,1996,Todd Martin,Pete Sampras
+3,1996,Filip Dewulf,Goran Ivanisevic
+3,1996,Brian Dunn,Doug Flach
+3,1996,Alex Corretja,Yevgeny Kafelnikov
+3,1996,Bohdan Ulihrach,Goran Ivanisevic
+3,1996,Andres Schneiter,Martin Garcia
+5,1997,Stefano Cobolli,Elia Grossi
+5,1997,Patrick Rafter,Pete Sampras
+4,1997,Charles Auffray,Julien Chauvin
+4,1997,Francisco Clavet,Alex Corretja
+4,1997,Paul Hanley,Jurek Stasiak
+4,1997,Todd Woodbridge,Byron Black
+4,1997,Fabio Beraldo,Stefano Cobolli
+4,1997,Bohdan Ulihrach,Goran Ivanisevic
+4,1997,Grant Silcock,Joseph Sirianni
+4,1997,Jonas Bjorkman,Pete Sampras
+4,1997,Marcos Daniel,Ricardo Schlachter
+4,1997,Alex Lopez Moron,Albert Portas
+4,1997,David Caballero,Albert Portas
+4,1997,German Puentes,Alex Calatrava
+4,1997,Alex Lopez Moron,Stefan Koubek
+4,1997,Hyung Taik Lee,Yong Il Yoon
+4,1997,Alex Lopez Moron,Alex Calatrava
+4,1997,Nelson Aerts,Erick Gomes
+3,1997,Juan Antonio Saiz Panadero,Jordi Mas
+3,1997,Kim Tiilikainen,Tomas Zib
+3,1997,Daniel Navas,David Sanchez
+3,1997,Magnus Norman,Jason Stoltenberg
+3,1997,Vladimir Platenik,Vladimir Voltchkov
+3,1997,Yevgeny Kafelnikov,Pete Sampras
+3,1997,Rob Chess,Christophe Rochus
+3,1997,Roland Burtscher,Gerald Mandl
+3,1997,Fabrizio Albani,Silvio Scaiola
+3,1997,Jordi Mas,Alex Lopez Moron
+3,1997,Rodrigo Cerdera,Agustin Calleri
+3,1997,Greg Rusedski,Goran Ivanisevic
+3,1997,Zoltan Nagy,Marc Herter
+3,1997,Greg Rusedski,Patrick Rafter
+3,1997,Damian Furmanski,Federico Browne
+3,1997,Greg Rusedski,Pete Sampras
+3,1997,Jong Sam Chung,Hyung Taik Lee
+3,1997,Dmitri Tomashevich,Ivica Ancic
+3,1997,Jan Hermansson,Leos Friedl
+3,1997,Jacobo Diaz,Alex Lopez Moron
+3,1997,Oscar Martinez Dieguez,Alex Calatrava
+3,1997,Nicolas Lapentti,Francisco Clavet
+3,1997,Egberto Caldas,Paulo Carvallo
+3,1997,Eduardo Nicolas,German Puentes
+3,1997,Paul Robinson R261,Jean Baptiste Perlant
+3,1997,Sjeng Schalken,Gustavo Kuerten
+3,1997,Santiago Ventura,Patrick Sommer
+3,1997,Tetsuya Chaen,Jean Francois Bachelot
+3,1997,Marcos Roy Girardi,Jose Imaz Ruiz
+3,1997,Nick Gould,Paul Hand
+3,1997,Marian Leysek,Tomas Catar
+3,1997,Nick Gould,Nuno Marques
+3,1997,Alistair Hunt,Mark Nielsen
+3,1997,Tetsuya Chaen,Andrian Raturandang
+3,1997,Matteo Colla,Achille Margotto
+3,1997,Tapio Nurminen,Milen Velev
+3,1997,Sergei Alexandrov,Dmitri Tomashevich
+3,1997,Tapio Nurminen,Yahiya Doumbia
+3,1997,Keith From,Marq Foster
+3,1997,Jonathan Erlich,Jean Francois Bachelot
+3,1997,Zlatko Stupavsky,Ivica Ancic
+3,1997,Ramon Delgado,Fernando Meligeni
+3,1997,Rodolphe Mouveau,Yahiya Doumbia
+3,1997,David Prinosil,Magnus Norman
+3,1997,Gregory Bauwens,Raemon Sluiter
+3,1997,Joao Cunha Silva,Tomas Behrend
+3,1997,Chris Groer,David Witt
+3,1997,James Greenhalgh,Steven Downs
+3,1997,Guillermo Platel,Branislav Galik
+3,1997,Jim Courier,Thomas Muster
+3,1997,Remi Dupre,Sebastien De Chaunac
+3,1997,Jeff Tarango,Marcelo Rios
+3,1997,Carlos Custodio,Adriano Ferreira
+3,1997,Lars Anders Wahlgren,Allen Belobrajdic
+3,1997,Gianluca Luddi,Achille Margotto
+3,1997,Brett Steven,Johan Van Herck
+3,1997,Gianluca Luddi,Elia Grossi
+3,1997,Marcelo Filippini,Slava Dosedel
+3,1997,Boris Borgula,Tomas Catar
+3,1997,Javier Sanchez,Francisco Clavet
+3,1997,Antonio Couvert,Agustin Calleri
+3,1997,Petr Korda,Yevgeny Kafelnikov
+3,1997,Javier Perez Vazquez,Daniel Navas
+3,1997,Mark Woodforde,Patrick Rafter
+3,1997,Javier Perez Vazquez,German Puentes
+3,1997,Oren Motevassel,Wesley Whitehouse
+3,1997,Ivan Rodrigo,Diego Hipperdinger
+3,1997,Jose Imaz Ruiz,Alex Lopez Moron
+3,1997,Andrea Capodimonte,Igor Saric
+3,1997,Thomas Muster,Pete Sampras
+3,1997,Pablo Bianchi,Hector Moretti
+3,1997,Pete Sampras,Magnus Larsson
+3,1997,Martin Hromec,Yahiya Doumbia
+3,1997,Marc Kevin Goellner,Albert Costa
+3,1997,Daniel Melo,Joao Zwetsch
+3,1997,Carlos Costa,Alberto Berasategui
+3,1997,Julien Boutter,Jean Francois Bachelot
+3,1997,Magnus Larsson,Marcelo Rios
+3,1997,Oscar Serrano,David Salvador Estepa
+3,1997,Alex Obrien,Sargis Sargsian
+3,1997,Marko Tkalec,Iztok Bozic
+3,1997,Alex Obrien,Petr Korda
+3,1997,Diego Hipperdinger,Alex Calatrava
+3,1997,Fernando Meligeni,Felix Mantilla
+3,1997,Kirill Ivanov Smolensky,Artem Derepasko
+3,1997,Andrei Medvedev,Michael Chang
+3,1997,Petr Kralert,Tomas Zib
+3,1997,Reinhard Wawra,Markus Hipfl
+3,1997,Julien Chauvin,Regis Lavergne
+3,1997,Ryuso Tsujino,Jean Michel Pequery
+3,1997,Salvador Navarro,Albert Portas
+3,1997,Noam Behr,Amir Hadad
+3,1997,Davide Scala,Dinu Pescariu
+3,1997,David Witt,Michael Sell
+3,1997,Lazaro Navarro Batles,Marco Osorio
+3,1997,Grant Stafford,Patrick Rafter
+3,1997,Thomas Larsen,Dusan Vemic
+3,1997,Juan Luis Tati Rascon,Stefan Koubek
+3,1997,Alberto Martin,Albert Portas
+3,1997,Alejandro Aramburu,Nelson Aerts
+3,1997,Victor Sendin,Juan Balcells
+3,1997,Carlos Costa,Nicolas Lapentti
+3,1997,Victor Sendin,Alex Calatrava
+3,1997,Borut Urh,Wolfgang Schranz
+3,1997,Cecil Mamiit,Martin Sinner
+3,1997,Stefano Galvani,Federico Browne
+3,1997,Adolf Musil,Dusan Vemic
+3,1997,Taylor Dent,Jim Thomas
+3,1997,Michael Russell,Mike Bryan
+3,1997,Gregory Carraz,Jerome Hanquez
+3,1997,Gergely Kisgyorgy,Jiri Vanek
+3,1997,Lior Mor,Jonathan Erlich
+3,1997,Kristian Capalik,Michael Russell
+3,1997,Yaoki Ishii,Mariano Sanchez
+3,1997,Leos Friedl,Tomas Zib
+3,1997,Leos Friedl,Michal Tabara
+3,1997,Andy Fahlke,Julien Varlet
+3,1997,Artem Derepasko,Vladimir Voltchkov
+3,1997,Jim Thomas,Lorenzo Manta
+3,1997,Hugo Armando,Diego Moyano
+3,1997,Agustin Calleri,Sebastian Prieto
+3,1997,Rodolphe Cadart,Nicolas Escude
+3,1997,Paulo Carvallo,Daniel Melo
+3,1997,Michael Hill,Jim Thomas
+3,1997,Justin Bower,Valentin Sanon
+3,1997,Ricardo Schlachter,Marcio Carlsson
+3,1997,Juan Balcells,Jose Imaz Ruiz
+3,1997,Juan Ignacio Chela,Egberto Caldas
+6,1998,Damien Roberts,Jeff Coetzee
+5,1998,Todd Martin,Pete Sampras
+5,1998,Sergi Duran,German Puentes
+5,1998,Gianluca Pozzi,Byron Black
+5,1998,Gregory Carraz,Antony Dupuis
+4,1998,Tapio Nurminen,Tommi Lenho
+4,1998,Daniel Melo,Gaston Gaudio
+4,1998,Ivo Karlovic,Zeljko Krajan
+4,1998,Leandro Rosa,Paulo Taicher
+4,1998,Henrik Andersson,Justin Bower
+4,1998,Sebastian Prieto,Martin Rodriguez
+4,1998,Kepler Orellana,Timothy Aerts
+4,1998,Pieter Joubert,Damien Roberts
+3,1998,Magnus Norman,Yevgeny Kafelnikov
+3,1998,Roberto Menendez,Gorka Fraile
+3,1998,Johan Van Herck,Davide Sanguinetti
+3,1998,Giuseppe Montenet,Daniele Balducci
+3,1998,Julian Knowle,Ulrich Seetzen
+3,1998,Marcello Wowk,Antony Dupuis
+3,1998,Alex Corretja,Carlos Moya
+3,1998,Roman Smotlak,Petr Kralert
+3,1998,Yevgeny Kafelnikov,Richard Krajicek
+3,1998,Daniele Ceraudo,Filippo Volandri
+3,1998,Hendrik Dreekmann,Marcelo Rios
+3,1998,Mariano Campos,Daniel Melo
+3,1998,German Puentes,Eduardo Nicolas
+3,1998,Pedro Canovas,Emilio Viuda Hernandez
+3,1998,Gerard Solves,Juan Antonio Marin
+3,1998,Todd Meringoff,Teo Susnjak
+3,1998,Jozsef Krocsko,Kornel Bardoczky
+3,1998,Zoltan Nagy,Gergely Kisgyorgy
+3,1998,German Puentes,Oscar Serrano
+3,1998,Zoltan Nagy,Petr Dezort
+3,1998,Albert Portas,Francisco Clavet
+3,1998,James Davidson,Luke Milligan
+3,1998,Hicham Arazi,Patrick Rafter
+3,1998,Leigh Holland,James Sekulov
+3,1998,Karol Kucera,Pete Sampras
+3,1998,Leigh Holland,Paul Hanley
+3,1998,Thomas Johansson,Yevgeny Kafelnikov
+3,1998,Fredrik Loven,Patrik Fredriksson
+3,1998,Vincent Spadea,Marcelo Rios
+3,1998,Mariano Campos,Sergio Roitman
+3,1998,Alexander Reichel,Mike Mather
+3,1998,Simon Blanc,Jonathan Erlich
+3,1998,German Lopez,Emilio Viuda Hernandez
+3,1998,Simon Blanc,Jean Michel Pequery
+3,1998,Eyal Ran,Takao Suzuki
+3,1998,Chris Rae,Paul Hanley
+3,1998,Gaston Etlis,Agustin Calleri
+3,1998,Riki Ishigami,Akira Matsushita
+3,1998,Marcelo Filippini,Thomas Muster
+3,1998,Michael White,Wynn Criswell
+3,1998,Magnus Gustafsson,Patrick Rafter
+3,1998,Diego Palmeiro,Yuri Schukin
+3,1998,Jeff Tarango,Patrick Rafter
+3,1998,Mario Munoz Bejarano,Gabriel Trujillo Soler
+3,1998,Mario Rincon,Hermes Gamonal
+3,1998,Mark Thompson,Mark Draper
+3,1998,Paul Haarhuis,Jeff Tarango
+3,1998,Chris Rae,Joseph Sirianni
+3,1998,Marc Rosset,Greg Rusedski
+3,1998,Glenn Knox,Jaymon Crabb
+3,1998,Todd Woodbridge,Todd Martin
+3,1998,Miguel Miranda,Hector Moretti
+3,1998,Goran Ivanisevic,Jan Siemerink
+3,1998,Tate Roberts,Mark Draper
+3,1998,Guillaume Raoux,Karol Kucera
+3,1998,Vasco Goncalves,Nuno Marques
+3,1998,Thomas Enqvist,Pete Sampras
+3,1998,Raul Valdes,Mariano Campos
+3,1998,Fabrice Santoro,Tommy Haas
+3,1998,Javier Perez Vazquez,Victor Sendin
+3,1998,Fabrice Santoro,Thomas Johansson
+3,1998,Matteo Colla,Ivan Beros
+3,1998,Martin Damm Sr,Patrick Rafter
+3,1998,Josh Tuckfield,Joseph Sirianni
+3,1998,Thierry Guardiola,Bob Bryan
+3,1998,Leonardo Azzaro,Giuseppe Montenet
+3,1998,Alexander Reichel,Ville Liukko
+3,1998,Emilio Viuda Hernandez,Victor Sendin
+3,1998,Eduardo Nicolas,German Puentes
+3,1998,Alessio Di Mauro,Florian Allgauer
+3,1998,Mark Draper,Toby Mitchell
+3,1998,Franz Stauder,Enzo Artoni
+3,1998,Davide Scala,Alberto Martin
+3,1998,Davide Scala,Martin Rodriguez
+3,1998,Luis Horna,Hector Moretti
+3,1998,Jan Frode Andersen,Thomas Larsen
+3,1998,Alberto Martin,Orlin Stanoytchev
+3,1998,Juan Antonio Marin,Andrea Gaudenzi
+3,1998,Jan Michael Gambill,Andre Agassi
+3,1998,Mariano Zabaleta,Younes El Aynaoui
+3,1998,Carlos Moya,Gustavo Kuerten
+3,1998,Jan Weinzierl,Oscar Serrano
+3,1998,Martin Rodriguez,Younes El Aynaoui
+3,1998,Alex Lopez Moron,Christian Ruud
+3,1998,Ivan Navarro,Gorka Fraile
+3,1998,Kirill Ivanov Smolensky,Igor Kunitsyn
+3,1998,Oscar Serrano,Juan Luis Tati Rascon
+3,1998,Lucas Arnold Ker,Mariano Puerta
+3,1998,Eduardo Medica,Gaston Gaudio
+3,1998,Paul Hanley,Peter Clarke
+3,1998,Nicolas Todero,Bob Bryan
+3,1998,Ruben Ramirez Hidalgo,Carlos Castellanos
+3,1998,Javier Garcia Sintes,Carlos Castellanos
+3,1998,Vasilis Mazarakis,Yahiya Doumbia
+3,1998,Jeff Coetzee,Edwin Kempes
+3,1998,Dimitri Mazur,Timur Ganiev
+3,1998,Louis Vosloo,Jeff Coetzee
+3,1998,Denis Golovanov,Gregory Carraz
+3,1998,Juan Giner,Jose Maria Vicente
+3,1998,Thomas Blake,Matthew Breen
+3,1998,Arvind Parmar,Martin Lee
+3,1998,Hector Moretti,Eduardo Medica
+3,1998,Juan Carlos Ferrero,Sergi Duran
+3,1998,Paul Hanley,Toby Mitchell
+3,1998,Lior Mor,Harel Levy
+6,1999,Matias Oneille,Rodrigo Cerdera
+5,1999,Federico Luzzi,Stefano Tarallo
+4,1999,Andre Agassi,Pete Sampras
+4,1999,Juan Giner,Manuel Sala
+4,1999,Jan Michael Gambill,Richard Krajicek
+4,1999,Gaston Gaudio,Hernan Gumy
+4,1999,Glenn Knox,Peter Clarke
+4,1999,Emin Agaev,Marq Foster
+4,1999,Lior Dahan,Lior Mor
+4,1999,Stefan Pircher,Riccardo Ciruolo
+3,1999,Jan Weinzierl,German Puentes
+3,1999,Rafael Serpa Guinazu,Martin Vassallo Arguello
+3,1999,Yevgeny Kafelnikov,Andre Agassi
+3,1999,Thiemo Maier,Herbert Wiltschnig
+3,1999,Bohdan Ulihrach,Gustavo Kuerten
+3,1999,Rodrigo Cerdera,Diego Veronelli
+3,1999,German Puentes,Eduardo Nicolas
+3,1999,Nitten Kirrtane,Srinath Prahlad
+3,1999,Hicham Arazi,Albert Costa
+3,1999,Donavan September,Nicholas Chisholm
+3,1999,Sjeng Schalken,Gustavo Kuerten
+3,1999,Vladimir Platenik,Borut Urh
+3,1999,Alex Calatrava,Orlin Stanoytchev
+3,1999,Alberto Banus Sado,Santiago Ventura
+3,1999,Jimy Szymanski,Andre Sa
+3,1999,Philippe Pasquier,Jean Michel Pequery
+3,1999,Alex Calatrava,Juan Ignacio Chela
+3,1999,Rafael Serpa Guinazu,Marcos Daniel
+3,1999,Jacobo Diaz,Gaston Gaudio
+3,1999,Patricio Rudi,Ignacio Gonzalez King
+3,1999,Nicolas Kiefer,Greg Rusedski
+3,1999,Luka Kutanjac,Ivan Beros
+3,1999,Federico Browne,David Miketa
+3,1999,Anton Kokurin,Artem Derepasko
+3,1999,Jan Kroslak,Jonas Bjorkman
+3,1999,Per Thornadtsson,Olivier Patience
+3,1999,Scott Draper,Greg Rusedski
+3,1999,Shivshanker Kanbargimath,Srinath Prahlad
+3,1999,Nicolas Massu,Hernan Gumy
+3,1999,Gregory Girault,Jerome Hanquez
+3,1999,Jacobo Diaz,Karim Alami
+3,1999,Jesco Renner,Pavel Snobel
+3,1999,Patrick Rafter,Nicolas Kiefer
+3,1999,Daniel Caracciolo,Melle Van Gemerden
+3,1999,Mark Woodforde,Lleyton Hewitt
+3,1999,Danijel Kruslin,Jan Hermansson
+3,1999,Luis Adrian Morejon,Nicolas Massu
+3,1999,Juraj Hasko,Pavel Snobel
+3,1999,Gustavo Kuerten,Andre Agassi
+3,1999,Angel Jose Martin,Francisco Fogues
+3,1999,Joao Cunha Silva,Daniel Elsner
+3,1999,Mario Munoz Bejarano,Javier Garcia Sintes
+3,1999,Gilbert Schaller,Nuno Marques
+3,1999,Martin Peyrot,Jose Acasuso
+3,1999,Gianluca Pozzi,Marc Rosset
+3,1999,Anthony Maublanc,Rodolphe Cadart
+3,1999,Diego Nargiso,Ville Liukko
+3,1999,Paolo Lorenzi,Andy Fahlke
+3,1999,Agustin Garizzio,Diego Moyano
+3,1999,Charles Edouard Maria,Guillaume Marx
+3,1999,Todd Woodbridge,John Van Lottum
+3,1999,Diego Junqueira,Rodrigo Cerdera
+3,1999,Jonas Bjorkman,Yevgeny Kafelnikov
+3,1999,Guillermo Canas,Gaston Gaudio
+3,1999,Goran Ivanisevic,Hicham Arazi
+3,1999,Ivan Navarro,Ruben Ramirez Hidalgo
+3,1999,Thomas Enqvist,Yevgeny Kafelnikov
+3,1999,Nikolay Davydenko,Jan Weinzierl
+3,1999,Karim Alami,Tim Henman
+3,1999,Oliver Marach,Herbert Wiltschnig
+3,1999,Jan Siemerink,Nicolas Lapentti
+3,1999,Paulo Carvallo,Adrian Garcia
+3,1999,Todd Martin,Yevgeny Kafelnikov
+3,1999,Wei Jen Cheng,Yoshinobu Tanaka
+3,1999,Andrea Gaudenzi,Fernando Vicente
+3,1999,Igor Kornienko,Nikolay Davydenko
+3,1999,Thierry Guardiola,Olivier Mutis
+3,1999,Jan Hernych,Oliver Marach
+3,1999,Daniel Vacek,Nicolas Kiefer
+3,1999,Feliciano Lopez,Ignacio Truyol Turrion
+3,1999,Mark Knowles,Jimy Szymanski
+3,1999,Jurek Stasiak,Joseph Sirianni
+3,1999,Fernando Vicente,Albert Costa
+3,1999,Sergi Duran,Juan Carlos Ferrero
+3,1999,Sebastien Grosjean,Fabrice Santoro
+3,1999,Dominik Hrbaty,Marat Safin
+3,1999,Francisco Fogues,Ignacio Truyol Turrion
+3,1999,Thomas Messmer,Tom Chicoine
+3,1999,Stefano Tarallo,Gianluca Luddi
+3,1999,Nir Welgreen,Noam Behr
+3,1999,Zack Fleishman,Tom Chicoine
+3,1999,Pedro Braga,Paulo Taicher
+3,1999,Uros Vico,Federico Browne
+3,1999,Harsh Mankad,Srinath Prahlad
+3,1999,Massimo Dellacqua,Filippo Volandri
+3,1999,Francesco Aldi,Filippo Volandri
+3,1999,Robert Kendrick,Jeff Williams
+3,1999,Massimo Dellacqua,Federico Luzzi
+3,1999,Gorka Fraile,Albert Montanes
+3,1999,Ruben Ramirez Hidalgo,Roberto Menendez
+3,1999,Matthew Breen,Brandon Hawk
+3,1999,Ricardo Mello,Adrian Garcia
+3,1999,Julien Varlet,Herbert Wiltschnig
+3,1999,Ricardo Mello,Marcos Daniel
+5,2000,David Sanchez,German Puentes
+4,2000,Albert Montanes,Tommy Robredo
+4,2000,Marwan Zewar,Amro Ghoneim
+4,2000,Miguel Miranda,Patricio Arquez
+4,2000,Eduardo Nicolas,David Sanchez
+4,2000,Marc Fornell Mestres,Gorka Fraile
+4,2000,Amro Ghoneim,Karim Maamoun
+4,2000,Ivan Navarro,Gorka Fraile
+4,2000,Sergio Roitman,Guillermo Coria
+4,2000,Stephane Bohli,Michael Lammer
+4,2000,Yevgeny Kafelnikov,Dominik Hrbaty
+4,2000,Potito Starace,Filippo Messori
+4,2000,Thomas Enqvist,Lleyton Hewitt
+4,2000,Potito Starace,Alessio Di Mauro
+4,2000,Oscar Serrano,German Puentes
+4,2000,Mohamed Mamoun,Karim Maamoun
+4,2000,Juan Pablo Guzman,Juan Pablo Brzezicki
+4,2000,Francesco Aldi,Matteo Colla
+4,2000,Johan Du Randt,Rik De Voest
+3,2000,Marat Safin,Andreas Vinciguerra
+3,2000,Stefano Mocci,Potito Starace
+3,2000,George Bastl,Marat Safin
+3,2000,Marc Canovas,Miles Maclagan
+3,2000,Jamie Delgado,Mose Navarra
+3,2000,Angel Jose Martin,Uros Vico
+3,2000,Sebastien Grosjean,Marat Safin
+3,2000,Mario Munoz Bejarano,Marc Fornell Mestres
+3,2000,Arnaud Clement,Thomas Enqvist
+3,2000,Brandon Hawk,Cecil Mamiit
+3,2000,Glenn Weiner,Alejandro Hernandez
+3,2000,Andrea Capodimonte,Elia Grossi
+3,2000,Franz Stauder,Filippo Messori
+3,2000,Aleksander Slovic,Relja Fiser Dulic
+3,2000,Marat Safin,Fabrice Santoro
+3,2000,Iain Bates,Matthew Breen
+3,2000,Joseph Sirianni,Jay Gooding
+3,2000,Sebastian Swierk,Matthew Breen
+3,2000,Kirill Ivanov Smolensky,Sergei Pozdnev
+3,2000,Lionel Noviski,Patricio Rudi
+3,2000,Fernando Vicente,Yevgeny Kafelnikov
+3,2000,Ivan Cinkus,Rogier Wassen
+3,2000,Oliver Freelove,Emanuel Couto
+3,2000,Matias Oneille,Juan Pablo Brzezicki
+3,2000,Adrian Garcia,Alexandre Simoni
+3,2000,Sebastian Uriarte,Patricio Arquez
+3,2000,Tommy Robredo,German Puentes
+3,2000,Diego Alvarez,Alessio Di Mauro
+3,2000,Juan Carlos Ferrero,Richard Krajicek
+3,2000,Sasha Rampazzo,Ivan Beros
+3,2000,Juan Carlos Ferrero,Marat Safin
+3,2000,Marc Marco Ripoll,Gorka Fraile
+3,2000,Harel Levy,Michael Chang
+3,2000,Barry Fulcher,Harsh Mankad
+3,2000,Diego Hipperdinger,Marc Lopez
+3,2000,Tomas Janci,Juraj Hasko
+3,2000,Bjorn Phau,Xavier Malisse
+3,2000,Sebastian Jaeger,Nikolay Davydenko
+3,2000,Arnaud Di Pasquale,Gaston Gaudio
+3,2000,Alberto Lopez Nunez,Emin Agaev
+3,2000,Gustavo Kuerten,Patrick Rafter
+3,2000,Eduardo Bohrer,Antonio Pastorino
+3,2000,Jonas Bjorkman,Marat Safin
+3,2000,Cory Guy,Yong Il Yoon
+3,2000,Max Mirnyi,Jonas Bjorkman
+3,2000,Mustafa Ghouse,Danai Udomchoke
+3,2000,Andrea Gaudenzi,Albert Portas
+3,2000,Alberto Banus Sado,Marc Lopez
+3,2000,Wayne Ferreira,Gustavo Kuerten
+3,2000,Giancarlo Petrazzuolo,Elia Grossi
+3,2000,Jan Siemerink,Todd Woodbridge
+3,2000,Raven Klaasen,Zbynek Mlynarik
+3,2000,Younes El Aynaoui,Magnus Norman
+3,2000,Leonardo Olguin,Francisco Cabello
+3,2000,Fabrice Santoro,Alex Corretja
+3,2000,Thierry Ascione,Wesley Moodie
+3,2000,Fabrice Santoro,Tim Henman
+3,2000,Didac Perez,Marc Fornell Mestres
+3,2000,Goran Ivanisevic,Albert Costa
+3,2000,David Ferrer,Gabriel Trujillo Soler
+3,2000,Martin Stringari,Matias Oneille
+3,2000,Robin Vik,Lior Mor
+3,2000,Michael Chang,Magnus Norman
+3,2000,Rafael Serpa Guinazu,Juan Pablo Guzman
+3,2000,Daniel Vacek,Yevgeny Kafelnikov
+3,2000,Gorka Fraile,Marc Lopez
+3,2000,Mariano Zabaleta,Max Mirnyi
+3,2000,Mark Hilton,Oren Motevassel
+3,2000,Jonas Bjorkman,Magnus Norman
+3,2000,Carlos Cuadrado,Mario Munoz Bejarano
+3,2000,Albert Costa,Lleyton Hewitt
+3,2000,Javier Garcia Sintes,Eduardo Nicolas
+3,2000,Carlos Moya,Juan Carlos Ferrero
+3,2000,Gorka Fraile,Didac Perez
+3,2000,Hyung Taik Lee,Yong Il Yoon
+3,2000,Alessio Di Mauro,Potito Starace
+3,2000,Jacobo Diaz,Arnaud Di Pasquale
+3,2000,Julien Varlet,Nicolas Coutelot
+3,2000,Stefan Koubek,Albert Costa
+3,2000,Tomas Cakl,Filippo Messori
+3,2000,Sjeng Schalken,Magnus Norman
+3,2000,Guillermo Garcia Lopez,Didac Perez
+3,2000,Jerome Golmard,Gustavo Kuerten
+3,2000,Francesco Piccari,Potito Starace
+3,2000,Hicham Arazi,Tim Henman
+3,2000,Gabriel Trujillo Soler,Juan Giner
+3,2000,Bohdan Ulihrach,Nicolas Lapentti
+3,2000,Gabriel Trujillo Soler,Ivan Navarro
+3,2000,Jiri Novak,Gianluca Pozzi
+3,2000,Paolo Lorenzi,Filippo Messori
+3,2000,Magnus Norman,Gustavo Kuerten
+3,2000,Vishal Uppal,Rishi Sridhar
+3,2000,Harsh Mankad,Danai Udomchoke
+3,2000,Felipe Parada,Patricio Arquez
+3,2000,Juan Pablo Brzezicki,Pablo Bianchi
+3,2000,Juan Pablo Brzezicki,Patricio Arquez
+3,2000,Carlos Berlocq,Patricio Arquez
+3,2000,Diego Hartfield,Juan Pablo Brzezicki
+5,2001,Carlos Rexach Itoiz,Gabriel Trujillo Soler
+4,2001,Bohdan Ulihrach,Lleyton Hewitt
+4,2001,Peter Luczak,Todd Larkham
+4,2001,Sebastien Grosjean,Lleyton Hewitt
+4,2001,David Ferrer,Didac Perez
+4,2001,David Prinosil,Marat Safin
+4,2001,Gabriel Frias,Oscar Hernandez
+3,2001,Mike Scheidweiler,Hermes Gamonal
+3,2001,Ferran Ventura Martell,Mario Munoz Bejarano
+3,2001,Martin Verkerk,Oliver Gross
+3,2001,Antonio Baldellou Esteva,Miguel Angel Lopez Jaen
+3,2001,Andreas Vinciguerra,Yevgeny Kafelnikov
+3,2001,Antonio Baldellou Esteva,Adrian Cruciat
+3,2001,Julien Boutter,Juan Carlos Ferrero
+3,2001,Markus Polessnig,Karim Maamoun
+3,2001,Arnaud Clement,Xavier Malisse
+3,2001,Julien Couly,Nicolas Mahut
+3,2001,Marat Safin,Dominik Hrbaty
+3,2001,Marc Marco Ripoll,Didac Perez
+3,2001,Mark Nielsen,Daniel Willman
+3,2001,Marc Marco Ripoll,Alberto Banus Sado
+3,2001,Andrei Stoliarov,Alex Calatrava
+3,2001,Alexander Sikanov,Mikhail Elgin
+3,2001,Lleyton Hewitt,Tommy Haas
+3,2001,Matthew Yeates,Peter Clarke
+3,2001,Hermes Gamonal,Ramon Delgado
+3,2001,Toshiharu Kato,Alexander Peya
+3,2001,Justin Bower,Vincent Spadea
+3,2001,Ignacio Gonzalez King,Diego Junqueira
+3,2001,Andy Roddick,Lleyton Hewitt
+3,2001,Anton Klaric,Peter Luczak
+3,2001,Tommy Robredo,Guillermo Canas
+3,2001,Guillermo Carry,Juan Pablo Brzezicki
+3,2001,Daniel Melo,Edgardo Massa
+3,2001,James Nelson,Mark Hilton
+3,2001,Ivan Vajda,Oliver Marach
+3,2001,Olivier Le Jeune,Scott Draper
+3,2001,Guillermo Canas,Gustavo Kuerten
+3,2001,Xavier Pujo,Marc Gicquel
+3,2001,Paul Baccanello,Todd Larkham
+3,2001,Matteo Galli,Roberto Alvarez
+3,2001,Michihisa Onoda,Doug Bohaboy
+3,2001,Dominique Coene,Jean Claude Scherrer
+3,2001,Joji Miyao,Ashley Ford
+3,2001,Dmitriy Koch,Or Dekel
+3,2001,Stefano Tarallo,Attila Savolt
+3,2001,Sunday Maku,Willem Petrus Meyer
+3,2001,Juan Giner,Carlos Cuadrado
+3,2001,Marco Pedrini,Davide Scala
+3,2001,Jeff Morrison,Jack Brasington
+3,2001,Javier Perez Vazquez,Didac Perez
+3,2001,Jeff Morrison,Mardy Fish
+3,2001,Ruben Ramirez Hidalgo,Relja Fiser Dulic
+3,2001,Hector Moretti,Julio Peralta
+3,2001,Matteo Colla,Melvyn Op Der Heijde
+3,2001,Alexey Kedryuk,Dmitri Tomashevich
+3,2001,Javier Perez Vazquez,Francisco Fogues
+3,2001,Guillermo Canas,Lleyton Hewitt
+3,2001,Yen Hsun Lu,Aisam Ul Haq Qureshi
+3,2001,Jerome Golmard,Tommy Haas
+3,2001,Julien Varlet,Eric Prodon
+3,2001,Tommy Haas,Gustavo Kuerten
+3,2001,Fernando Verdasco,Quino Munoz
+3,2001,Nicolas Escude,Bohdan Ulihrach
+3,2001,Thierry Ascione,Florent Serra
+3,2001,Albert Costa,Yevgeny Kafelnikov
+3,2001,Julio Silva,Marcos Daniel
+3,2001,Albert Costa,Tim Henman
+3,2001,Marcos Daniel,Jurgen Melzer
+3,2001,Magnus Norman,Lleyton Hewitt
+3,2001,Helder Lopes,Javier Garcia Sintes
+3,2001,Satoshi Iwabuchi,Benjamin Cassaigne
+3,2001,Robin Vik,John Van Lottum
+3,2001,Yevgeny Kafelnikov,Thomas Johansson
+3,2001,Potito Starace,Giorgio Galimberti
+3,2001,Patrick Rafter,Andre Agassi
+3,2001,Didac Perez,Francisco Fogues
+3,2001,Thomas Enqvist,Nicolas Kiefer
+3,2001,Juan Monaco,Pedro Canovas
+3,2001,Francisco Clavet,Dominik Hrbaty
+3,2001,Roberto Menendez,Gabriel Trujillo Soler
+3,2001,Marc Lopez,Ruben Ramirez Hidalgo
+3,2001,Juan Antonio Saiz Panadero,Gabriel Trujillo Soler
+3,2001,Julian Knowle,Axel Pretzsch
+3,2001,Miguel Angel Lopez Jaen,Mario Munoz Bejarano
+3,2001,Lars Burgsmuller,Andrew Ilie
+3,2001,Daniel Lencina Ribes,Jan Hajek
+3,2001,Nicolas Lapentti,Juan Carlos Ferrero
+3,2001,James Auckland,Mohamed Sekou Drame
+3,2001,Gaston Etlis,Juan Ignacio Chela
+3,2001,Andres Pedroso,Dario Perez
+3,2001,Nicolas Massu,Francisco Clavet
+3,2001,Tomas Cakl,Artem Derepasko
+3,2001,Gregory Carraz,Slimane Saoudi
+3,2001,Santiago Ventura,Carlos Cuadrado
+3,2001,Todd Larkham,Scott Draper
+3,2001,Diego Hartfield,Juan Pablo Brzezicki
+3,2001,Vadim Kutsenko,Oleg Ogorodov
+3,2001,Mariano Delfino,Edgardo Massa
+3,2001,Jan Michael Gambill,Andre Agassi
+3,2001,Max Mirnyi,Tommy Haas
+3,2001,Carlos Moya,Ivan Ljubicic
+3,2001,Takao Suzuki,Todd Woodbridge
+3,2001,Alex Calatrava,Guillermo Coria
+3,2001,Markus Hipfl,Felix Mantilla
+3,2001,Sjeng Schalken,Alex Corretja
+3,2001,Tommy Haas,Lleyton Hewitt
+3,2001,Ricardo Mello,Diego Veronelli
+4,2002,Lleyton Hewitt,Carlos Moya
+4,2002,Marc Lopez,David Ferrer
+4,2002,David Nalbandian,Marat Safin
+4,2002,Gouichi Motomura,Hyung Taik Lee
+4,2002,Xavier Malisse,Roger Federer
+4,2002,James Blake,Andy Roddick
+4,2002,Alejandro Falla,Pablo Gonzalez
+4,2002,Hector Moretti,Boris Pashanski
+4,2002,Marc Fornell Mestres,Rafael Nadal
+3,2002,Manuel Jorquera,Stefano Cobolli
+3,2002,Juan Ignacio Chela,Ivan Ljubicic
+3,2002,Filippo Figliomeni,Andrej Kracman
+3,2002,Javier Garcia Sintes,Oscar Hernandez
+3,2002,Nestor Briceno,Michael Quintero
+3,2002,Jose Acasuso,Fernando Gonzalez
+3,2002,Shannon Nettle,Todd Reid
+3,2002,Michael Quintero,Pedro Braga
+3,2002,Agustin Tarantino,Phillip Harboe
+3,2002,Jan Hernych,Julien Varlet
+3,2002,Aleksandar Vlaski,Cristian Villagran
+3,2002,Sergio Roitman,Edgardo Massa
+3,2002,Igor Fejzula,Lucas Engel
+3,2002,Juan Giner,Marko Tkalec
+3,2002,Chris Lewis,Johan Du Randt
+3,2002,Juan Ignacio Chela,Marat Safin
+3,2002,Antonio Alcaraz,Juan Giner
+3,2002,Marwan Zewar,Mohamed Mamoun
+3,2002,Ronald Rugimbana,Mohamed Sekou Drame
+3,2002,Filippo Volandri,Juan Antonio Marin
+3,2002,Dario Perez,Cristian Villagran
+3,2002,Will Farah Lebar,Ryan Russell
+3,2002,Brandon Kramer,Kc Corkery
+3,2002,Juan Pablo Guzman,Ricardo Mello
+3,2002,Antonio Baldellou Esteva,Juan Giner
+3,2002,Thomas Oger,Dudi Sela
+3,2002,Matteo Gotti,Vincenzo Santopadre
+3,2002,Abdul Mumin Babalola,Johan Du Randt
+3,2002,Robert Smeets,Ryan Henry
+3,2002,Jing Yi Li,Ran Xu
+3,2002,Ronaldo Carvalho,Bruno Echagaray
+3,2002,Andres Pedroso,Ignacio Gonzalez King
+3,2002,Tomas Cakl,Martin Stepanek
+3,2002,Juan Monaco,Miguel Angel Lopez Jaen
+3,2002,Florian Mayer,Florian Allgauer
+3,2002,Florent Serra,Oscar Hernandez
+3,2002,Tomas Tenconi,Matteo Colla
+3,2002,Dustin Brown,Jean Julien Rojer
+3,2002,Carlos Avellan,Charles Edouard Maria
+3,2002,Stefano Galvani,Juan Antonio Marin
+3,2002,Agustin Calleri,Carlos Moya
+3,2002,Sjeng Schalken,Lleyton Hewitt
+3,2002,Bjorn Phau,Eric Taino
+3,2002,Jeff Salzenstein,Ivan Miranda
+3,2002,Hyung Taik Lee,Andy Roddick
+3,2002,Franco Squillari,Fernando Vicente
+3,2002,Franco Squillari,Jose Acasuso
+3,2002,Roberto Menendez,Juan Giner
+3,2002,Tim Henman,Lleyton Hewitt
+3,2002,Thomas Johansson,Arnaud Clement
+3,2002,Bohdan Ulihrach,Andy Roddick
+3,2002,Nicolas Escude,Tim Henman
+3,2002,Albert Costa,Wayne Ferreira
+3,2002,Alex Corretja,Juan Ignacio Chela
+3,2002,Younes El Aynaoui,Stefan Koubek
+3,2002,Francisco Clavet,David Nalbandian
+3,2002,Carlos Moya,Juan Carlos Ferrero
+3,2002,Andrej Kracman,Matteo Colla
+3,2002,Max Mirnyi,Nicolas Kiefer
+3,2002,Jan Michael Gambill,Lleyton Hewitt
+3,2002,Yu Zhang,Ben Qiang Zhu
+3,2002,Paradorn Srichaphan,Lleyton Hewitt
+3,2002,Andre Sa,Guillermo Canas
+3,2002,Luke Smith,Simon Larose
+3,2002,Gunther Darkey,Claude Ngoran
+3,2002,Davide Scala,Paolo Lorenzi
+3,2002,Luis Horna,Jose Acasuso
+3,2002,Jose De Armas,Brian Vahaly
+3,2002,Arnaud Clement,Fernando Gonzalez
+3,2002,Arnaud Clement,Sjeng Schalken
+3,2002,Antony Dupuis,Adrian Voinea
+3,2002,Fernando Vicente,Carlos Moya
+3,2002,Alberto Martin,Marat Safin
+3,2002,Jan Michael Gambill,Andre Agassi
+3,2002,Gianluca Bazzica,Ben Qiang Zhu
+4,2003,Jan Vacek,Dick Norman
+4,2003,Luis Horna,Nicolas Massu
+4,2003,Feliciano Lopez,Guillermo Coria
+4,2003,Yi Ning Wang,Peng Sun
+4,2003,Sjeng Schalken,Roger Federer
+4,2003,Jhonnatan Medina Alvarez,Juan Pablo Brzezicki
+4,2003,Diego Alvarez,Stefano Cobolli
+4,2003,Stefano Pescosolido,Wesley Moodie
+4,2003,Tomas Berdych,Igor Andreev
+4,2003,Martin Vilarrubi,Javier Genaro Martinez
+4,2003,Jiri Novak,Mikhail Youzhny
+3,2003,Antonio Baldellou Esteva,Mariano Albert Ferrando
+3,2003,Takeshi Itoh,Norikazu Sugiyama
+3,2003,Guillermo Platel,Rui Machado
+3,2003,Melvyn Op Der Heijde,Melle Van Gemerden
+3,2003,Roberto Menendez,Carlos Cuadrado
+3,2003,Sebastian Decoud,Marko Neunteibl
+3,2003,Miguel Angel Lopez Jaen,Javier Genaro Martinez
+3,2003,David Marrero,Carlos Cuadrado
+3,2003,Adam Thompson,Wesley Whitehouse
+3,2003,Rainer Eitzinger,Farrukh Dustov
+3,2003,Go Soeda,Takahiro Terachi
+3,2003,Jing Yi Li,Dong Hyun Kim
+3,2003,Ryan Russell,Dejan Cvetkovic
+3,2003,Peng Sun,Ti Chen
+3,2003,Ilia Kushev,Vladimir Pavicevic
+3,2003,Israel Matos Gil,Roberto Menendez
+3,2003,Miguel Angel Lopez Jaen,Francisco Fogues
+3,2003,Santiago Ventura,Miguel Angel Lopez Jaen
+3,2003,Aleksandar Vlaski,Jimy Szymanski
+3,2003,Brandon Fallon,Peng Sun
+3,2003,Jonathan Gonzalia,Marko Neunteibl
+3,2003,Franklin Durighetto,Alessandro Camarco
+3,2003,Shannon Nettle,Bernard Parun
+3,2003,Alvaro Dominguez,Bruno Echagaray
+3,2003,Marco Di Vuolo,Francesco Piccari
+3,2003,Mark Way,Christopher Koderisch
+3,2003,Alexander Markin,Sergei Yaroshenko
+3,2003,Felipe Lemos,Franco Ferreiro
+3,2003,Agustin Tarantino,Juan Pablo Brzezicki
+3,2003,Rafael Moreno Negrin,Marcel Granollers
+3,2003,Oscar Zarzosa,Ronaldo Carvalho
+3,2003,Javier Genaro Martinez,Daniel Munoz de la Nava
+3,2003,Vinod Sridhar,Prakash Amritraj
+3,2003,Markus Kanellos,Amir Hadad
+3,2003,Giancarlo Petrazzuolo,Francesco Aldi
+3,2003,Federico Torresi,Victor Ionita
+3,2003,Bo Ram Cha,Yu Jr Wang
+3,2003,Guillermo Carter,Pablo Gonzalez
+3,2003,Alejandro Fabbri,Brian Dabul
+3,2003,Dusan Karol,Jaroslav Pospisil
+3,2003,Henrique Pinto Silva,Miguel Gallardo Valles
+3,2003,Giuseppe Menga,Giancarlo Petrazzuolo
+3,2003,Konstantin Don Gruber,Marko Neunteibl
+3,2003,Marc Lopez,Ruben Ramirez Hidalgo
+3,2003,Roko Karanusic,Joachim Johansson
+3,2003,Guillermo Garcia Lopez,Teymuraz Gabashvili
+3,2003,Raemon Sluiter,Roger Federer
+3,2003,Wayne Arthurs,Rainer Schuettler
+3,2003,Rainer Schuettler,David Nalbandian
+3,2003,Rainer Schuettler,Radek Stepanek
+3,2003,Rainer Schuettler,Sjeng Schalken
+3,2003,Jiri Vanek,Tomas Behrend
+3,2003,Mariano Zabaleta,Agustin Calleri
+3,2003,Max Mirnyi,Roger Federer
+3,2003,Jan Weinzierl,Marcello Craca
+3,2003,Felix Mantilla,Juan Carlos Ferrero
+3,2003,Davide Sanguinetti,Bohdan Ulihrach
+3,2003,Nicolas Lapentti,Ivan Ljubicic
+3,2003,Lars Burgsmuller,Sjeng Schalken
+3,2003,German Puentes,Santiago Ventura
+3,2003,Herbert Wiltschnig,Johannes Ager
+3,2003,Yevgeny Kafelnikov,Jarkko Nieminen
+3,2003,Greg Rusedski,Andy Roddick
+3,2003,Younes El Aynaoui,Mariano Zabaleta
+3,2003,Kevin Kim,Jeff Salzenstein
+3,2003,Ion Moldovan,David Miketa
+3,2003,Ivan Ljubicic,Andy Roddick
+3,2003,Sebastien Grosjean,Andy Roddick
+3,2003,Leonardo Tavares,Lucas Engel
+3,2003,Slimane Saoudi,Jerome Haehnel
+3,2003,Javier Garcia Sintes,Francisco Fogues
+3,2003,Gilles Elseneer,Joachim Johansson
+3,2003,Gilles Muller,Richard Gasquet
+3,2003,Andy Roddick,Rainer Schuettler
+3,2003,George Bastl,Jeff Salzenstein
+3,2003,Mikhail Youzhny,Rainer Schuettler
+3,2003,Mikhail Youzhny,Mariano Zabaleta
+3,2003,Mikhail Youzhny,Guillermo Coria
+3,2003,Philip Gubenco,Juan Pablo Brzezicki
+3,2003,David Sanchez,Gaston Gaudio
+3,2003,Jarkko Nieminen,Roger Federer
+3,2003,Wesley Whitehouse,Genius Chidzikwe
+3,2003,Roger Federer,David Nalbandian
+3,2003,Xavier Malisse,Andy Roddick
+3,2003,Gaston Gaudio,Marcelo Rios
+3,2003,Tommy Robredo,Andy Roddick
+3,2003,Agustin Calleri,Juan Ignacio Chela
+3,2003,Gaston Gaudio,Juan Carlos Ferrero
+6,2004,Lleyton Hewitt,Roger Federer
+5,2004,Andrei Pavel,Roger Federer
+4,2004,Adrian Gavrila,Gabriel Moraru
+4,2004,Arnaud Clement,Ivan Ljubicic
+4,2004,Oscar Hernandez,Alex Calatrava
+4,2004,Lionel Noviski,Cristian Villagran
+4,2004,David Sanchez,Carlos Moya
+4,2004,Artemon Apostu Efremov,Victor Ionita
+4,2004,Lazar Magdincev,Ilia Kushev
+4,2004,Leonardo Kirche,Julio Silva
+4,2004,Vijay Kannan,Aqeel Khan
+4,2004,Vjekoslav Skenderovic,Victor Ionita
+4,2004,Carlos Berlocq,Cristian Villagran
+4,2004,Javier Genaro Martinez,Daniel Gimeno Traver
+3,2004,Juan De Armas,Jean Julien Rojer
+3,2004,Arnau Brugues Davi,Marcel Granollers
+3,2004,Kamil Filali,Tommaso Sanna
+3,2004,Marcelo Melo,Thiago Alves
+3,2004,Amit Inbar,Lazar Magdincev
+3,2004,Nicolas Kiefer,Andy Roddick
+3,2004,Filippo Figliomeni,Melvyn Op Der Heijde
+3,2004,Ivan Sergeyev,Sergei Pozdnev
+3,2004,David To,Marc Kimmich
+3,2004,Matteo Gotti,Giancarlo Petrazzuolo
+3,2004,David Loewenthal,Jean Julien Rojer
+3,2004,Mirko Pehar,Aqeel Khan
+3,2004,Juan Francisco Spina,Marcelo Melo
+3,2004,Juan Felipe Yanez,Cristian Villagran
+3,2004,Jamil Al Agba,Lesley Joseph
+3,2004,Rogerio Dutra Silva,Thiago Alves
+3,2004,Giorgio Galimberti,Tomas Tenconi
+3,2004,Damian Patriarca,Martin Alund
+3,2004,Thomas Enqvist,Robin Soderling
+3,2004,Bartolome Salva Vidal,Javier Genaro Martinez
+3,2004,Wayne Ferreira,Paradorn Srichaphan
+3,2004,Francisco Fogues,Guillermo Garcia Lopez
+3,2004,Kenneth Carlsen,Tommy Haas
+3,2004,Josh Goodall,Mark Hilton
+3,2004,Thomas Johansson,Roger Federer
+3,2004,Brian Wilson,Justin Gimelstob
+3,2004,Galo Blanco,Filippo Volandri
+3,2004,Robert Smeets,Marc Kimmich
+3,2004,Jorge Aguilar,Martin Alund
+3,2004,Mikhail Ledovskikh,Philipp Mukhometov
+3,2004,Leonardo Azzaro,Jean Christophe Faurel
+3,2004,Maciej Dilaj,Michal Przysiezny
+3,2004,Diego Hartfield,Brian Dabul
+3,2004,James Auckland,Andrew Banks
+3,2004,Frank Condor,Marco Mirnegg
+3,2004,Evgueni Smirnov,Philipp Mukhometov
+3,2004,Sadik Kadir,Marc Kimmich
+3,2004,Marco Pedrini,Simone Vagnozzi
+3,2004,Marcos Conde Jackson,Rui Machado
+3,2004,Alexandre Bonatto,Thiago Alves
+3,2004,Alexandre Bonatto,Francisco Costa
+3,2004,Andrei Mlendea,Adrian Cruciat
+3,2004,Teodor Bolanu,Adrian Cruciat
+3,2004,Teodor Bolanu,Vjekoslav Skenderovic
+3,2004,Leandro Migani,Diego Junqueira
+3,2004,Marco Di Vuolo,Giancarlo Petrazzuolo
+3,2004,Hector Ruiz Cadenas,Javier Genaro Martinez
+3,2004,Henrique Pinto Silva,Andre Ghem
+3,2004,Alejandro Fabbri,Cristian Villagran
+3,2004,Igor Zelenay,Lukas Dlouhy
+3,2004,Andrew Banks,Michael Ryderstedt
+3,2004,Catalin Ionut Gard,Victor Ionita
+3,2004,Guillermo Carry,Brian Dabul
+3,2004,Giancarlo Petrazzuolo,Andrea Stoppini
+3,2004,Antonio Pastorino,Carlos Berlocq
+3,2004,Marko Neunteibl,Marco Mirnegg
+3,2004,Alexander Hartman,Justin Bower
+3,2004,Alejandro Vargas Aboy,German Puentes
+3,2004,Alberto Soriano,Adrian Ungur
+3,2004,Atsuo Ogawa,Michihisa Onoda
+3,2004,Nikola Ciric,Vladimir Pavicevic
+3,2004,Philipp Marx,Jakub Herm Zahlava
+3,2004,Alessandro Camarco,Felipe Lemos
+3,2004,Ilija Bozoljac,Vladimir Pavicevic
+3,2004,Gilles Simon,Jeroen Masson
+3,2004,Martin Verkerk,Lleyton Hewitt
+3,2004,Tommy Robredo,Carlos Moya
+3,2004,Yu Jr Wang,Peng Sun
+3,2004,Jurgen Melzer,Lleyton Hewitt
+3,2004,Ivo Bratanov,Johannes Ager
+3,2004,Jurgen Melzer,Vincent Spadea
+3,2004,Andy Roddick,Roger Federer
+3,2004,Jakub Herm Zahlava,Philipp Marx
+3,2004,Albert Montanes,Santiago Ventura
+3,2004,Filippo Volandri,Guillermo Canas
+3,2004,Juan Giner,Daniel Gimeno Traver
+3,2004,James Blake,Vincent Spadea
+3,2004,Marko Tkalec,Kornel Bardoczky
+3,2004,Xavier Malisse,Tommy Haas
+3,2004,Nicolas Kiefer,Guillermo Coria
+3,2004,Carlos Moya,Lleyton Hewitt
+3,2004,Cecil Mamiit,Frank Dancevic
+3,2004,Alberto Martin,Carlos Moya
+3,2004,Tommy Haas,Guillermo Canas
+3,2004,Guillermo Canas,Fernando Verdasco
+3,2004,Nir Welgreen,Lazar Magdincev
+3,2004,Kevin Kim,Glenn Weiner
+3,2004,Marcus Sarstrand,Johan Settergren
+3,2004,Marat Safin,Roger Federer
+3,2004,Marat Safin,Andy Roddick
+3,2004,Robby Ginepri,Cyril Saulnier
+3,2004,Israel Matos Gil,Maciej Dilaj
+3,2004,Robby Ginepri,Tommy Haas
+3,2004,Thiago Alves,Julio Silva
+3,2004,Robert Kendrick,Kevin Kim
+3,2004,Tomas Tenconi,Francesco Aldi
+3,2004,Igor Andreev,Jurgen Melzer
+3,2004,Massimo Dellacqua,Roko Karanusic
+3,2004,Carlos Avellan,Sebastian Decoud
+3,2004,Julio Peralta,Cristian Villagran
+3,2004,Richard Bloomfield,David Sherwood
+3,2004,Gabriel Moraru,Victor Ionita
+3,2004,Konstantin Don Gruber,Sasa Tuksar
+3,2004,Ivo Minar,Jeroen Masson
+3,2004,Mariano Delfino,Juan Pablo Brzezicki
+3,2004,Oh Hee Kwon,Takahiro Terachi
+3,2004,Santiago Gonzalez,Miguel Gallardo Valles
+3,2004,Wesley Moodie,Karol Kucera
+3,2004,Mark Hilton,David Sherwood
+3,2004,Ruben Ramirez Hidalgo,Igor Andreev
+3,2004,Miguel Gallardo Valles,Alejandro Hernandez
+3,2004,Victor Hanescu,Nikolay Davydenko
+3,2004,Frank Dancevic,Wesley Moodie
+3,2004,Karol Beck,Xavier Malisse
+3,2004,Fernando Verdasco,Carlos Moya
+3,2004,Fernando Verdasco,Tommy Robredo
+3,2004,Julio Silva,Thiago Alves
+3,2004,Guillermo Hormazabal,Damian Patriarca
+3,2004,Marcos Daniel,Carlos Berlocq
+3,2004,Carlos Cuadrado,Marc Fornell Mestres
+3,2004,Franklin Durighetto,Agustin Tarantino
+5,2005,Ivan Ljubicic,Roger Federer
+4,2005,Juan Pablo Amado,Juan Martin Aranguren
+4,2005,Juan Carlos Ferrero,Rafael Nadal
+4,2005,Stephen Mitchell,Andrew Anderson
+4,2005,Juan De Armas,Yohny Romero
+4,2005,Andrew Coelho,Luke Bourgeois
+4,2005,Antonio Baldellou Esteva,Mariano Albert Ferrando
+4,2005,Teodor Dacian Craciun,Victor Crivoi
+4,2005,Roman Recarte,Yohny Romero
+4,2005,Scoville Jenkins,Bobby Reynolds
+4,2005,Vilim Visak,Grega Zemlja
+4,2005,Justin Gimelstob,Brian Vahaly
+4,2005,Nicolas Kiefer,Roger Federer
+4,2005,Matthew Smith,Tom Burn
+4,2005,Andre Agassi,Roger Federer
+3,2005,Ramiro Tincoff,Ahmed Shebl Morsy
+3,2005,Jamie Murray,Ross Hutchins
+3,2005,Badr Bouarich,Henry Adjei Darko
+3,2005,David Marrero,Bartolome Salva Vidal
+3,2005,Raony Carvalho,Lucas Engel
+3,2005,Alexander Slabinsky,Martin Lee
+3,2005,Rolando Vargas,Carlos Palencia
+3,2005,Bastian Knittel,Michel Koning
+3,2005,David Corrie,Matthew Smith
+3,2005,Denys Molchanov,Artemon Apostu Efremov
+3,2005,Victor Stanica,Artemon Apostu Efremov
+3,2005,Anas Fattar,Ludwig Pellerin
+3,2005,Emiliano Massa,Maximo Gonzalez
+3,2005,Younes El Aynaoui,Filippo Volandri
+3,2005,Shuang Qiang Liang,Yi Ning Wang
+3,2005,Michal Ciszek,Yohny Romero
+3,2005,Renan Delsin,Andre Ghem
+3,2005,Zhe Li,David To
+3,2005,Pavol Cervenak,Lukas Lacko
+3,2005,Pere Riba,Pablo Santos
+3,2005,Nick Lindahl,Chris Kwon
+3,2005,Juan Martin Aranguren,Lionel Noviski
+3,2005,Juan Martin del Potro,Thiago Alves
+3,2005,Grega Zemlja,Alexander Satschko
+3,2005,Victor Crivoi,Adrian Ungur
+3,2005,Phillip Simmonds,Rik De Voest
+3,2005,Jose Antonio Sanchez De Luna,David Marrero
+3,2005,Sebo Kiss,Kornel Bardoczky
+3,2005,Ivan Navarro,Albert Portas
+3,2005,Felix Mantilla,Guillermo Coria
+3,2005,Massimo Ocera,Marco Pedrini
+3,2005,Lesley Joseph,Thiago Alves
+3,2005,Carlos Rexach Itoiz,Gordan Peranec
+3,2005,Naim Lalji,Lee Childs
+3,2005,Tony Holzinger,Marcel Granollers
+3,2005,Juan Francisco Spina,Juan Martin Aranguren
+3,2005,Jose Checa Calvo,Marc Fornell Mestres
+3,2005,Adam Feeney,Sadik Kadir
+3,2005,Tom Burn,Neil Bamford
+3,2005,Simon Roberts,Conor Niland
+3,2005,Filip Paroci,Ilia Kushev
+3,2005,Carlos Gomez Ferre,Guillermo Alcaide
+3,2005,Troy Hahn,Bruno Rodriguez
+3,2005,Todd Widom,Michael Russell
+3,2005,Alexandre Bonatto,Lucas Engel
+3,2005,Sebastian Quintero,Michael Quintero
+3,2005,Carlos Rexach Itoiz,David Marrero
+3,2005,Gustavo Gomez,Karim Maamoun
+3,2005,Jedrzej Zarski,Dawid Olejniczak
+3,2005,Lionel Noviski,Maximo Gonzalez
+3,2005,Alessandro Accardo,Alessandro Piccari
+3,2005,Alejandro Vargas Aboy,Mariano Albert Ferrando
+3,2005,Jordi Marse Vidri,Frank Condor
+3,2005,Alejandro Fabbri,Lionel Noviski
+3,2005,Benedikt Stronk,Matthew Smith
+3,2005,Adrian Gavrila,Hector Ruiz Cadenas
+3,2005,Gustavo Kuerten,Tommy Robredo
+3,2005,Brendan Evans,Alex Kuznetsov
+3,2005,Ivo Minar,Roger Federer
+3,2005,Tetsuya Chaen,Oh Hee Kwon
+3,2005,Tommy Robredo,Ivan Ljubicic
+3,2005,Agustin Calleri,David Ferrer
+3,2005,Agustin Calleri,Rafael Nadal
+3,2005,Juan Ignacio Chela,Agustin Calleri
+3,2005,Jurgen Melzer,Andy Roddick
+3,2005,Oliver Marach,Carlos Berlocq
+3,2005,Mikhail Youzhny,Rafael Nadal
+3,2005,Nikolay Davydenko,Roger Federer
+3,2005,Radek Stepanek,Rafael Nadal
+3,2005,Guillermo Coria,Rafael Nadal
+3,2005,Feliciano Lopez,Radek Stepanek
+3,2005,Fernando Gonzalez,Gaston Gaudio
+3,2005,Peter Wessels,Dominik Hrbaty
+3,2005,Carlos Moya,Mariano Puerta
+3,2005,Kevin Kim,Tomas Zib
+3,2005,Genius Chidzikwe,Andrew Anderson
+3,2005,Lleyton Hewitt,Roger Federer
+3,2005,Arnaud Clement,Lleyton Hewitt
+3,2005,Sebastien Grosjean,Andy Roddick
+3,2005,Mariano Puerta,Rafael Nadal
+3,2005,Fernando Gonzalez,Roger Federer
+3,2005,Ivan Miranda,Jose De Armas
+3,2005,Alex Kuznetsov,Jose De Armas
+3,2005,Olivier Rochus,Roger Federer
+3,2005,Mait Kunnap,Marcel Zimmermann
+3,2005,Fernando Verdasco,Rafael Nadal
+3,2005,Slimane Saoudi,Stefano Galvani
+3,2005,Santiago Gonzalez,Jean Julien Rojer
+3,2005,Ludwig Pellerin,Michal Navratil
+3,2005,Francesco Aldi,Juan Antonio Marin
+3,2005,Tomas Berdych,Nikolay Davydenko
+3,2005,Pavel Snobel,Alexander Waske
+3,2005,Florian Mayer,Juan Carlos Ferrero
+3,2005,Nick Van Der Meer,Jesse Huta Galung
+3,2005,Rajeev Ram,Andre Sa
+3,2005,Lee Childs,Matthew Smith
+3,2005,Alexander Waske,Raemon Sluiter
+3,2005,Victor Hanescu,Ivan Ljubicic
+3,2005,Vasilis Mazarakis,Boris Pashanski
+3,2005,Alexander Peya,Lukasz Kubot
+3,2005,Dmitry Tursunov,Greg Rusedski
+3,2005,Yuri Schukin,Lukasz Kubot
+3,2005,Ruben Ramirez Hidalgo,Lukas Dlouhy
+3,2005,Lukasz Kubot,Teymuraz Gabashvili
+3,2005,Cristian Paiz,Yohny Romero
+3,2005,Mohammad Ghareeb,Benjamin Balleret
+3,2005,Alex Bogdanovic,Gilles Elseneer
+3,2005,David Ferrer,Rafael Nadal
+3,2005,Potito Starace,Rainer Schuettler
+5,2006,Adrian Gavrila,Adrian Cruciat
+4,2006,Ignacio Coll Riudavets,Miguel Angel Lopez Jaen
+4,2006,James Blake,Roger Federer
+4,2006,Olivier Charroin,Brian Wilson
+4,2006,Christophe Rochus,Nikolay Davydenko
+4,2006,Jan Hernych,Lleyton Hewitt
+4,2006,David Nalbandian,Roger Federer
+4,2006,Ruben Torres,Jhonnatan Medina Alvarez
+4,2006,Philipp Kohlschreiber,Jarkko Nieminen
+4,2006,Fabio Colangelo,Daniele Giorgini
+4,2006,Sam Warburg,Michael Russell
+4,2006,Julio Cesar Campozano,Michael Quintero
+4,2006,Sherif Sabry,Karim Maamoun
+4,2006,Antonio Baldellou Esteva,Jose Checa Calvo
+4,2006,Roger Federer,Rafael Nadal
+4,2006,Richard Gasquet,Roger Federer
+4,2006,Fernando Gonzalez,Roger Federer
+4,2006,Stan Wawrinka,Fernando Gonzalez
+4,2006,Gordan Peranec,Yohny Romero
+4,2006,Tommy Haas,Roger Federer
+3,2006,Juan Pablo Amado,Horacio Zeballos
+3,2006,Norikazu Sugiyama,Daniel Yoo
+3,2006,Michal Konecny,Lado Chikhladze
+3,2006,Alejandro Gonzalez,Thomaz Bellucci
+3,2006,Julian Morosi,Martin Alund
+3,2006,Andres Molteni,Juan Francisco Spina
+3,2006,Rafael Farias,Alexandre Bonatto
+3,2006,Denys Molchanov,Artemon Apostu Efremov
+3,2006,Shane La Porte,Daniel Yoo
+3,2006,Pablo Galdon,Eduardo Schwank
+3,2006,Victor Stanica,Teodor Bolanu
+3,2006,Alexander Sadecky,Giuseppe Menga
+3,2006,Sergio Perez Perez,Adrian Menendez Maceiras
+3,2006,Ismar Gorcic,Giancarlo Petrazzuolo
+3,2006,Alexandru Raul Lazar,Victor Ionita
+3,2006,Joao Souza,Franco Ferreiro
+3,2006,Raony Carvalho,Franco Ferreiro
+3,2006,Horacio Zeballos,Diego Cristin
+3,2006,Benjamin Dracos,Karim Maamoun
+3,2006,Adrian Cruciat,Teodor Dacian Craciun
+3,2006,Adrian Cruciat,Victor Ionita
+3,2006,Adrian Cruciat,Victor Stanica
+3,2006,Yuichi Sugita,Satoshi Iwabuchi
+3,2006,Pere Riba,Pablo Santos
+3,2006,Purav Raja,Vinod Sridhar
+3,2006,Vincent Spadea,Lleyton Hewitt
+3,2006,Blaz Kavcic,Marko Tkalec
+3,2006,Tim Henman,Dmitry Tursunov
+3,2006,Juan Martin Aranguren,Eduardo Schwank
+3,2006,Dick Norman,Michael Llodra
+3,2006,Julien Maes,Alexandre Renard
+3,2006,Sadik Kadir,Konstantinos Economidis
+3,2006,Giancarlo Petrazzuolo,Alexandr Dolgopolov
+3,2006,Tom Rushby,Josh Goodall
+3,2006,Antoine Benneteau,Ishay Hadash
+3,2006,Rodrigo Guidolin,Lucas Engel
+3,2006,Amit Inbar,Dekel Valtzer
+3,2006,Adam Feeney,Alun Jones
+3,2006,Juan Francisco Spina,Martin Alund
+3,2006,David Savic,Grega Zemlja
+3,2006,Hector Ruiz Cadenas,Bartolome Salva Vidal
+3,2006,Miquel Perez Puigdomenech,David Luque Velasco
+3,2006,Miquel Perez Puigdomenech,Javier Genaro Martinez
+3,2006,Lenoir Ramos,Ricardo Hocevar
+3,2006,Leandro Migani,Eduardo Schwank
+3,2006,Motaz Abou El Khair,Adam Vejmelka
+3,2006,Diego Cristin,Martin Alund
+3,2006,Teodor Bolanu,Victor Ionita
+3,2006,Fabrice Santoro,Tomas Berdych
+3,2006,Darko Madjarovski,Nikola Ciric
+3,2006,Jordi Marse Vidri,Pablo Santos
+3,2006,Kenneth Carlsen,Robby Ginepri
+3,2006,Andre Ghem,Thiago Alves
+3,2006,Tim Henman,Roger Federer
+3,2006,Jose Rubin Statham,Andrew Coelho
+3,2006,Oscar Rodriguez Sanchez,Antonio Pastorino
+3,2006,Carlos Moya,James Blake
+3,2006,Mariano Zabaleta,Sergio Roitman
+3,2006,Miha Gregorc,Roman Borvanov
+3,2006,Marcel Felder,Pablo Galdon
+3,2006,Nicolas Massu,Roger Federer
+3,2006,Nicolas Mahut,Marat Safin
+3,2006,Martin Lee,Josh Goodall
+3,2006,Paul Henri Mathieu,Rafael Nadal
+3,2006,Nikolay Davydenko,David Nalbandian
+3,2006,Mardy Fish,Rafael Nadal
+3,2006,Jarkko Nieminen,James Blake
+3,2006,Noam Okun,Frank Dancevic
+3,2006,Agustin Calleri,Ivan Ljubicic
+3,2006,Agustin Calleri,Nikolay Davydenko
+3,2006,Danai Udomchoke,Dmitry Tursunov
+3,2006,Karim Maamoun,Mohamed Mamoun
+3,2006,Ivan Ljubicic,Roger Federer
+3,2006,Dong Hyun Kim,Woong Sun Jun
+3,2006,Paradorn Srichaphan,Roger Federer
+3,2006,Alex Bogdanovic,Raemon Sluiter
+3,2006,Marat Safin,Fernando Gonzalez
+3,2006,Tetsuya Chaen,Oh Hee Kwon
+3,2006,David Ferrer,Roger Federer
+3,2006,Sergei Bubka,Josh Goodall
+3,2006,Phillip Simmonds,Amer Delic
+3,2006,Carlos Berlocq,Guillermo Canas
+3,2006,Josh Goodall,Martin Lee
+3,2006,Gabriel Pitta,Franco Ferreiro
+3,2006,Guillem Burniol,Pablo Santos
+3,2006,Brendan Evans,Michael Russell
+3,2006,Sebastian Rieschick,Dustin Brown
+3,2006,Dieter Kindlmann,Gorka Fraile
+3,2006,Ashkan Shokoofi,Alexander Satschko
+3,2006,Tomas Berdych,Roger Federer
+3,2006,Philipp Petzschner,Ernests Gulbis
+3,2006,Lucas Jovita,Miguel Angel Lopez Jaen
+3,2006,Carlos Avellan,Juan Pablo Villar
+3,2006,Marcos Daniel,Nicolas Massu
+3,2006,Marcos Daniel,Martin Vassallo Arguello
+3,2006,Julio Silva,Leonardo Mayer
+3,2006,Fernando Verdasco,Andy Roddick
+3,2006,Rajeev Ram,Eric Nunez
+3,2006,Gorka Fraile,Jose Antonio Sanchez De Luna
+3,2006,Jean Francois Bachelot,Nicolas Tourte
+5,2007,Ignacio Coll Riudavets,Pedro Clar Rossello
+5,2007,Rajeev Ram,Donald Young
+5,2007,Novak Djokovic,Rafael Nadal
+5,2007,Leandro Migani,Juan Martin Aranguren
+4,2007,Robert Belak,David Savic
+4,2007,Carlos Rexach Itoiz,Javier Genaro Martinez
+4,2007,Daniel Dutra Da Silva,Leonardo Kirche
+4,2007,Ricardo Hocevar,Daniel Dutra Da Silva
+4,2007,Paolo Lorenzi,Juan Pablo Brzezicki
+4,2007,Brendan Evans,Bobby Reynolds
+4,2007,Javier Genaro Martinez,Adrian Menendez Maceiras
+4,2007,Frederico Gil,Fabio Fognini
+3,2007,Antonio Sancic,Marin Bradaric
+3,2007,Mikhail Youzhny,Rafael Nadal
+3,2007,Fumiaki Kita,Takahiro Terachi
+3,2007,Andres Molteni,Damian Patriarca
+3,2007,Caio Burjaili,Tiago Lopes
+3,2007,Andres Molteni,Juan Martin Aranguren
+3,2007,Dylan Sessagesimi,Mathieu Guenat
+3,2007,Daniel Cox,Josh Goodall
+3,2007,Damian Guichonet,Alejandro Kon
+3,2007,Facundo Bagnis,Martin Alund
+3,2007,Thales Turini,Lucas Engel
+3,2007,Guillermo Alcaide,Pierre Ludovic Duclos
+3,2007,Andre Pinheiro,Cesar Ferrer Victoria
+3,2007,James Blake,Ivo Karlovic
+3,2007,Marcos Conocente,Alejandro Fabbri
+3,2007,Tomas Zib,Werner Eschauer
+3,2007,Alexander Stamchev,Ilia Kushev
+3,2007,Chris Eaton,Jan Stancik
+3,2007,Myles Blake,Sam Groth
+3,2007,Daniel Munoz de la Nava,Daniel Gimeno Traver
+3,2007,Alexandru Raul Lazar,Petru Alexandru Luncanu
+3,2007,Manuel Jorquera,Francesco Piccari
+3,2007,Federico Cavallero,Andres Molteni
+3,2007,Miguel Angel Lopez Jaen,Marc Fornell Mestres
+3,2007,Raian Luchici,Victor Estrella
+3,2007,Gabriel Trujillo Soler,Miguel Angel Lopez Jaen
+3,2007,Martin Pedersen,Frederik Nielsen
+3,2007,Vaja Uzakov,Konstantin Kravchuk
+3,2007,Juan Manuel Elizondo,Miguel Gallardo Valles
+3,2007,Michel Koning,Matwe Middelkoop
+3,2007,Kevin Anderson,Rajeev Ram
+3,2007,Rabie Chaki,Mounir El Aarej
+3,2007,Piero Luisi,Julio Cesar Campozano
+3,2007,Alexandr Dolgopolov,Thierry Ascione
+3,2007,Gabriel Trujillo Soler,David Marrero
+3,2007,Marco Pedrini,Walter Trusendi
+3,2007,Kevin Kim,Hyung Taik Lee
+3,2007,Federico Torresi,Adrian Cruciat
+3,2007,Andre Miele,Brian Dabul
+3,2007,Andre Miele,Joao Souza
+3,2007,Enrico Burzi,Alberto Brizzi
+3,2007,Aditya Madkekar,Elbert Sie
+3,2007,Victor Mugurel Anagnastopol,Victor Stanica
+3,2007,Simeon Ivanov,Vasil Mladenov
+3,2007,Simeon Ivanov,Todor Enev
+3,2007,Adam Feeney,Robert Smeets
+3,2007,Markus Egger,Marek Semjan
+3,2007,Nicholas Monroe,Gouichi Motomura
+3,2007,David Savic,Ivaylo Traykov
+3,2007,Jeremy Blandin,Aisam Ul Haq Qureshi
+3,2007,Lionel Noviski,Martin Alund
+3,2007,Diego Lopez,Juan Martin Aranguren
+3,2007,Masatoshi Miyazaki,Takahiro Terachi
+3,2007,Juan Albert Viloca Puig,Bartolome Salva Vidal
+3,2007,Nicolas Tourte,Robin Haase
+3,2007,David Estruch,Pedro Clar Rossello
+3,2007,Matthew Smith,Daniel King Turner
+3,2007,Marco Di Vuolo,Matteo Viola
+3,2007,Lenoir Ramos,Daniel Dutra Da Silva
+3,2007,Benedikt Dorsch,Robert Kendrick
+3,2007,Marcel Granollers,Santiago Ventura
+3,2007,Igor Kunitsyn,Florian Mayer
+3,2007,Diego Junqueira,Pablo Cuevas
+3,2007,Rohan Bopanna,Wesley Moodie
+3,2007,Oh Hee Kwon,Ti Chen
+3,2007,Rafael Nadal,Roger Federer
+3,2007,Marcos Daniel,Juan Pablo Guzman
+3,2007,Fernando Verdasco,Tomas Berdych
+3,2007,Fernando Verdasco,Andy Roddick
+3,2007,Jurgen Melzer,Guillermo Canas
+3,2007,David Ferrer,Roger Federer
+3,2007,Gorka Fraile,Alessio Di Mauro
+3,2007,Philipp Kohlschreiber,Rafael Nadal
+3,2007,Zack Fleishman,Robert Kendrick
+3,2007,Julien Benneteau,Sam Querrey
+3,2007,Nikolay Davydenko,Roger Federer
+3,2007,Nikolay Davydenko,Andy Murray
+3,2007,Paul Henri Mathieu,Fernando Verdasco
+3,2007,Andy Roddick,Roger Federer
+3,2007,Hugo Armando,Paul Capdeville
+3,2007,Ivo Karlovic,Roger Federer
+3,2007,Marc Lopez,Francesco Aldi
+3,2007,Marc Lopez,Juan Pablo Guzman
+3,2007,Hiroki Kondo,Gouichi Motomura
+3,2007,Stan Wawrinka,Rafael Nadal
+3,2007,Mikhail Youzhny,Roger Federer
+3,2007,Alessio Di Mauro,Santiago Ventura
+3,2007,Tomas Berdych,Mikhail Youzhny
+3,2007,Sam Querrey,Tommy Haas
+3,2007,Benjamin Becker,Ivo Karlovic
+3,2007,Juan Martin del Potro,Rafael Nadal
+3,2007,Juan Martin del Potro,Frank Dancevic
+3,2007,Jesse Witten,Ilija Bozoljac
+3,2007,Juan Pablo Brzezicki,Diego Junqueira
+3,2007,Scott Oudsema,Noam Okun
+3,2007,Abdullah Maqdas,Andrei Mlendea
+3,2007,Hyun Woo Nam,Kyu Tae Im
+3,2007,Pierrick Ysern,Adriano Biasella
+3,2007,Karan Rastogi,Prakash Amritraj
+3,2007,Marcos Baghdatis,Rafael Nadal
+3,2007,Raphael Durek,Dawid Olejniczak
+3,2007,Roko Karanusic,Werner Eschauer
+3,2007,Gabriel Moraru,Catalin Ionut Gard
+3,2007,Ilija Bozoljac,Donald Young
+3,2007,Rui Machado,Guillermo Olaso
+3,2007,Agustin Calleri,Guillermo Canas
+3,2007,Gilles Simon,Tommy Robredo
+3,2007,Juan Carlos Ferrero,Roger Federer
+3,2007,Ivan Navarro,Carlos Berlocq
+3,2007,Nicolas Almagro,Roger Federer
+3,2007,Nikita Kryvonos,John Isner
+14,2008,Roy Emerson,Rod Laver
+14,2008,Fred Stolle,Rod Laver
+13,2008,Roger Taylor,John Newcombe
+12,2008,Ken Rosewall,Rod Laver
+12,2008,Nikola Pilic,John Newcombe
+11,2008,Andres Gimeno,Rod Laver
+11,2008,Pierre Barthes,John Newcombe
+10,2008,Earl Butch Buchholz,Tony Roche
+9,2008,Richard Gonzalez,Rod Laver
+9,2008,Vic Seixas,Ken Rosewall
+9,2008,Tony Roche,Dennis Ralston
+8,2008,Jean Laurent Robert Borotra,Bill Tilden Ii
+8,2008,Rod Laver,Roy Emerson
+8,2008,John Newcombe,Dennis Ralston
+8,2008,Dennis Ralston,Rod Laver
+8,2008,John Newcombe,Tony Roche
+7,2008,Bill Tilden Ii,Henri Jean Cochet
+7,2008,Raymond Moore,Marty Riessen
+7,2008,Tom Okker,Rod Laver
+7,2008,Raymond Moore,Tony Roche
+7,2008,Cliff Drysdale,John Newcombe
+6,2008,Uffe Schmidt,Nicola Pietrangeli
+6,2008,Jack Crawford,Fred Perry
+6,2008,Marty Riessen,Tony Roche
+6,2008,Neale Fraser,Ashley Cooper
+6,2008,Marty Riessen,Manuel Santana
+5,2008,Jacques Thomas,Budge Patty
+5,2008,Bob Lutz,Clark Graebner
+5,2008,Allan Stone,Tony Roche
+5,2008,Jacques Christian Boussus,Jack Crawford
+5,2008,Jim Mcmanus,Clark Graebner
+5,2008,Nicola Pietrangeli,Rod Laver
+5,2008,Bill Johnston,Bill Tilden Ii
+5,2008,Jim Osborne,Arthur Ashe
+5,2008,Ray Ruffels,Arthur Ashe
+5,2008,Gottfried Alexander Maximilian Walter Kurt Von Cramm,Fred Perry
+5,2008,Bob Lutz,Arthur Ashe
+5,2008,Charlie Pasarell,Stan Smith
+5,2008,Gerald Leighton Patterson,Bill Tilden Ii
+5,2008,Ron Holmberg,Roy Emerson
+5,2008,Herbert Fortescue Lawford,William Charles Renshaw
+5,2008,Ron Holmberg,Dennis Ralston
+4,2008,Javier Genaro Martinez,Jose Checa Calvo
+4,2008,Bunny Austin,Gottfried Alexander Maximilian Walter Kurt Von Cramm
+4,2008,Roger Federer,Rafael Nadal
+4,2008,Rodrigo Antonio Grilli,Eric Gomes
+4,2008,John William Van Ryn,Fred Perry
+4,2008,Nicolas Kiefer,Rafael Nadal
+4,2008,Sven Viktor Davidson,Tony Trabert
+4,2008,Frank Lorymer Riseley,Laurie Doherty
+4,2008,Billy Knight,Nicola Pietrangeli
+4,2008,Kurt Nielsen,Vic Seixas
+4,2008,Sergio Gutierrez Ferrol,Javier Genaro Martinez
+4,2008,Chuck Mckinley,Roy Emerson
+4,2008,Charles Roche,Matteo Marrai
+4,2008,John Francis Hennessey,Henri Jean Cochet
+4,2008,Lennart Bergelin,Jaroslav Drobny
+4,2008,Pablo Martin Adalia,Jose Checa Calvo
+4,2008,Theodore Roosevelt Pell,Maurice Evans Mcloughlin
+4,2008,Mervyn Rose,Tony Trabert
+4,2008,Andriej Kapas,Marcin Gawron
+4,2008,Beals Coleman Wright,Bill Larned
+4,2008,Jaime Fillol,Stan Smith
+4,2008,Budge Patty,Jaroslav Drobny
+4,2008,Frank Hunter,Henri Jean Cochet
+4,2008,Mardy Fish,Andy Roddick
+4,2008,Nikola Ciric,Attila Balazs
+4,2008,John William Van Ryn,Bill Tilden Ii
+4,2008,Robin Soderling,Roger Federer
+4,2008,Joao Wiesinger,Leonardo Kirche
+4,2008,Viv Mcgrath,Gottfried Alexander Maximilian Walter Kurt Von Cramm
+4,2008,Denis Gremelmayr,Vincent Spadea
+4,2008,Costin Paval,Teodor Dacian Craciun
+4,2008,George Martin Lott,Jean Laurent Robert Borotra
+4,2008,Daniel Koellerer,Alberto Martin
+4,2008,Gustavo Junqueira De Andrade,Fernando Romboli
+4,2008,Ismar Gorcic,Tomas Tenconi
+4,2008,Novak Djokovic,Rafael Nadal
+4,2008,Barry Phillips Moore,Roy Emerson
+4,2008,Harry Lee,Jack Crawford
+4,2008,Piero Luisi,Jose De Armas
+4,2008,Ove Bengtson,Tom Okker
+4,2008,Ricardo Tapia,Wilmer Lawson Allison
+4,2008,Santiago Giraldo,Marcos Daniel
+4,2008,Manuel Santana,Arthur Ashe
+4,2008,Gil Hall,Sidney Burr Wood Jr
+4,2008,Yohny Romero,Jose De Armas
+4,2008,Thomas Lejus,Nicola Pietrangeli
+4,2008,Tzvetan Mihov,Ivaylo Traykov
+4,2008,Robert Haillet,Sven Viktor Davidson
+4,2008,Robert Wilson,Sven Viktor Davidson
+4,2008,Roderich Ferdinand Ottomar Menzel,Fred Perry
+4,2008,Osamu Ishiguro,Ramanathan Krishnan
+4,2008,Cliff Richey,Roy Emerson
+4,2008,Wilmer Lawson Allison,Fred Perry
+4,2008,Richard Russell,Stan Smith
+4,2008,Onny Parun,Stan Smith
+4,2008,Rafael Osuna,Dennis Ralston
+4,2008,Graham Stilwell,Bob Hewitt
+4,2008,Premjit Lall,Clark Graebner
+4,2008,Arthur Ashe,Rod Laver
+4,2008,Jaidip Mukerjea,Roy Emerson
+4,2008,Arthur Ashe,Stan Smith
+4,2008,Clark Graebner,Arthur Ashe
+4,2008,Arthur Ashe,Roy Emerson
+4,2008,Pancho Guzman,Cliff Richey
+4,2008,Joaquin Loyo Mayo,Cliff Richey
+4,2008,Francois Jauffret,Martin Mulligan
+4,2008,Thomas Lejus,Manuel Santana
+4,2008,Pancho Segura,Rod Laver
+4,2008,Jan Kodes,Ilie Nastase
+4,2008,Juan Gisbert,Tom Okker
+4,2008,Wilhelm Bungert,Roy Emerson
+4,2008,Ion Tiriac,Martin Mulligan
+4,2008,Tom Edlefsen,Jan Kodes
+4,2008,Tom Edlefsen,Zeljko Franulovic
+4,2008,Bill Bowrey,Roy Emerson
+4,2008,Jose Edison Mandarino,Martin Mulligan
+3,2008,Diego Matos,Fernando Romboli
+3,2008,Dieter Kindlmann,Andreas Beck
+3,2008,Jose Luis Arillla,Jan Leschly
+3,2008,Gonzalo Tur,Nicolas Jara Lozano
+3,2008,Roko Karanusic,Christophe Rochus
+3,2008,Georges Goven,Tom Okker
+3,2008,Pierrick Ysern,Niels Desein
+3,2008,Daniel Gimeno Traver,Joao Souza
+3,2008,Roy Barth,Stan Smith
+3,2008,Simeon Ivanov,Ivaylo Traykov
+3,2008,Ivo Minar,Oscar Hernandez
+3,2008,Wieslaw Gasiorek,Edison Mandarino
+3,2008,Gaston Arturo Grimolizzi,Andres Molteni
+3,2008,Florent Serra,Rafael Nadal
+3,2008,Terry Addison,Arthur Ashe
+3,2008,Gaston Arturo Grimolizzi,Juan Pablo Amado
+3,2008,Tasuku Iwami,Yuichi Sugita
+3,2008,Ray Keldie,Bob Lutz
+3,2008,Pedro Clar Rossello,David Diaz Ventura
+3,2008,Ramanathan Krishnan,Roy Emerson
+3,2008,Terry Addison,Bill Bowrey
+3,2008,Adam Feeney,Colin Ebelthite
+3,2008,Igor Andreev,Juan Martin del Potro
+3,2008,Eric Drossart,Nicola Pietrangeli
+3,2008,Juan Manuel Valverde,Leonardo Kirche
+3,2008,Abe Segal,Ken Rosewall
+3,2008,Gardnar Mulloy,John Edward Bromwich
+3,2008,Jose Checa Calvo,Sergio Gutierrez Ferrol
+3,2008,Potito Starace,Rafael Nadal
+3,2008,Ingo Buding,Ray Ruffels
+3,2008,Juan Francisco Spina,Nicolas Jara Lozano
+3,2008,Gilles Simon,Andy Murray
+3,2008,Dick Crealy,Tom Okker
+3,2008,Gary Lugassy,Jean Christophe Faurel
+3,2008,Stan Wawrinka,Andy Murray
+3,2008,Bob Hewitt,Tom Okker
+3,2008,Evan Oneil,Marinko Matosevic
+3,2008,Carlos Avellan,Cristhian Ignacio Benedetti
+3,2008,Harald Elschenbroich,Martin Mulligan
+3,2008,Andrew Gregory,Marinko Matosevic
+3,2008,Guillermo Hormazabal,Hans Podlipnik Castillo
+3,2008,Harald Elschenbroich,Tom Okker
+3,2008,Byung Kook Kang,Kento Takeuchi
+3,2008,Fernando Verdasco,Andy Murray
+3,2008,Gardnar Mulloy,Herb Flam
+3,2008,Andrei Mlendea,Gabriel Moraru
+3,2008,Frank Dancevic,Bobby Reynolds
+3,2008,Phil Dent,Ray Ruffels
+3,2008,Alexander Flock,Alexandre Renard
+3,2008,Alessio Di Mauro,Diego Junqueira
+3,2008,Bob Hewitt,Rod Laver
+3,2008,Ryan Young,Deniss Pavlovs
+3,2008,Gael Monfils,Roger Federer
+3,2008,Zeljko Franulovic,Mark Cox
+3,2008,Ignacio Coll Riudavets,Pablo Martin Adalia
+3,2008,Luka Gregorc,Robert Kendrick
+3,2008,Zeljko Franulovic,Tom Okker
+3,2008,Mohamed Nazim Saber,Mehdi Ziadi
+3,2008,Richard Gasquet,Dmitry Tursunov
+3,2008,Nicola Spear,Massimo Di Domenico
+3,2008,Victor Kozin,Vladislav Bondarenko
+3,2008,Brydan Klein,Matthew Ebden
+3,2008,Jan Kukal,Mark Cox
+3,2008,Rodrigo Perez,Martin Alund
+3,2008,Pere Riba,Daniel Gimeno Traver
+3,2008,Dick Crealy,Roy Emerson
+3,2008,Agustin Picco,Andres Molteni
+3,2008,Denis Matsukevitch,Denis Istomin
+3,2008,Manuel Orantes,Manuel Santana
+3,2008,Carlos Cuenca Navarro,Roberto Bautista Agut
+3,2008,Pablo Andujar,Nicolas Devilder
+3,2008,Mark Cox,Tom Okker
+3,2008,Andoni Vivanco Guzman,Jose Checa Calvo
+3,2008,David Guez,Adrian Mannarino
+3,2008,Torben Ulrich,Roy Emerson
+3,2008,Georgi Rumenov Payakov,Roberto Bautista Agut
+3,2008,Laurent Recouderc,Pablo Andujar
+3,2008,Torben Ulrich,Nicola Pietrangeli
+3,2008,Andre Pinheiro,Tiago Lopes
+3,2008,Ramanathan Krishnan,Mervyn Rose
+3,2008,Torben Ulrich,Orlando Sirola
+3,2008,Georgi Rumenov Payakov,Jose Checa Calvo
+3,2008,Julio Cesar Campozano,Jose De Armas
+3,2008,Torben Ulrich,Robert Haillet
+3,2008,Nicolas Jara Lozano,Jonathan Gonzalia
+3,2008,Andre Ghem,Rogerio Dutra Silva
+3,2008,Giuseppe Merlo,Lew Hoad
+3,2008,Jared Easton,Adam Feeney
+3,2008,Flavio Cipolla,Alberto Martin
+3,2008,Koji Watanabe,Ramanathan Krishnan
+3,2008,Diego Matos,Tiago Lopes
+3,2008,Sam Warburg,Vincent Spadea
+3,2008,Koji Watanabe,Bill Bowrey
+3,2008,Mahmoud Bahaa Hamed,Anas Fattar
+3,2008,Mischa Zverev,Fernando Verdasco
+3,2008,Patricio Cornejo,Clark Graebner
+3,2008,Eladio Ribeiro Neto,Andre Miele
+3,2008,Eric Nunez,Giovanni Lapentti
+3,2008,Patricio Rodriguez Chi,Pierre Darmon
+3,2008,Eladio Ribeiro Neto,Marcel Felder
+3,2008,Marin Cilic,Paul Henri Mathieu
+3,2008,Ken Fletcher,Fred Stolle
+3,2008,Vladislav Bondarenko,Gabriel Moraru
+3,2008,Jesse Witten,Robert Kendrick
+3,2008,Thomaz Koch,Istvan Gulyas
+3,2008,Andrei Levine,Aleksandr Agafonov
+3,2008,Carlos Berlocq,Potito Starace
+3,2008,Thomaz Koch,Nicola Pietrangeli
+3,2008,Rupesh Roy,Patrick Taubert
+3,2008,Andy Murray,Rafael Nadal
+3,2008,Mark Cox,John Newcombe
+3,2008,Tiago Lopes,Rogerio Dutra Silva
+3,2008,Pablo Cuevas,Fernando Gonzalez
+3,2008,Mark Cox,Clark Graebner
+3,2008,Tiago Lopes,Leonardo Kirche
+3,2008,Frederico Gil,Jeremy Chardy
+3,2008,Mark Cox,Bob Hewitt
+3,2008,Victor Kozin,Ilya Belyaev
+3,2008,Scoville Jenkins,Robert Kendrick
+3,2008,Lew Hoad,Vic Seixas
+3,2008,Laurentiu Erlic,Robert Coman
+3,2008,Alejandro Olmedo,Neale Fraser
+3,2008,Dimitri Sturdza,Ingo Buding
+3,2008,Andrew Coelho,Brydan Klein
+3,2008,Jose Acasuso,Albert Montanes
+3,2008,Lew Hoad,Ken Rosewall
+3,2008,Tom Hughan,Ignacy Hanislaw Tloczynski
+3,2008,Jose Acasuso,Gilles Simon
+3,2008,Boro Jovanovic,Pierre Barthes
+3,2008,Sadik Kadir,Greg Jones
+3,2008,Francois Godbout,Tony Palafox
+3,2008,Owen Davidson,Roy Emerson
+3,2008,Tony Mottram,Lennart Bergelin
+3,2008,Jan Erik Lundquist,Manuel Santana
+3,2008,Owen Davidson,Fred Stolle
+3,2008,Seymour Greenberg,Frank Parker
+3,2008,Hamilton Richardson,Ken Rosewall
+3,2008,Luis Ayala,Nicola Pietrangeli
+3,2008,Fred Kovaleski,Tom Brown
+3,2008,Frank Froehling,Rod Laver
+3,2008,Peter Curtis,Tom Okker
+3,2008,Bob Falkenburg,Jack Kramer
+3,2008,Taghi Akbari,Jaidip Mukerjea
+3,2008,John Barrett,Ken Rosewall
+3,2008,Cristian Villagran,Diego Junqueira
+3,2008,Senaka Kumara,Shiv Prakash Misra
+3,2008,Mal Anderson,Vic Seixas
+3,2008,Philippe Washer,Vic Seixas
+3,2008,Felicisimo Ampon,Lennart Bergelin
+3,2008,Mal Anderson,Ashley Cooper
+3,2008,Geoffrey Edmund Brown,John Edward Bromwich
+3,2008,Stan Smith,Rod Laver
+3,2008,Jan Leschly,Marty Riessen
+3,2008,Jacques Peten,Torsten Johansson
+3,2008,Keith Diepraam,Wilhelm Bungert
+3,2008,Martin Mulligan,Neale Fraser
+3,2008,Jacques Peten,Ricky Morea
+3,2008,Mike Belkin,Cliff Richey
+3,2008,Thedy Stalder,Ingo Buding
+3,2008,Colin Foster Long,John Edward Bromwich
+3,2008,Frank Parker,Don Budge
+3,2008,Pierre Darmon,Cliff Drysdale
+3,2008,Frank Arthur Sedgman,Ted Schroeder
+3,2008,Marcello Lara,Cliff Richey
+3,2008,Pierre Darmon,Rod Laver
+3,2008,George Toley,Don Mcneill
+3,2008,Sherwood Stewart,Clark Graebner
+3,2008,Pierre Darmon,Manuel Santana
+3,2008,Roger Dessair,Robert Abdesselam
+3,2008,Michael Sangster,Roy Emerson
+3,2008,Istvan Gulyas,Manuel Orantes
+3,2008,Franjo Puncec,Roderich Ferdinand Ottomar Menzel
+3,2008,Tony Palafox,Fred Stolle
+3,2008,Istvan Gulyas,Neale Fraser
+3,2008,Josip Palada,Roderich Ferdinand Ottomar Menzel
+3,2008,Tony Palafox,Dennis Ralston
+3,2008,Boro Jovanovic,Manuel Santana
+3,2008,Georg Felix Von Metaxa,Andre Merlin
+3,2008,Tony Palafox,Rod Laver
+3,2008,Thedy Stalder,Wilhelm Bungert
+3,2008,Charles Edgar Hare,Frank Parker
+3,2008,Roger Becker,Luis Ayala
+3,2008,Mark Cox,Cliff Richey
+3,2008,Don Budge,Fred Perry
+3,2008,Dan Bleckinger,Stan Smith
+3,2008,Zenzo Shimidzu,Bill Tilden Ii
+3,2008,John Edward Bromwich,Don Budge
+3,2008,Christian Kuhnke,Manuel Santana
+3,2008,Norman Peach,Richard E Schlessinger
+3,2008,Ronald Alfred Shayes,Bobby Riggs
+3,2008,Don Candy,Frank Arthur Sedgman
+3,2008,Toto Brugnon,Bunny Austin
+3,2008,Jim Gilchrist,Adrian Karl Quist
+3,2008,Jozsef Asboth,Philippe Washer
+3,2008,Manuel Alonso De Areyzaga,Jean Rene Lacoste
+3,2008,Max Bonner,Bill Sidwell
+3,2008,Michael Sangster,Wilhelm Bungert
+3,2008,Vladimir M Landau,John Colin Gregory
+3,2008,Billy Gillespie,Frank Parker
+3,2008,Paul Henri Mathieu,Marin Cilic
+3,2008,Pat O'Hara Wood,James Outram Anderson
+3,2008,Andras Adam Stolpa,Philippe Washer
+3,2008,Ed Grubb,Charlie Pasarell
+3,2008,Vinnie Richards,Bill Johnston
+3,2008,Philippe Washer,Frank Arthur Sedgman
+3,2008,Jurgen Melzer,Marin Cilic
+3,2008,Vinnie Richards,Bill Tilden Ii
+3,2008,Eric William Sturgess,Frank Arthur Sedgman
+3,2008,Jurgen Melzer,Andy Murray
+3,2008,Percy Lloyd Kynaston,Jerry Lang
+3,2008,Chung Yang Im,Felicisimo Ampon
+3,2008,Christophe Rochus,Steve Darcis
+3,2008,Ichiya Kumagae,Bill Tilden Ii
+3,2008,Sang Yun Lee,Osamu Ishiguro
+3,2008,Radek Stepanek,Roger Federer
+3,2008,Fred Perry,Giorgio De Stefani
+3,2008,Bob Mark,Barry Mackay
+3,2008,Karim Maamoun,Talal Ouahabi
+3,2008,Adrian Karl Quist,Don Budge
+3,2008,Eric William Sturgess,Frank Parker
+3,2008,Bjorn Phau,Yen Hsun Lu
+3,2008,Sydney Montague Jacob,Jean Rene Lacoste
+3,2008,Jiri Javorsky,Billy Knight
+3,2008,Kevin Kim,Alex Bogomolov Jr
+3,2008,Ladislav Hecht,Gottfried Alexander Maximilian Walter Kurt Von Cramm
+3,2008,Orlando Sirola,Jackie Brichant
+3,2008,Barry Mackay,Neale Fraser
+3,2008,Oswald Graham Noel Turnbull,Jean Laurent Robert Borotra
+3,2008,Orlando Sirola,Roy Emerson
+3,2008,Juan Sebastian Cabal,Joao Souza
+3,2008,Umberto Luigi De Morpurgo,Jean Rene Lacoste
+3,2008,Orlando Sirola,Neale Fraser
+3,2008,Ronnie Barnes,Manuel Santana
+3,2008,Sidney Burr Wood Jr,Fred Perry
+3,2008,Orlando Sirola,Sven Viktor Davidson
+3,2008,Ronnie Barnes,Pierre Darmon
+3,2008,Henri Jean Cochet,Henry Ellsworth Vines
+3,2008,Orlando Sirola,Rod Laver
+3,2008,Stan Smith,Arthur Ashe
+3,2008,Sidney Burr Wood Jr,Jack Crawford
+3,2008,Jiri Javorsky,Luis Ayala
+3,2008,Robert Bedard,Lew Hoad
+3,2008,Harry Hopman,Viv Mcgrath
+3,2008,Mario Llamas,Roy Emerson
+3,2008,Robert Bedard,Herb Flam
+3,2008,Cliff Es Sproule,Jack Crawford
+3,2008,Mario Llamas,Vic Seixas
+3,2008,Stan Smith,Ilie Nastase
+3,2008,Sidney Burr Wood Jr,Wilmer Lawson Allison
+3,2008,Ken Mcgregor,Jaroslav Drobny
+3,2008,Jozsef Asboth,Jackie Brichant
+3,2008,Frank Shields,Jack Crawford
+3,2008,Ken Mcgregor,Vic Seixas
+3,2008,Filippo Volandri,Nicolas Almagro
+3,2008,Frank Shields,Bunny Austin
+3,2008,Art Larsen,Ken Rosewall
+3,2008,Marsel Ilhan,Gilles Muller
+3,2008,Pat Hughes,Jack Crawford
+3,2008,Art Larsen,Lew Hoad
+3,2008,Herman W Artens,Umberto Luigi De Morpurgo
+3,2008,Tony Trabert,Ken Rosewall
+3,2008,Henri Jean Cochet,Jean Laurent Robert Borotra
+3,2008,Jackie Brichant,Sven Viktor Davidson
+3,2008,Jan Kozeluh,Henk Timmer
+3,2008,Jackie Brichant,Vic Seixas
+3,2008,Jack Wright,Rogelio Paris
+3,2008,Atsushi Miyagi,Ramanathan Krishnan
+3,2008,Henk Timmer,Henri Jean Cochet
+3,2008,Wladyslaw Skonecki,Nicola Pietrangeli
+3,2008,John Colin Gregory,Henri Jean Cochet
+3,2008,John Colin Gregory,Jack Crawford
+3,2008,Ronaldo R Boyd,Henri Jean Cochet
+3,2008,Giorgio De Stefani,Gottfried Alexander Maximilian Walter Kurt Von Cramm
+3,2008,Jean Rene Lacoste,Bill Johnston
+3,2008,Einer Ulrich,Roderich Ferdinand Ottomar Menzel
+3,2008,Dick Williams,Bill Johnston
+3,2008,Arthur Holden Lowe,Francis Gordon Lowe
+3,2008,Dick Williams,Frank Hunter
+3,2008,Gerard Granollers,Roberto Bautista Agut
+3,2008,Gerard Granollers,Javier Genaro Martinez
+3,2008,Kristijan Mesaros,Marcelo Demoliner
+3,2008,Denys Molchanov,Illya Marchenko
+3,2008,Marcin Gawron,Jerzy Janowicz
+3,2008,Hiroki Moriya,Gouichi Motomura
+3,2008,Kento Takeuchi,Tasuku Iwami
+3,2008,Gregoire Burquier,Mathieu Rodrigues
+3,2008,Ernest Renshaw,William Charles Renshaw
+3,2008,Harry Grove,Herbert Fortescue Lawford
+3,2008,Martin Alund,Juan Pablo Amado
+3,2008,Harry Sibthorpe Barlow,Joshua Francis Pim
+3,2008,Artem Sitak,Todd Widom
+3,2008,Andrey Kumantsov,Uladzimir Ignatik
+3,2008,Horacio Zeballos,Leonardo Mayer
+3,2008,Luis David Martinez,Jose De Armas
+3,2008,Mikal Oliver Statham,Adam Feeney
+3,2008,Gvidas Sabeckis,Andre Begemann
+3,2008,Andrey Kumantsov,Igor Sijsling
+3,2008,Valentin Dimov,Tihomir Grozdanov
+3,2008,Alvaro Raposo De Oliveira,Mauricio Doria Medina
+3,2008,Albert Ramos,Javier Genaro Martinez
+3,2008,Facundo Bagnis,Leandro Migani
+3,2008,Fernando Romboli,Rodrigo Antonio Grilli
+3,2008,Marinko Matosevic,Nick Lindahl
+3,2008,Wentworth Gore,Norman Everard Brookes
+3,2008,Wentworth Gore,Harold Segerson Mahony
+3,2008,Joshua Francis Pim,Wlifred Baddeley
+3,2008,Herbert Roper Barrett,Tony Wilding
+3,2008,Robert Leroy,Karl Howell Behr
+3,2008,Henry Pollard,Sydney Howard Smith
+3,2008,Karl Howell Behr,William Jackson Clothier
+3,2008,Herbert Roper Barrett,Sydney Howard Smith
+3,2008,Tony Wilding,Beals Coleman Wright
+3,2008,Alfred Ernest Beamish,James Cecil Parke
+3,2008,Wallace Ford Johnson,Bill Tilden Ii
+3,2008,Anker Jacobsen,Gottfried Alexander Maximilian Walter Kurt Von Cramm
+3,2008,Ali Hassan Fyzee,Jean Laurent Robert Borotra
+3,2008,Fritz W Goldberg,Charles Percy Dixon
+3,2008,Raymond Demerest Little,William Jackson Clothier
+3,2008,Major Josiah George Ritchie,Frank Lorymer Riseley
+3,2008,Major Josiah George Ritchie,Herbert Roper Barrett
+3,2008,Wilberforce Vaughan Eaves,Sydney Howard Smith
+3,2008,Wilberforce Vaughan Eaves,Major Josiah George Ritchie
+3,2008,Harold Segerson Mahony,Joshua Francis Pim
+3,2008,Harold Segerson Mahony,Laurie Doherty
+3,2008,Malcolm G Chace,Bill Larned
+3,2008,Bill Larned,Laurie Doherty
+3,2008,Richard Stevens,Bill Larned
+3,2008,Aw Post,Fred Hovey
+3,2008,Sydney Howard Smith,Frank Lorymer Riseley
+3,2008,Charles Percy Dixon,Major Josiah George Ritchie
+3,2008,William Jackson Clothier,Maurice Evans Mcloughlin
+3,2008,Dick Williams,Maurice Evans Mcloughlin
+3,2008,Horacio Zeballos,Daniel Gimeno Traver
+4,2009,Robert Smeets,Jamie Baker
+4,2009,Marcel Felder,Horacio Zeballos
+4,2009,Dane Propoggia,Daniel King Turner
+4,2009,Sherif Sabry,Karim Maamoun
+4,2009,Andy Roddick,Roger Federer
+4,2009,Marcus Fugate,Denis Zivkovic
+4,2009,Daniele Bracciali,Filippo Volandri
+4,2009,Pierre Metenier,David Guez
+4,2009,Guillermo Bujniewicz,Nicolas Jara Lozano
+4,2009,Eduardo Peralta Tello,Chris Klingemann
+4,2009,Novak Djokovic,Rafael Nadal
+4,2009,Murad Inoyatov,Ivan Sergeyev
+4,2009,Agustin Picco,Guido Pella
+4,2009,Andreas Seppi,Roger Federer
+4,2009,Blaz Rola,Nikola Mektic
+4,2009,Robin Soderling,Roger Federer
+3,2009,Francisco Carbajal,Guido Pella
+3,2009,Jan Hernych,Novak Djokovic
+3,2009,Masato Hatanaka,Chu Huan Yi
+3,2009,Nikolay Davydenko,Robin Soderling
+3,2009,Gilles De Sousa,Bogdan Leonte
+3,2009,Tommy Robredo,Jose Acasuso
+3,2009,Rohan Gajjar,Yuki Bhambri
+3,2009,Juan Carlos Ferrero,Andy Murray
+3,2009,Tony Holzinger,Niels Desein
+3,2009,Igor Kunitsyn,Nikolay Davydenko
+3,2009,Divij Sharan,Vishnu Vardhan
+3,2009,Bjorn Phau,Philipp Kohlschreiber
+3,2009,Jonathan Gonzalia,Lionel Noviski
+3,2009,Fernando Gonzalez,Rafael Nadal
+3,2009,Rodrigo Perez,Cristobal Saavedra Corvalan
+3,2009,Lleyton Hewitt,Andy Roddick
+3,2009,Adam Feeney,Jose Rubin Statham
+3,2009,Ivan Ljubicic,Novak Djokovic
+3,2009,Greg Ouellette,Lester Cook
+3,2009,Roger Federer,Novak Djokovic
+3,2009,Sung Kyun Kang,Tsung Hua Yang
+3,2009,Alberto Martin,Santiago Ventura
+3,2009,Joao Victor Costa,Alexandre Bonatto
+3,2009,Jordi Marse Vidri,Joao Sousa
+3,2009,Ranjeet Virali Murugesan,Young Jun Kim
+3,2009,Andrej Martin,Aljaz Bedene
+3,2009,David Goffin,Dustin Brown
+3,2009,Gerard Granollers,Pedro Clar Rossello
+3,2009,Gerard Granollers,Pablo Carreno Busta
+3,2009,Alessandro Giannessi,Daniele Giorgini
+3,2009,Bassam Beidas,Karim Maamoun
+3,2009,Marco Trungelliti,Agustin Picco
+3,2009,Patrik Rosenholm,Noam Okun
+3,2009,Patrik Rosenholm,Timo Nieminen
+3,2009,Ladislav Chramosta,Nils Langer
+3,2009,Tiago Lopes,Roberto Bautista Agut
+3,2009,Kaden Hensel,John Millman
+3,2009,Gustavo Junqueira De Andrade,Tiago Lopes
+3,2009,Fabricio Neis,Juan Pablo Amado
+3,2009,Ricardo Urzua Rivera,Juan Pablo Villar
+3,2009,Danilo Ferraz,Carlos Oliveira
+3,2009,Guillermo Alcorta Olarra,Pedro Clar Rossello
+3,2009,Diego Matos,Fernando Romboli
+3,2009,Junn Mitsuhashi,Mikhail Ledovskikh
+3,2009,Dayne Kelly,Matthew Ebden
+3,2009,Dayne Kelly,Jose Antonio Sanchez De Luna
+3,2009,Maximiliano Estevez,Gonzalo Tur
+3,2009,Andoni Vivanco Guzman,Pablo Carreno Busta
+3,2009,Ricardo Siggia,Carlos Oliveira
+3,2009,Gustavo Junqueira De Andrade,Rodrigo Guidolin
+3,2009,Georgi Rumenov Payakov,Pedro Clar Rossello
+3,2009,Adam Hubble,Kaden Hensel
+3,2009,Joshua Crowe,Matthew Ebden
+3,2009,Pedro Feitosa,Ricardo Siggia
+3,2009,Bastian Knittel,Marc Sieber
+3,2009,Gustavo Junqueira De Andrade,Fernando Romboli
+3,2009,Nicolas Jara Lozano,Marcos Conocente
+3,2009,Marcos Conocente,Guido Pella
+3,2009,Edesio Semencato,Eladio Ribeiro Neto
+3,2009,Abraham Gonzalez Jimenez,Agustin Boje Ordonez
+3,2009,David Canudas Fernandez,Adrian Menendez Maceiras
+3,2009,Ivo Karlovic,Roger Federer
+3,2009,Martin Cuevas,Pablo Galdon
+3,2009,Federico Zeballos,Guillermo Rivera Aranguiz
+3,2009,Richard Bloomfield,Colin Fleming
+3,2009,Juan Monaco,Fernando Gonzalez
+3,2009,Gilles Simon,Jo-Wilfried Tsonga
+3,2009,Gilles Simon,Novak Djokovic
+3,2009,Florent Serra,Fernando Verdasco
+3,2009,Gilles Simon,Mikhail Youzhny
+3,2009,William Ward,Amir Weintraub
+3,2009,Marco Mirnegg,Ivan Sergeyev
+3,2009,Juan Pablo Brzezicki,Maximo Gonzalez
+3,2009,Fabio Fognini,Gilles Simon
+3,2009,Scoville Jenkins,Jesse Levine
+3,2009,Nicolas Almagro,Robin Soderling
+3,2009,Oscar Hernandez,Potito Starace
+3,2009,Stan Wawrinka,Novak Djokovic
+3,2009,Albert Montanes,Andy Murray
+3,2009,Filippo Volandri,Daniel Koellerer
+3,2009,Sebastien De Chaunac,Bjorn Phau
+3,2009,Janko Tipsarevic,Marin Cilic
+3,2009,Richard Gasquet,Fernando Verdasco
+3,2009,Fernando Verdasco,Andy Murray
+3,2009,Fernando Verdasco,Novak Djokovic
+3,2009,Fernando Verdasco,Rafael Nadal
+3,2009,Julio Silva,Mariano Zabaleta
+3,2009,Rafael Nadal,Novak Djokovic
+3,2009,Rafael Nadal,Juan Martin del Potro
+3,2009,Juan Martin del Potro,Andy Murray
+3,2009,Aldin Setkic,Nikola Mektic
+3,2009,Juan Martin del Potro,Roger Federer
+3,2009,Simone Bolelli,Jo-Wilfried Tsonga
+3,2009,Chris Eaton,Daniel Evans
+3,2009,Carsten Ball,Ryler Deheart
+3,2009,Vishnu Vardhan,Yuki Bhambri
+3,2009,Juan Sebastian Cabal,Alejandro Gonzalez
+3,2009,Jan Minar,Julian Reister
+3,2009,Ricardo Hocevar,Horacio Zeballos
+3,2009,Mohamed Safwat,Anas Fattar
+3,2009,Cristobal Saavedra Corvalan,Jorge Aguilar
+3,2009,Carlos Eduardo Severino,Fernando Romboli
+3,2009,Steven Diez,Andoni Vivanco Guzman
+3,2009,Ariel Behar,Mauricio Echazu
+3,2009,Tatsuma Ito,Young Jun Kim
+3,2009,David Marrero,Pablo Andujar
+3,2009,Weerapat Doakmaiklee,Kento Takeuchi
+3,2009,Viktor Troicki,Juan Martin del Potro
+3,2009,Marcel Granollers,Robin Soderling
+3,2009,Jeremy Chardy,Novak Djokovic
+3,2009,Santiago Giraldo,Alejandro Falla
+3,2009,Juho Paukku,Timo Nieminen
+3,2009,Izak Van Der Merwe,Somdev Devvarman
+3,2009,Laurent Recouderc,Diego Junqueira
+3,2009,Denis Matsukevitch,Bastian Knittel
+3,2009,Michael Mcclune,Michael Russell
+3,2009,Marc Fornell Mestres,Albert Ramos
+3,2009,Juan Manuel Elizondo,Arnau Brugues Davi
+3,2009,Sam Querrey,Robin Soderling
+3,2009,Llaurentiu Ady Gavrila,Andrei Mlendea
+6,2010,Kenny De Schepper,Gregoire Burquier
+5,2010,Martin Cuevas,Juan Pablo Amado
+5,2010,Andre Miele,Cristhian Ignacio Benedetti
+4,2010,Viktor Troicki,Novak Djokovic
+4,2010,Rohan Gajjar,Karan Rastogi
+4,2010,Roberto Ortega Olmedo,Cristobal Saavedra Corvalan
+4,2010,Takuto Niki,Hiroki Moriya
+4,2010,Ryler Deheart,Go Soeda
+4,2010,Stefano Travaglia,Pablo Galdon
+4,2010,Niels Desein,Ruben Bemelmans
+4,2010,David Ferrer,Robin Soderling
+4,2010,Donald Young,Marinko Matosevic
+4,2010,Marcelo Palacios Siegenthale,Pablo Santos
+4,2010,James Mcgee,Josh Goodall
+4,2010,Erik Chvojka,Brydan Klein
+4,2010,Novak Djokovic,Roger Federer
+4,2010,Rodrigo Guidolin,Daniel Dutra Da Silva
+4,2010,Thales Turini,Fernando Romboli
+4,2010,Olivier Rochus,Richard Gasquet
+4,2010,Danilo Ferraz,Fernando Romboli
+3,2010,Ricardo Siggia,Tiago Fernandes
+3,2010,Robert Farah,Izak Van Der Merwe
+3,2010,Richard Gabb,Daniel Evans
+3,2010,Vadim Alekseenko,Andrei Mlendea
+3,2010,Dane Propoggia,Brydan Klein
+3,2010,Pablo Galdon,Facundo Arguello
+3,2010,Alex Theiler,Guillermo Rivera Aranguiz
+3,2010,Issam Al Tawil,Alexander Lobkov
+3,2010,Juan Lizariturry,Marc Fornell Mestres
+3,2010,Pablo Carreno Busta,Miguel Angel Lopez Jaen
+3,2010,Rodrigo Perez,Juan Carlos Saez
+3,2010,Sean Thornley,Daniel Cox
+3,2010,Giorgio Portaluri,Gabriel Dias
+3,2010,Fernando Romboli,Daniel Dutra Da Silva
+3,2010,Joshua Milton,Daniel Evans
+3,2010,Guilherme Clezar,Andre Ghem
+3,2010,Guillermo Duran,Andres Molteni
+3,2010,David Goffin,Grigor Dimitrov
+3,2010,Dorian Descloix,Laurent Rochette
+3,2010,Adrian Ungur,Simone Bolelli
+3,2010,Gustavo Junqueira De Andrade,Fabricio Neis
+3,2010,Alexander Bury,Jerzy Janowicz
+3,2010,Fabricio Neis,Daniel Dutra Da Silva
+3,2010,Joao Souza,Ricardo Hocevar
+3,2010,Arnau Dachs,Pablo Martin Adalia
+3,2010,Christopher Diaz Figueroa,Bruno Rodriguez
+3,2010,Colin Ebelthite,Michael Look
+3,2010,Stanislav Vovk,Alexander Lobkov
+3,2010,Florian Reynet,Romain Jouan
+3,2010,Horacio Zeballos,Philipp Kohlschreiber
+3,2010,Abraham Gonzalez Jimenez,Pablo Martin Adalia
+3,2010,Todd Paul,Robbye Poole
+3,2010,Guillermo Bujniewicz,Joaquin Jesus Monteferrario
+3,2010,Albano Olivetti,Gregoire Burquier
+3,2010,Greg Ouellette,Daniel Yoo
+3,2010,Denis Zivkovic,Daniel Yoo
+3,2010,Juan Manuel Valverde,Patricio Heras
+3,2010,Jose Checa Calvo,Sergio Gutierrez Ferrol
+3,2010,Nicolas Santos,Fernando Romboli
+3,2010,Enrico Iannuzzi,Luca Vanni
+3,2010,David Estruch,Pablo Santos
+3,2010,Antonio Pastorino,Pablo Galdon
+3,2010,Benjamin Mitchell,Sam Groth
+3,2010,Enrique Lopez Perez,Agustin Boje Ordonez
+3,2010,Agustin Boje Ordonez,Marc Fornell Mestres
+3,2010,Leon Frost,Brydan Klein
+3,2010,Laurent Rochette,Albert Ramos
+3,2010,Juan Carlos Saez,Stefano Travaglia
+3,2010,Gregoire Burquier,Romain Jouan
+3,2010,Pablo Martin Adalia,Pablo Carreno Busta
+3,2010,Taro Daniel,Marc Fornell Mestres
+3,2010,Alejandro Gonzalez,Joao Souza
+3,2010,Marcus Willis,Daniel Cox
+3,2010,Marsel Ilhan,James Ward
+3,2010,Tim Smyczek,Robert Kendrick
+3,2010,Carsten Ball,Ryan Harrison
+3,2010,Philipp Kohlschreiber,Rafael Nadal
+3,2010,Vladimir Obradovic,Aldin Setkic
+3,2010,Timo Nieminen,Henri Kontinen
+3,2010,Rik De Voest,Robert Kendrick
+3,2010,Alejandro Falla,Roger Federer
+3,2010,Robert Kendrick,Kei Nishikori
+3,2010,Stan Wawrinka,Rafael Nadal
+3,2010,Daniel Koellerer,Federico Delbonis
+3,2010,Potito Starace,David Ferrer
+3,2010,Alessio Di Mauro,Diego Junqueira
+3,2010,Stan Wawrinka,Roger Federer
+3,2010,Nicolas Almagro,Jo-Wilfried Tsonga
+3,2010,Lukasz Kubot,Nicolas Almagro
+3,2010,Ricardo Mello,Juan Carlos Ferrero
+3,2010,Nicolas Massu,Diego Junqueira
+3,2010,Antony Dupuis,Axel Michon
+3,2010,Ivan Ljubicic,Novak Djokovic
+3,2010,George Bastl,Stephane Bohli
+3,2010,Thiago Alves,Ricardo Mello
+3,2010,Juan Ignacio Chela,Juan Monaco
+3,2010,Mardy Fish,Novak Djokovic
+3,2010,Yaoki Ishii,Hiroki Kondo
+3,2010,Albert Montanes,Robin Soderling
+3,2010,Robin Soderling,Roger Federer
+3,2010,Jurgen Melzer,Roger Federer
+3,2010,Tomas Berdych,Andy Roddick
+3,2010,Tomas Berdych,Rafael Nadal
+3,2010,Dieter Kindlmann,Bjorn Phau
+3,2010,Lukas Lacko,Philipp Petzschner
+3,2010,Lukas Lacko,Mikhail Youzhny
+3,2010,Juho Paukku,Timo Nieminen
+3,2010,Andrey Golubev,Mikhail Youzhny
+3,2010,Flavio Cipolla,Filippo Volandri
+3,2010,Maximo Gonzalez,Andrey Golubev
+3,2010,Thomaz Bellucci,David Ferrer
+3,2010,Weerapat Doakmaiklee,Shuichi Sekiguchi
+3,2010,Romain Jouan,Clement Reix
+3,2010,Tim Smyczek,Bobby Reynolds
+3,2010,Michael Mcclune,Alex Bogomolov Jr
+3,2010,Stefano Ianni,Eric Prodon
+3,2010,Konstantin Kravchuk,Mikhail Kukushkin
+3,2010,Thiemo De Bakker,Andy Roddick
+3,2010,Michal Przysiezny,Gilles Muller
+3,2010,Lester Cook,Bobby Reynolds
+3,2010,Mauricio Echazu,Sebastian Decoud
+3,2010,Frederico Gil,Potito Starace
+3,2010,Olivier Sajous,Catalin Ionut Gard
+3,2010,Andy Murray,Mardy Fish
+3,2010,Carlos Berlocq,Potito Starace
+3,2010,Gianluca Naso,Carlos Berlocq
+3,2010,Dudi Sela,Jurgen Melzer
+3,2010,Victor Crivoi,Ruben Ramirez Hidalgo
+3,2010,Benjamin Becker,Jarkko Nieminen
+3,2010,Brydan Klein,Colin Ebelthite
+3,2010,Joel Lindner,Brydan Klein
+6,2011,Jo-Wilfried Tsonga,Roger Federer
+6,2011,Rafael Nadal,Novak Djokovic
+5,2011,Mathieu Rodrigues,Kenny De Schepper
+5,2011,Kei Nishikori,Janko Tipsarevic
+4,2011,Marco Dierckx,Alexandre Folie
+4,2011,Tomas Berdych,Novak Djokovic
+4,2011,Gilles Simon,Andy Murray
+4,2011,Stan Wawrinka,Roger Federer
+4,2011,Andy Murray,Rafael Nadal
+4,2011,Juan Martin del Potro,Rafael Nadal
+4,2011,Viktor Troicki,Novak Djokovic
+4,2011,Sean Thornley,David Rice
+4,2011,Agustin Velotti,Facundo Arguello
+4,2011,Michael Look,Benjamin Mitchell
+4,2011,Leon Frost,James Lemke
+4,2011,Diego Matos,Rodrigo Guidolin
+4,2011,Roger Federer,Novak Djokovic
+3,2011,Boris Nicola Bakalov,Daniel Garza
+3,2011,Fernando Verdasco,Tomas Berdych
+3,2011,Javier Munoz,Hans Podlipnik Castillo
+3,2011,Yasutaka Uchiyama,Junn Mitsuhashi
+3,2011,Kaza Vinayak Sharma,Vijayant Malik
+3,2011,Vijayant Malik,Vishnu Vardhan
+3,2011,Warut Korkiatthaworn,Kittipong Wachiramanowong
+3,2011,Clement Reix,Nicolas Renavand
+3,2011,Rafael Saraiva,Thales Turini
+3,2011,Carlos Gomez Herrera,Pablo Martin Adalia
+3,2011,Barkin Yalcinkale,Denys Molchanov
+3,2011,Andrei Daescu,Catalin Ionut Gard
+3,2011,David Perez Sanz,Taro Daniel
+3,2011,Albano Olivetti,Charles Antoine Brezac
+3,2011,Dor Belfer,Ruan Roelofse
+3,2011,Luis Diaz Barriga,Marcel Felder
+3,2011,Gavin Van Peperzeel,Matt Reid
+3,2011,Nicolas Renavand,Kenny De Schepper
+3,2011,Arkadiusz Kocyla,Grzegorz Panfil
+3,2011,Michael Russell,Ryan Harrison
+3,2011,Tobias Blomgren,Carl Bergman
+3,2011,Juan Sebastian Vivanco,Guillermo Hormazabal
+3,2011,Gabriel Alejandro Hidalgo,Diego Schwartzman
+3,2011,Tomislav Brkic,Damir Dzumhur
+3,2011,Daniel Fernandez,Marcel Felder
+3,2011,Tomislav Brkic,Blaz Kavcic
+3,2011,Aaron Leeder Chard,Benjamin Mitchell
+3,2011,Jeson Patrombon,Laurent Rochette
+3,2011,Giacomo Oradini,Walter Trusendi
+3,2011,Artem Sitak,Robbye Poole
+3,2011,Giacomo Oradini,Luca Vanni
+3,2011,Andrej Martin,Dmitry Tursunov
+3,2011,Patrik Brydolf,Daniel Berta
+3,2011,Mikhail Youzhny,Philipp Kohlschreiber
+3,2011,Nicolas Gustavo Kauer,Cristobal Saavedra Corvalan
+3,2011,Denis Kudla,Donald Young
+3,2011,Nicolas Gustavo Kauer,Agustin Velotti
+3,2011,Aldin Setkic,Damir Dzumhur
+3,2011,Rafael Mazon Hernandez,David Estruch
+3,2011,Diego Schwartzman,Martin Alund
+3,2011,Bruno Semenzato,Tiago Lopes
+3,2011,Juan Ignacio Londero,Diego Schwartzman
+3,2011,Francesco Borgo,Marco Crugnola
+3,2011,Milos Sekulic,Alexander Rumyantsev
+3,2011,Richard Muzaev,Ervand Gasparyan
+3,2011,Gonzalo Lama,Cristobal Saavedra Corvalan
+3,2011,Patricio Heras,Andrea Collarini
+3,2011,Shinta Fujii,Hiroki Moriya
+3,2011,Gabriel Alejandro Hidalgo,Patricio Heras
+3,2011,Carlos Calderon Rodriguez,Marc Giner
+3,2011,Jose Pereira,Tiago Lopes
+3,2011,Andriej Kapas,Grzegorz Panfil
+3,2011,Juan Manuel Romanazzi,Jonathan Gonzalia
+3,2011,Arnaud Clement,Edouard Roger Vasselin
+3,2011,Juan Pablo Amado,Diego Schwartzman
+3,2011,Rohan Gajjar,Danai Udomchoke
+3,2011,Leandro Migani,Juan Pablo Villar
+3,2011,Pablo Santos,Pablo Carreno Busta
+3,2011,Sergei Krotiouk,Alexander Rumyantsev
+3,2011,Federico Coria,Javier Munoz
+3,2011,Marcus Willis,Josh Goodall
+3,2011,Marcelo Demoliner,Julio Silva
+3,2011,Lorenzo Giustino,Pedro Clar Rossello
+3,2011,Luca Vanni,Daniele Giorgini
+3,2011,Gregoire Burquier,Jesse Huta Galung
+3,2011,Kento Takeuchi,Arata Onozawa
+3,2011,Renzo Olivo,Diego Schwartzman
+3,2011,Martin Cuevas,Duilio Beretta
+3,2011,Cristobal Saavedra Corvalan,Guillermo Hormazabal
+3,2011,Mohamed Safwat,Denys Molchanov
+3,2011,Mao Xin Gong,Zhe Li
+3,2011,Evgeny Kirillov,Konstantin Kravchuk
+3,2011,Juan Pablo Brzezicki,Rogerio Dutra Silva
+3,2011,Carlos Berlocq,Philipp Kohlschreiber
+3,2011,Yen Hsun Lu,Gilles Simon
+3,2011,Daniel Alejandro Lopez Cassaccia,Eladio Ribeiro Neto
+3,2011,Marcos Baghdatis,John Isner
+3,2011,Alex Kuznetsov,Michael Russell
+3,2011,Alex Kuznetsov,Tim Smyczek
+3,2011,Richard Gasquet,Rafael Nadal
+3,2011,Victor Hanescu,Nicolas Almagro
+3,2011,Michal Przysiezny,Rik De Voest
+3,2011,Juan Monaco,Tomas Berdych
+3,2011,Juan Monaco,Roger Federer
+3,2011,Rui Machado,Leonardo Mayer
+3,2011,David Ferrer,Andy Murray
+3,2011,Igor Andreev,Andreas Seppi
+3,2011,Nicolas Almagro,David Ferrer
+3,2011,Andreas Seppi,Marin Cilic
+3,2011,Chris Guccione,Alex Kuznetsov
+3,2011,Ryan Sweeting,Rafael Nadal
+3,2011,Ruben Ramirez Hidalgo,Ricardo Mello
+3,2011,Andreas Haider Maurer,Carlos Berlocq
+3,2011,Alex Bogomolov Jr,John Isner
+3,2011,Raven Klaasen,Michael Russell
+3,2011,Milos Raonic,David Ferrer
+3,2011,Devin Britton,Jesse Levine
+3,2011,Daniel Berta,Timo Nieminen
+3,2011,Harri Heliovaara,Jurgen Zopp
+3,2011,Ryan Harrison,Mardy Fish
+3,2011,Grigor Dimitrov,Jo-Wilfried Tsonga
+3,2011,Alexander Kudryavtsev,Cedrik Marcel Stebe
+3,2011,Jurgen Zopp,Andreas Beck
+3,2011,Marc Gicquel,Edouard Roger Vasselin
+3,2011,Christopher Rungkat,Danai Udomchoke
+3,2011,Kevin Anderson,Juan Martin del Potro
+3,2011,Michael Llodra,Milos Raonic
+3,2011,Mardy Fish,Rafael Nadal
+3,2011,Andrey Golubev,Juan Monaco
+3,2011,Izak Van Der Merwe,Alex Kuznetsov
+3,2011,Daniel Garza,Roman Borvanov
+3,2011,Grzegorz Panfil,Marcin Gawron
+3,2011,Gastao Elias,Julio Silva
+3,2011,Marcel Granollers,Juan Carlos Ferrero
+3,2011,Michael Mcclune,Alex Kuznetsov
+3,2011,Kevin Anderson,Novak Djokovic
+6,2012,Juan Martin del Potro,Roger Federer
+5,2012,Yong Kyu Lim,Yuichi Sugita
+5,2012,Jo-Wilfried Tsonga,Novak Djokovic
+5,2012,Nicolas Almagro,Tomas Berdych
+4,2012,Marco Trungelliti,Martin Alund
+4,2012,Mikhail Youzhny,Roger Federer
+4,2012,Juan Vazquez Valenzuela,Leandro Migani
+4,2012,Ivo Minar,Joao Sousa
+4,2012,Thiago Monteiro,Thiemo De Bakker
+4,2012,Alessandro Giannessi,Filippo Volandri
+4,2012,Juan Samuel Arauzo Martinez,David Souto
+4,2012,Marin Cilic,Juan Martin del Potro
+4,2012,Gabriel Alejandro Hidalgo,Leandro Migani
+4,2012,Andy Murray,Novak Djokovic
+4,2012,Mikhail Fufygin,Andrey Kumantsov
+4,2012,Marcelo Arevalo,Adam El Mihdawy
+4,2012,Juan Pablo Amado,Diego Schwartzman
+4,2012,Kevin Anderson,Tomas Berdych
+4,2012,Arata Onozawa,Zhe Li
+4,2012,Diego Junqueira,Martin Alund
+4,2012,Guillermo Duran,Facundo Arguello
+3,2012,Joao Sousa,Andrey Kuznetsov
+3,2012,Ilija Vucic,Ivan Bjelica
+3,2012,Brydan Klein,Aleksandr Nedovyesov
+3,2012,Filipe Brandao,Joao Pedro Sorgi
+3,2012,Daniel Munoz de la Nava,Andrey Kuznetsov
+3,2012,Filipe Brandao,Tiago Lopes
+3,2012,Jorge Aguilar,Duilio Beretta
+3,2012,Jack Carpenter,Oliver Golding
+3,2012,Martin Klizan,Marin Cilic
+3,2012,Fabricio Neis,Joao Pedro Sorgi
+3,2012,Andrey Golubev,Farrukh Dustov
+3,2012,Ricardo Siggia,Jose Pereira
+3,2012,Blaz Kavcic,Antonio Veic
+3,2012,Louis Cant,Germain Gigounon
+3,2012,Santiago Giraldo,Nicolas Almagro
+3,2012,Ashwin Vijayragavan,Torsten Wietoska
+3,2012,Ryan Harrison,Gilles Simon
+3,2012,Matias Sborowitz,Jorge Aguilar
+3,2012,Pedro Sousa,Andreas Haider Maurer
+3,2012,Matias Sborowitz,Cristobal Saavedra Corvalan
+3,2012,Daniel Garza,Victor Estrella
+3,2012,Ilia Shatskiy,Aleksandr Nedovyesov
+3,2012,Andre Ghem,Leonardo Kirche
+3,2012,Tomas Lipovsek Puches,Andres Molteni
+3,2012,Pablo Andujar,Guillermo Garcia Lopez
+3,2012,Alexandre Tsuchiya,Andre Miele
+3,2012,Devin Britton,Stefan Seifert
+3,2012,Shane Vinsant,Tennys Sandgren
+3,2012,Adrian Ungur,Horacio Zeballos
+3,2012,Paulo Coronado,Eduardo Dischinger
+3,2012,Ricardo Hocevar,Rogerio Dutra Silva
+3,2012,Peter Goldsteiner,Timo Nieminen
+3,2012,Juan Sebastian Vivanco,Cristobal Saavedra Corvalan
+3,2012,Duje Kekez,Aldin Setkic
+3,2012,Mate Delic,Aldin Setkic
+3,2012,Vignesh Peranamallur,Jeevan Nedunchezhiyan
+3,2012,Kenny De Schepper,Josselin Ouanna
+3,2012,Aldo Aaron Arteaga,Darian King
+3,2012,Daniel Cox,Josh Goodall
+3,2012,Shuichi Sekiguchi,Hiroki Kondo
+3,2012,Guillermo Rivera Aranguiz,Jorge Aguilar
+3,2012,Fabricio Burdisso,Federico Coria
+3,2012,Pablo Galdon,Diego Schwartzman
+3,2012,Elwin Antony,N Sriram Balaji
+3,2012,Guilherme Clezar,Eric Prodon
+3,2012,Yu Cheng Li,Ti Chen
+3,2012,Facundo Bagnis,Guillaume Rufin
+3,2012,Keith Patrick Crowley,Nicolas Barrientos
+3,2012,Jack Sock,Izak Van Der Merwe
+3,2012,Yusuke Watanuki,Arata Onozawa
+3,2012,Milos Raonic,Roger Federer
+3,2012,Shuichi Sekiguchi,Sanam Singh
+3,2012,Albert Ramos,Kei Nishikori
+3,2012,David Rice,Daniel Evans
+3,2012,Cristobal Saavedra Corvalan,Juan Carlos Saez
+3,2012,Mauricio Perez Mota,Guillermo Duran
+3,2012,John Millman,Tatsuma Ito
+3,2012,Bumpei Sato,Takuto Niki
+3,2012,Ze Zhang,Tsung Hua Yang
+3,2012,Adam Pavlasek,Roman Jebavy
+3,2012,Sergey Betov,Andis Juska
+3,2012,Germain Gigounon,Maxime Authom
+3,2012,Sergio Galdos,Duilio Beretta
+3,2012,Kento Takeuchi,Sanam Singh
+3,2012,Marius Copil,Radu Albot
+3,2012,Renzo Olivo,Leonardo Mayer
+3,2012,Chase Buchanan,Alex Bogdanovic
+3,2012,Aslan Karatsev,Nikoloz Basilashvili
+3,2012,Daniel Dutra Da Silva,Wilson Leite
+3,2012,Christian Harrison,Chase Buchanan
+3,2012,Arsenije Zlatanovic,Ismar Gorcic
+3,2012,Nicolas Barrientos,Michael Quintero
+3,2012,Baris Erguden,Brydan Klein
+3,2012,Nicolas Barrientos,Mauricio Echazu
+3,2012,Jeremy Chardy,Juan Monaco
+3,2012,Facundo Arguello,Diego Schwartzman
+3,2012,Marcos Baghdatis,Andy Murray
+3,2012,Martin Alund,Carlos Salamanca
+3,2012,Igor Sijsling,David Ferrer
+3,2012,Yasutaka Uchiyama,Yuichi Sugita
+3,2012,Deniss Pavlovs,Andis Juska
+3,2012,Guido Andreozzi,Rogerio Dutra Silva
+3,2012,Olivier Patience,Laurent Rochette
+3,2012,Joaquin Jesus Monteferrario,Andres Molteni
+3,2012,Julio Silva,Blaz Kavcic
+3,2012,Joris De Loore,Niels Desein
+3,2012,Fernando Verdasco,David Ferrer
+3,2012,Ricardo Ojeda Lara,David Souto
+3,2012,Karol Beck,Grega Zemlja
+3,2012,Diego Schwartzman,Agustin Velotti
+3,2012,David Ferrer,Novak Djokovic
+3,2012,Federico Coria,Leandro Migani
+3,2012,David Ferrer,Rafael Nadal
+3,2012,Jakub Lustyk,Roman Jebavy
+3,2012,Richard Gasquet,Juan Martin del Potro
+3,2012,Jerome Inzerillo,Mirza Basic
+3,2012,Andreas Seppi,Novak Djokovic
+3,2012,Pirmin Haenle,Florian Reynet
+3,2012,Richard Gasquet,David Ferrer
+3,2012,Sasa Stojisavljevic,Danilo Petrovic
+3,2012,Philipp Kohlschreiber,Gael Monfils
+3,2012,Ajai Selvaraj,N Sriram Balaji
+3,2012,Miguel Gallardo Valles,Antoine Benneteau
+3,2012,Andre Miele,Bruno Santanna
+3,2012,Janko Tipsarevic,Gilles Simon
+3,2012,Yuri Bezeruk,Felipe Escobar
+3,2012,David Nalbandian,Janko Tipsarevic
+3,2012,Sergei Krotiouk,Sergey Betov
+3,2012,Jan Hernych,Daniel Brands
+3,2012,N Sriram Balaji,Sanam Singh
+3,2012,Michael Llodra,Juan Martin del Potro
+3,2012,Facundo Mena,Sergio Galdos
+3,2012,Danai Udomchoke,Yen Hsun Lu
+3,2012,Leandro Migani,Diego Schwartzman
+3,2012,Roger Federer,Novak Djokovic
+3,2012,Denis Yevseyev,Jose Checa Calvo
+3,2012,Philipp Kohlschreiber,Jo-Wilfried Tsonga
+3,2012,Sergei Krotiouk,Colin Van Beem
+3,2012,Simone Bolelli,Martin Klizan
+3,2012,Joao Pedro Sorgi,Jose Pereira
+3,2012,Andreas Seppi,Tomas Berdych
+3,2012,Tomas Berdych,Novak Djokovic
+3,2012,Robin Haase,Stan Wawrinka
+3,2012,Sam Querrey,Nicolas Almagro
+3,2012,Sam Querrey,Tomas Berdych
+3,2012,Aleksandr Nedovyesov,Ivan Sergeyev
+3,2012,Sergei Bubka,Lukas Lacko
+3,2012,Steve Darcis,Nicolas Almagro
+3,2012,Kamil Capkovic,Go Soeda
+3,2012,Jaroslav Pospisil,Andrej Martin
+3,2012,Tomas Berdych,Andy Murray
+3,2012,Frederico Gil,Stephane Robert
+3,2012,Benjamin Mitchell,Adam Feeney
+3,2012,Alex Kuznetsov,Robby Ginepri
+3,2012,Nicolas Devilder,Federico Delbonis
+3,2012,Novak Djokovic,Andy Murray
+3,2012,Novak Djokovic,Rafael Nadal
+3,2012,Boris Pashanski,Antonio Veic
+3,2012,Ti Chen,Yuichi Sugita
+3,2012,Ti Chen,Yu Chang
+3,2012,Marcos Baghdatis,Jo-Wilfried Tsonga
+3,2012,Arnau Brugues Davi,Paolo Lorenzi
+6,2013,Roberto Carballes Baena,Pablo Carreno Busta
+5,2013,Kevin Anderson,Tomas Berdych
+5,2013,David Perez Sanz,Oriol Roca Batalla
+5,2013,David Ferrer,Rafael Nadal
+5,2013,Eduard Esteve Lobato,Jose Checa Calvo
+5,2013,Tomas Berdych,Rafael Nadal
+4,2013,Jaime Pulgar Garcia,Ivan Arenas Gualda
+4,2013,Stan Wawrinka,Novak Djokovic
+4,2013,Mike Urbanija,Nik Razborsek
+4,2013,Stan Wawrinka,Rafael Nadal
+4,2013,Vladzimir Kruk,Egor Gerasimov
+4,2013,Ivan Dodig,Tommy Haas
+4,2013,Cristobal Saavedra Corvalan,Gonzalo Lama
+4,2013,Juan Martin del Potro,Novak Djokovic
+4,2013,Roberto Ortega Olmedo,Ricardo Villacorta Alonso
+4,2013,Roger Federer,Rafael Nadal
+4,2013,Victor Baluda,Aslan Karatsev
+3,2013,Evgeny Korolev,Dustin Brown
+3,2013,Julien Obry,Mathieu Rodrigues
+3,2013,Igor Sijsling,Tommy Haas
+3,2013,Pascal Brunner,Nicolas Reissig
+3,2013,Antal Van Der Duim,Daniel Evans
+3,2013,Carlos Eduardo Severino,Jose Pereira
+3,2013,Julio Cesar Campozano,Joao Souza
+3,2013,Marco Bortolotti,Walter Trusendi
+3,2013,Santiago Giraldo,Carlos Berlocq
+3,2013,Caio Silva,Caio Zampieri
+3,2013,Lukas Rosol,Benjamin Becker
+3,2013,Juan Samuel Arauzo Martinez,David Vega Hernandez
+3,2013,Mao Xin Gong,Yen Hsun Lu
+3,2013,Jan Blecha,Enrique Lopez Perez
+3,2013,Martin Klizan,Fabio Fognini
+3,2013,George Coupland,Tom Farquharson
+3,2013,Tobias Kamke,Julien Benneteau
+3,2013,Antoine Benneteau,Alexander Kudryavtsev
+3,2013,Mikhail Kukushkin,Jan Hajek
+3,2013,Milan Pokrajac,Brayden Schnur
+3,2013,Sam Querrey,Novak Djokovic
+3,2013,Cheong Eui Kim,Yong Kyu Lim
+3,2013,Tatsuma Ito,Matthew Ebden
+3,2013,Ryusei Makiguchi,Hugo Dellien
+3,2013,Kevin Krawietz,Miloslav Mecir Jr
+3,2013,Thales Turini,Wilson Leite
+3,2013,Greg Jones,Nick Kyrgios
+3,2013,Joaquin Jesus Monteferrario,Facundo Mena
+3,2013,Blazej Koniusz,Kristijan Mesaros
+3,2013,Filippo Leonardi,Enrico Burzi
+3,2013,Ryan Harrison,John Isner
+3,2013,Filippo Leonardi,Victor Crivoi
+3,2013,Alexander Kudryavtsev,Konstantin Kravchuk
+3,2013,Joshua Milton,Edward Corrie
+3,2013,Miguel Angel Lopez Jaen,Taro Daniel
+3,2013,Yusuke Watanuki,Toshihide Matsui
+3,2013,Ricardas Berankis,Edouard Roger Vasselin
+3,2013,Luis David Martinez,Marcelo Arevalo
+3,2013,Rafael Nadal,Novak Djokovic
+3,2013,Yan Sabanin,Tak Khunn Wang
+3,2013,Ernests Gulbis,Tommy Haas
+3,2013,Lakshit Sood,N Sriram Balaji
+3,2013,Filip Krajinovic,Jiri Vesely
+3,2013,Kevin Jack Carpenter,Michael Quintero
+3,2013,Tommy Haas,Juan Martin del Potro
+3,2013,Luca George Tatomir,Maxim Dubarenco
+3,2013,Michael Russell,Mischa Zverev
+3,2013,Myles Orton,Liam Broady
+3,2013,Jarkko Nieminen,Ernests Gulbis
+3,2013,Joshua Ward Hibbert,Daniel Cox
+3,2013,Jurgen Melzer,Kei Nishikori
+3,2013,Evgeny Elistratov,Valery Rudnev
+3,2013,Victor Estrella,Alejandro Gonzalez
+3,2013,Jathan Malik,Daniel Cox
+3,2013,Philipp Kohlschreiber,Rafael Nadal
+3,2013,Bastian Malla,Eduardo Agustin Torre
+3,2013,Richard Gasquet,Novak Djokovic
+3,2013,Jose Antonio Salazar Martin,Roberto Ortega Olmedo
+3,2013,Alexandros Jakupovic,Dimitar Kuzmanov
+3,2013,Sebastian Exequiel Pini,Federico Coria
+3,2013,Ernests Gulbis,Rafael Nadal
+3,2013,Thomas Shubert,Arata Onozawa
+3,2013,Potito Starace,Andrej Martin
+3,2013,Laurent Malouli,Rui Machado
+3,2013,Novak Djokovic,Rafael Nadal
+3,2013,Tomas Lipovsek Puches,Juan Ignacio Londero
+3,2013,Marcos Baghdatis,Juan Martin del Potro
+3,2013,Shuichi Sekiguchi,Yasutaka Uchiyama
+3,2013,Lamine Ouahab,Roberto Carballes Baena
+3,2013,Kevin Prando,Mateo Facundo Cressa
+3,2013,Mauricio Echazu,Duilio Beretta
+3,2013,Lewis Burton,Daniel Cox
+3,2013,Jaroslav Pospisil,Dominic Thiem
+3,2013,Samuel Ribeiro Navarrete,Matthieu Roy
+3,2013,Carlos Berlocq,Rafael Nadal
+3,2013,Edoardo Eremin,Alberto Brizzi
+3,2013,Fabio Fognini,Novak Djokovic
+3,2013,Felipe Escobar,Nicolas Barrientos
+3,2013,Fabio Fognini,Rafael Nadal
+3,2013,Antoine Richard,Karim Hossam
+3,2013,Fabio Fognini,David Ferrer
+3,2013,Dor Belfer,Ivo Klec
+3,2013,Florent Serra,Pablo Carreno Busta
+3,2013,Jatin Dahiya,N Sriram Balaji
+3,2013,Sergio Galdos,Gabriel Alejandro Hidalgo
+3,2013,Facundo Mena,Andrea Collarini
+3,2013,Gonzalo Villanueva,Gabriel Alejandro Hidalgo
+3,2013,Arata Onozawa,Shuichi Sekiguchi
+3,2013,N Sriram Balaji,Vijayant Malik
+3,2013,Denys Molchanov,Wayne Odesnik
+3,2013,Sam Barry,Bar Tzuf Botzer
+3,2013,Liang Chi Huang,Hiroki Kondo
+3,2013,James Duckworth,James Ward
+3,2013,Benjamin Mitchell,James Duckworth
+3,2013,Raymond Sarmiento,Thomas Schoorel
+3,2013,Mate Pavic,Alessandro Giannessi
+3,2013,Cedrik Marcel Stebe,Wayne Odesnik
+3,2013,Gerard Granollers,Jordi Samper Montana
+3,2013,Guillermo Rivera Aranguiz,Guillermo Nunez
+3,2013,Alex Llompart,Tigre Hank
+3,2013,Theodoros Angelinos,Carlos Salamanca
+3,2013,Luis David Martinez,David Souto
+3,2013,Martin Cuevas,Gabriel Alejandro Hidalgo
+3,2013,Ismar Gorcic,Nikola Mektic
+3,2013,Aldin Setkic,Jan Hajek
+3,2013,Peter Gojowczyk,Donald Young
+3,2013,Peter Gojowczyk,Jan Lennard Struff
+3,2013,David Souto,Ivan Endara
+3,2013,Agustin Velotti,Victor Estrella
+3,2013,Andrej Martin,Filippo Volandri
+3,2013,Liam Broady,Tom Farquharson
+3,2013,Liam Broady,Marcus Willis
+3,2013,Ivan Nedelko,Mohamed Safwat
+3,2013,Egor Gerasimov,Aleksandr Nedovyesov
+3,2013,N Sriram Balaji,Tak Khunn Wang
+3,2013,Federico Coria,Hugo Dellien
+3,2013,Nicolas Meister,Ji Sung Nam
+3,2013,Alexey Vatutin,Konstantin Kravchuk
+3,2013,Joao Pedro Sorgi,Karim Hossam
+3,2013,Ricardo Ojeda Lara,Jose Checa Calvo
+3,2013,Joris De Loore,Laurynas Grigelis
+3,2013,Enrique Lopez Perez,Cheong Eui Kim
+3,2013,Pedro Cachin,Gabriel Alejandro Hidalgo
+3,2013,Pedro Cachin,Andres Molteni
+3,2013,Alexey Vatutin,Nils Langer
+3,2013,Germain Gigounon,Yannik Reuter
+3,2013,Marcelo Demoliner,Rogerio Dutra Silva
+3,2013,Gonzalo Escobar,Emilio Gomez
+3,2013,Dean Obrien,David Souto
+3,2013,Karim Hossam,Mazen Osama
+3,2013,Marco Cecchinato,Filippo Volandri
+3,2013,Patrick Ciorcila,Theodoros Angelinos
+3,2013,Mitchell Krueger,Bradley Klahn
+3,2013,Jan Mertl,Jesse Huta Galung
+3,2013,Romain Arneodo,Benjamin Balleret
+3,2013,David Vega Hernandez,Samuel Ribeiro Navarrete
+5,2014,Jack Sock,Milos Raonic
+5,2014,Guido Andreozzi,Diego Schwartzman
+4,2014,Marin Cilic,Novak Djokovic
+4,2014,Fritz Wolmarans,Eric Quigley
+4,2014,Andreas Seppi,David Ferrer
+4,2014,Mazen Osama,Mohamed Safwat
+4,2014,Edouard Roger Vasselin,Jo-Wilfried Tsonga
+4,2014,Kento Takeuchi,Takuto Niki
+4,2014,David Ferrer,Kei Nishikori
+4,2014,Federico Coria,Andres Molteni
+4,2014,Dmitry Tursunov,Denis Istomin
+4,2014,Dominic Thiem,David Goffin
+4,2014,Andy Murray,Novak Djokovic
+3,2014,Sho Katayama,Yuuya Kibi
+3,2014,Carlos Berlocq,Sergiy Stakhovsky
+3,2014,Jerome Inzerillo,Aldin Setkic
+3,2014,Go Soeda,Gilles Muller
+3,2014,Victor Nunez,Guillermo Rivera Aranguiz
+3,2014,Fabio Fognini,Alexandr Dolgopolov
+3,2014,Hiromasa Oku,Yuuya Kibi
+3,2014,Novak Djokovic,Roger Federer
+3,2014,Carlos Boluda Purkiss,Roberto Ortega Olmedo
+3,2014,Julien Benneteau,Tommy Robredo
+3,2014,Augusto Laranja,Daniel Dutra Da Silva
+3,2014,Stan Wawrinka,Kevin Anderson
+3,2014,Maximiliano Estevez,Juan Pablo Paz
+3,2014,Philipp Kohlschreiber,Novak Djokovic
+3,2014,Victor Crivoi,Radu Albot
+3,2014,Jurgen Melzer,Jo-Wilfried Tsonga
+3,2014,Antoine Escoffier,Yannick Jankovits
+3,2014,Tommy Robredo,Marin Cilic
+3,2014,Rafael Mazon Hernandez,Ricardo Ojeda Lara
+3,2014,Roger Federer,Novak Djokovic
+3,2014,Toni Androic,Victor Crivoi
+3,2014,Ti Chen,Alexander Kudryavtsev
+3,2014,Alex Bolt,Luke Saville
+3,2014,Dudi Sela,Ivo Karlovic
+3,2014,Maximilian Marterer,Kevin Krawietz
+3,2014,Jordi Munoz Abreu,Alexis Musialek
+3,2014,Christopher Oconnell,Jake Eames
+3,2014,Marko Tepavac,Ivan Bjelica
+3,2014,Jason Jung,Go Soeda
+3,2014,Michael Geerts,Alexandre Folie
+3,2014,Hernan Casanova,Nicolas Kicker
+3,2014,Jean Yves Aubone,Dennis Nevolo
+3,2014,Maciej Rajski,Dusan Lojda
+3,2014,Maverick Banes,Jarmere Jenkins
+3,2014,Richard Becker,Andreas Beck
+3,2014,Fares Ghasya,Eric Quigley
+3,2014,Jens Hauser,Duje Kekez
+3,2014,Juan Manuel Matute,Ryusei Makiguchi
+3,2014,Bastian Malla,Jorge Aguilar
+3,2014,Tomas Builes,Pedro Bernardi
+3,2014,Goncalo Oliveira,Pascal Brunner
+3,2014,Singekrawee Wattanakul,Kento Takeuchi
+3,2014,Jaume Pla Malfeito,David Vega Hernandez
+3,2014,Nuno Deus,Frederico Ferreira Silva
+3,2014,Pablo Vivero Gonzalez,Frederico Ferreira Silva
+3,2014,Daniele Capecchi,Walter Trusendi
+3,2014,Andrei Stefan Apostol,Petru Alexandru Luncanu
+3,2014,Pol Toledo Bague,Oriol Roca Batalla
+3,2014,Facundo Manzanares,Karim Mohamed Maamoun
+3,2014,Eduardo Dischinger,Wilson Leite
+3,2014,Richard Gabb,Daniel Smethurst
+3,2014,Daniiar Duldaev,Temur Ismailov
+3,2014,Gengo Kikuchi,Yuuya Kibi
+3,2014,Kaza Vinayak Sharma,N Vijay Sundar Prashanth
+3,2014,Yan Sabanin,Vladimir Ivanov
+3,2014,Mircea Alexandru Jecan,Patrick Ciorcila
+3,2014,Samuel Ribeiro Navarrete,Ricardo Ojeda Lara
+3,2014,Patrick Ofner,Mario Haider Maurer
+3,2014,Keelan Oakley,David Rice
+3,2014,Matthias Wunner,Mats Moraing
+3,2014,Jesus Bandres,Mauricio Echazu
+3,2014,Jared Donaldson,Tim Smyczek
+3,2014,Sanjar Fayziev,Temur Ismailov
+3,2014,Andrea Arnaboldi,Simone Bolelli
+3,2014,Kei Nishikori,Novak Djokovic
+3,2014,Kevin Anderson,Tomas Berdych
+3,2014,Mikhail Kukushkin,David Ferrer
+3,2014,Austin Krajicek,Farrukh Dustov
+3,2014,Zhe Li,Di Wu
+3,2014,Milos Raonic,Novak Djokovic
+3,2014,Renzo Olivo,Diego Schwartzman
+3,2014,Milos Raonic,Roger Federer
+3,2014,Arsenije Zlatanovic,Ilija Vucic
+3,2014,John Isner,Tomas Berdych
+3,2014,Jose Hernandez,Nicolas Barrientos
+3,2014,Santiago Giraldo,Vasek Pospisil
+3,2014,Lukas Lacko,Gilles Muller
+3,2014,Denis Istomin,Richard Gasquet
+3,2014,Ernests Gulbis,Julien Benneteau
+3,2014,Sam Querrey,Feliciano Lopez
+3,2014,Paolo Lorenzi,Pablo Cuevas
+3,2014,Marinko Matosevic,John Isner
+3,2014,Akash Wagh,N Sriram Balaji
+3,2014,Marcel Granollers,Yen Hsun Lu
+3,2014,Jeremy Chardy,David Ferrer
+3,2014,Andre Ghem,Diego Schwartzman
+3,2014,Alexandr Dolgopolov,Jeremy Chardy
+3,2014,Marcel Granollers,Dominic Thiem
+3,2014,Marinko Matosevic,Kei Nishikori
+3,2014,Milos Raonic,Kei Nishikori
+3,2014,Federico Zeballos,Christopher Diaz Figueroa
+3,2014,Alexandar Lazov,Mathias Bourgue
+3,2014,Alejandro Gonzalez,Paolo Lorenzi
+3,2014,Martin Alund,Diego Schwartzman
+3,2014,Federico Zeballos,Mauricio Echazu
+3,2014,Rodrigo Senattore,Joaquin Jesus Monteferrario
+3,2014,Isak Arvidsson,Patrik Rosenholm
+3,2014,Adrien Bossel,Jurgen Zopp
+3,2014,Josko Topic,Adrian Partl
+3,2014,Gonzalo Lama,Facundo Bagnis
+3,2014,Yasutaka Uchiyama,Go Soeda
+3,2014,Ji Sung Nam,Hyeon Chung
+3,2014,Facundo Arguello,Pablo Cuevas
+3,2014,Jorge Brian Panta Herreros,Christopher Diaz Figueroa
+3,2014,John Patrick Smith,Denis Kudla
+3,2014,Ismar Gorcic,Danilo Petrovic
+3,2014,Benoit Paire,Roberto Bautista Agut
+3,2014,Steve Johnson,Roberto Bautista Agut
+3,2014,Steve Johnson,Milos Raonic
+3,2014,Pablo Carreno Busta,Tommy Robredo
+3,2014,Liang Chi Huang,Yuki Bhambri
+3,2014,Karim Mohamed Maamoun,Sherif Sabry
+3,2014,Liam Broady,Mitchell Frank
+3,2014,Nicolaas Scholtz,Boy Westerhof
+6,2015,Andy Murray,Novak Djokovic
+5,2015,Roger Federer,Novak Djokovic
+5,2015,Sasi Kumar Mukund,Vishnu Vardhan
+5,2015,Evgenii Tiurnev,Dzmitry Zhyrmont
+4,2015,Sidharth Rawat,Ronit Singh Bisht
+4,2015,Darian King,Frances Tiafoe
+4,2015,Vasko Mladenov,Ivan Nedelko
+4,2015,Marc Polmans,Maverick Banes
+4,2015,Lenny Hampel,Dmitry Popko
+4,2015,Bernabe Zapata Miralles,Jose Checa Calvo
+4,2015,Oscar Mesquida Berg,Pol Toledo Bague
+4,2015,Gastao Elias,Jared Donaldson
+4,2015,Yan Bai,Tsung Hua Yang
+4,2015,Mohit Mayur Jayaprakash,Prajnesh Gunneswaran
+4,2015,Jorge Montero,Tomas Barrios Vera
+4,2015,Tom Schonenberg,Oscar Otte
+4,2015,Tomas Berdych,Novak Djokovic
+4,2015,Bar Tzuf Botzer,Amir Weintraub
+4,2015,Rafael Nadal,Novak Djokovic
+4,2015,Benjamin Mitchell,Jordan Thompson
+3,2015,Gilles Muller,Andy Murray
+3,2015,S D Prajwal Dev,Ranjeet Virali Murugesan
+3,2015,Andrea Collarini,Facundo Arguello
+3,2015,Philipp Kohlschreiber,Roger Federer
+3,2015,Hardeep Singh Sandhu,Suraj R Prabodh
+3,2015,Kaichi Uchida,Frank Dancevic
+3,2015,Philipp Kohlschreiber,Andy Murray
+3,2015,Dmytro Badanov,Ivan Nedelko
+3,2015,Franco Agamenone,Federico Coria
+3,2015,Gilles Muller,Stan Wawrinka
+3,2015,Nuno Deus,David Vega Hernandez
+3,2015,Gonzalo Villanueva,Juan Ignacio Galarza
+3,2015,Philipp Kohlschreiber,Gael Monfils
+3,2015,Nuno Deus,Ricardo Ojeda Lara
+3,2015,Carlos Taberner,Ricardo Ojeda Lara
+3,2015,Tommy Robredo,Milos Raonic
+3,2015,Matias Zukas,Hernan Casanova
+3,2015,David Ferrer,Novak Djokovic
+3,2015,Tommy Robredo,Benoit Paire
+3,2015,Franco Feitt,Christopher Diaz Figueroa
+3,2015,Benjamin Bonzi,Yannick Jankovits
+3,2015,Takao Suzuki,Yasutaka Uchiyama
+3,2015,Eduardo Agustin Torre,Juan Pablo Paz
+3,2015,Niki Kaliyanda Poonacha,Sumit Nagal
+3,2015,Paul Henri Mathieu,Philipp Kohlschreiber
+3,2015,Vlad Victor Cornea,Vasile Antonescu
+3,2015,Juan Pablo Varillas,Gonzalo Lama
+3,2015,David Ferrer,Andy Murray
+3,2015,Yecong He,Zhe Li
+3,2015,Federico Gaio,Daniel Munoz de la Nava
+3,2015,Ram Kapach,Dekel Bar
+3,2015,Ben Patael,Amir Weintraub
+3,2015,Eduardo Agustin Torre,Franco Agamenone
+3,2015,Yaraslav Shyla,Teymuraz Gabashvili
+3,2015,Gregoire Jacq,David Guez
+3,2015,Miljan Zekic,Rui Machado
+3,2015,Scott Clayton,Richard Gabb
+3,2015,Mathias Bourgue,Jonathan Eysseric
+3,2015,Bastian Malla,Hans Podlipnik Castillo
+3,2015,Nino Serdarusic,Riccardo Bellotti
+3,2015,Sebastian Exequiel Pini,Juan Pablo Paz
+3,2015,Andrew Whittington,Luke Saville
+3,2015,Juan Ignacio Ameal,Federico Coria
+3,2015,Tennys Sandgren,Frank Dancevic
+3,2015,Stefano Napolitano,Marco Cecchinato
+3,2015,Marcus Willis,Daniel Cox
+3,2015,Ricardo Villacorta Alonso,Roberto Ortega Olmedo
+3,2015,Alberto Rojas Maldonado,Ivan Endara
+3,2015,Jorge Hernando Ruano,Roberto Ortega Olmedo
+3,2015,Anton Galkin,Evgeny Elistratov
+3,2015,Julian Busch,Nicolaas Scholtz
+3,2015,Luca Pancaldi,Pascal Brunner
+3,2015,Javier Pulgar Garcia,Nicolaas Scholtz
+3,2015,Kaza Vinayak Sharma,Ramkumar Ramanathan
+3,2015,Vasile Antonescu,Carlos Boluda Purkiss
+3,2015,Phassawit Burapharitta,Kento Takeuchi
+3,2015,Steven De Waard,Alex Bolt
+3,2015,Juan Ignacio Galarza,Federico Coria
+3,2015,Anton Zaitsev,Mikhail Elgin
+3,2015,Guy Michelevitz,Bar Tzuf Botzer
+3,2015,Dmytro Kamynin,Vadim Alekseenko
+3,2015,James Marsalek,Lucas Miedler
+3,2015,Borja Rodriguez Manzano,Ricardo Ojeda Lara
+3,2015,Davide Della Tommasina,Lorenzo Sonego
+3,2015,Vadim Alekseenko,Vladimir Uzhylovsky
+3,2015,Tyler Hochwalt,Nicolaas Scholtz
+3,2015,Ju Hae Moon,Yusuke Watanuki
+3,2015,Masato Shiga,Cheong Eui Kim
+3,2015,Vladimir Uzhylovsky,Evgenii Tiurnev
+3,2015,Juan Lizariturry,Gianluca Naso
+3,2015,Carlos Boluda Purkiss,Georgi Rumenov Payakov
+3,2015,Masaki Sasai,Takuto Niki
+3,2015,Chandril Sood,Mohit Mayur Jayaprakash
+3,2015,Patricio Heras,Juan Ignacio Galarza
+3,2015,Noah Rubin,Frank Dancevic
+3,2015,Karim Hossam,Marko Tepavac
+3,2015,Mitchell Krueger,Bjorn Fratangelo
+3,2015,Yuichi Sugita,Matthew Ebden
+3,2015,Leonardo Mayer,Kevin Anderson
+3,2015,Joao Sousa,Andy Murray
+3,2015,Daniel Munoz de la Nava,Inigo Cervantes Huegun
+3,2015,Thomaz Bellucci,Novak Djokovic
+3,2015,Ryan Harrison,Dennis Novikov
+3,2015,Vasek Pospisil,Andy Murray
+3,2015,Ivan Endara,Daniel Elahi Galan
+3,2015,Ruben Bemelmans,Kenny De Schepper
+3,2015,Illya Marchenko,Lukas Lacko
+3,2015,Vishnu Vardhan,Antoine Escoffier
+3,2015,Horacio Zeballos,Alexander Zverev
+3,2015,John Isner,Novak Djokovic
+3,2015,Andreas Haider Maurer,Dominic Thiem
+3,2015,Stan Wawrinka,Roger Federer
+3,2015,Stan Wawrinka,Novak Djokovic
+3,2015,Andreas Seppi,Roger Federer
+3,2015,Nicolas Almagro,Pablo Cuevas
+3,2015,Lukas Lacko,Steve Johnson
+3,2015,Nicolas Almagro,Rafael Nadal
+3,2015,Gilles Simon,David Ferrer
+3,2015,Gael Monfils,Tomas Berdych
+3,2015,Sergiy Stakhovsky,Tomas Berdych
+3,2015,Marin Cilic,Novak Djokovic
+3,2015,Novak Djokovic,Roger Federer
+3,2015,Bernard Tomic,Steve Johnson
+3,2015,Bernard Tomic,Novak Djokovic
+3,2015,Kevin Krawietz,Nils Langer
+3,2015,Temur Ismailov,Karen Khachanov
+3,2015,Nerman Fatic,Miki Jankovic
+3,2015,Niels Desein,Yoshihito Nishioka
+3,2015,Nick Kyrgios,Andy Murray
+3,2015,Luke Saville,Matthew Barton
+3,2015,Nick Kyrgios,Richard Gasquet
+3,2015,Nicolas Barrientos,Giovanni Lapentti
+3,2015,Karim Hossam,Karim Mohamed Maamoun
+3,2015,Alon Elia,Amir Weintraub
+3,2015,Gonzalo Lama,Paolo Lorenzi
+3,2015,Stefan Kozlov,Darian King
+3,2015,Guido Andreozzi,Carlos Berlocq
+3,2015,Guido Pella,Gastao Elias
+3,2015,Nicolas Meister,Mitchell Krueger
+3,2015,Christopher Diaz Figueroa,Marcelo Arevalo
+3,2015,Matthew Ebden,Konstantin Kravchuk
+3,2015,Aldin Setkic,Farrukh Dustov
+3,2015,Steve Johnson,John Isner
+3,2015,Steve Johnson,Kevin Anderson
+3,2015,David Goffin,Kei Nishikori
+3,2015,Daniel Cox,Daniel Evans
+3,2015,Dominic Thiem,Roberto Bautista Agut
+3,2015,Karim Mohamed Maamoun,Mohamed Safwat
+3,2015,Andres Molteni,Guido Pella
+3,2015,Liam Broady,Blaz Rola
+3,2015,Frances Tiafoe,Benjamin Balleret
+3,2015,Alon Elia,Bar Tzuf Botzer
+7,2016,Milos Raonic,Andy Murray
+6,2016,Kei Nishikori,Novak Djokovic
+5,2016,Juan Pablo Ficovich,Federico Coria
+4,2016,Ljubomir Celebic,Riccardo Bellotti
+4,2016,Tomas Berdych,Novak Djokovic
+4,2016,Marcelo Zormann Da Silva,Joao Pedro Sorgi
+4,2016,Tennys Sandgren,Stefan Kozlov
+4,2016,Felipe Mantilla,Juan Sebastian Gomez
+4,2016,Nicolae Frunza,Petru Alexandru Luncanu
+4,2016,Lenny Hampel,Sebastian Ofner
+4,2016,Sarp Agabigun,Altug Celikbilek
+4,2016,Kaza Vinayak Sharma,Vishnu Vardhan
+4,2016,Carlos Taberner,Pedro Martinez
+4,2016,Bernabe Zapata Miralles,Akira Santillan
+4,2016,Lukas Rosol,Stan Wawrinka
+4,2016,Stefan Kozlov,Michael Mmoh
+4,2016,Andres Artunedo Martinavarro,Ricardo Ojeda Lara
+4,2016,Frederico Gil,Joao Domingues
+3,2016,Jaume Pla Malfeito,Alvaro Lopez San Martin
+3,2016,Raul Brancaccio,Joao Monteiro
+3,2016,Daniel Nolan,Marc Polmans
+3,2016,Anil Yuksel,Filip Horansky
+3,2016,Raleigh Smith,Roberto Quiroz
+3,2016,Danylo Kalenichenko,Petr Michnev
+3,2016,Mor Bulis,Daniel Cukierman
+3,2016,Fred Simonsson,Carl Soderlund
+3,2016,Juan Pablo Paz,Dragos Dima
+3,2016,Jan Choinski,Marvin Netuschil
+3,2016,Vitaly Kozyukov,Kenneth Raisma
+3,2016,Jordi Samper Montana,Steve Darcis
+3,2016,Ram Kapach,Ben Patael
+3,2016,Thiago Monteiro,Rogerio Dutra Silva
+3,2016,Thales Turini,Ivan Endara
+3,2016,Thiago Monteiro,Pablo Cuevas
+3,2016,Miguel Semmler,Pedro Sousa
+3,2016,Tommy Paul,Sekou Bangoura
+3,2016,Miguel Semmler,Jaume Munar
+3,2016,Bjorn Fratangelo,Daniel Evans
+3,2016,Niels Lootsma,Petr Michnev
+3,2016,Daniel Elahi Galan,Alejandro Gomez Gb42
+3,2016,Damian Farinola,Steven De Waard
+3,2016,Takanyi Garanganga,Mohamed Safwat
+3,2016,Jaime Fermosell,Javier Marti
+3,2016,Kento Takeuchi,Shintaro Imai
+3,2016,Corentin Denolly,Petr Michnev
+3,2016,Frances Tiafoe,Quentin Halys
+3,2016,Oleg Prihodko,Vladyslav Manafov
+3,2016,Mitchell Krueger,Frances Tiafoe
+3,2016,Oleg Khotkov,Vladyslav Manafov
+3,2016,Axel Michon,Thiago Monteiro
+3,2016,Manish Sureshkumar,Vishnu Vardhan
+3,2016,Gaston Arturo Grimolizzi,Jaroslav Pospisil
+3,2016,Nathan Eshmade,Maverick Banes
+3,2016,Gleb Sakharov,Jonathan Eysseric
+3,2016,Fares Ghasya,Adam El Mihdawy
+3,2016,Alessandro Bega,Lloyd Harris
+3,2016,Esteban Bruna,Pedro Sakamoto
+3,2016,Dominik Koepfer,Jared Hiltzik
+3,2016,David Poljak,Petr Michnev
+3,2016,Thomas Fancutt,Duje Kekez
+3,2016,Sidharth Rawat,Shintaro Imai
+3,2016,Alejandro Davidovich Fokina,Ricardo Ojeda Lara
+3,2016,Francisco Bahamonde,Andrea Pellegrino
+3,2016,Pedro Sakamoto,Bastian Malla
+3,2016,Maximiliano Estevez,Facundo Bagnis
+3,2016,Hernan Casanova,Joao Pedro Sorgi
+3,2016,Carlos Boluda Purkiss,Ricardo Ojeda Lara
+3,2016,Evgeny Karlovskiy,Markos Kalovelonis
+3,2016,Dennis Nevolo,Jared Hiltzik
+3,2016,Yannick Jankovits,Remi Boutillier
+3,2016,Alexander Zhurbin,Pedro Sousa
+3,2016,Borna Gojo,Nino Serdarusic
+3,2016,Jorge Montero,Juan Sebastian Gomez
+3,2016,Santiago Fa Rodriguez Taverna,Federico Coria
+3,2016,Gabriel Alejandro Hidalgo,Juan Ignacio Galarza
+3,2016,Oscar Otte,Daniel Masur
+3,2016,Gabriel Alejandro Hidalgo,Juan Pablo Ficovich
+3,2016,Dragos Dima,Nicolae Frunza
+3,2016,George Von Massow,Dragos Nicolae Madaras
+3,2016,Patrick Kaukovalta,Alexander Vasilenko
+3,2016,Ricardo Urzua Rivera,Franco Emanuel Egea
+3,2016,Min Kyu Song,Makoto Ochi
+3,2016,Marvin Netuschil,Yannick Maden
+3,2016,Tiago Lopes,Fernando Romboli
+3,2016,Andrei Stefan Apostol,Nicolae Frunza
+3,2016,Teodor Dacian Craciun,Petru Alexandru Luncanu
+3,2016,Alexis Musialek,Calvin Hemery
+3,2016,Roman Safiullin,Seong Chan Hong
+3,2016,Scott Puodziunas,Dayne Kelly
+3,2016,Gleb Alekseenko,Denys Mylokostov
+3,2016,Albert Alcaraz Ivorra,Carlos Taberner
+3,2016,Riccardo Bonadio,Walter Trusendi
+3,2016,Fabrizio Ornago,Jordan Ubiergo
+3,2016,Bogdan Borza,Dragos Dima
+3,2016,Juan Manuel Benitez Chavarriaga,Adam El Mihdawy
+3,2016,Guilherme Clezar,Gastao Elias
+3,2016,Mico Santiago,Dennis Nevolo
+3,2016,Alexander Zverev,Dominic Thiem
+3,2016,Adria Mas Mascolo,Maxime Hamou
+3,2016,Rogerio Dutra Silva,Facundo Bagnis
+3,2016,Timur Khabibulin,Sanjar Fayziev
+3,2016,Maximo Gonzalez,Rogerio Dutra Silva
+3,2016,Maximo Gonzalez,Thiago Monteiro
+3,2016,Denis Matsukevitch,Dzmitry Zhyrmont
+3,2016,John Isner,Andy Murray
+3,2016,Pedro Sousa,Arthur De Greef
+3,2016,Andre Ghem,Maximo Gonzalez
+3,2016,Viktor Troicki,Roberto Bautista Agut
+3,2016,Igor Sijsling,Nikoloz Basilashvili
+3,2016,Mikhail Kukushkin,Kei Nishikori
+3,2016,Marin Cilic,David Goffin
+3,2016,Jo-Wilfried Tsonga,Roberto Bautista Agut
+3,2016,Gael Monfils,Milos Raonic
+3,2016,Gilles Simon,Alexander Zverev
+3,2016,Gilles Simon,Grigor Dimitrov
+3,2016,Gilles Simon,Andy Murray
+3,2016,Guillermo Garcia Lopez,David Ferrer
+3,2016,Rafael Nadal,Novak Djokovic
+3,2016,David Ferrer,Andy Murray
+3,2016,Mikhail Youzhny,Pierre Hugues Herbert
+3,2016,Andy Murray,Novak Djokovic
+3,2016,Alexander Zverev,Tomas Berdych
+3,2016,Marcelo Arevalo,John Patrick Smith
+3,2016,Vasek Pospisil,Gilles Simon
+3,2016,Filip Veger,Kristijan Mesaros
+3,2016,Lucas Pouille,Andy Murray
+3,2016,Temur Ismailov,Ilya Ivashka
+3,2016,Yasutaka Uchiyama,Duck Hee Lee
+3,2016,John Patrick Smith,Benjamin Becker
+3,2016,Cristian Garin,Peter Torebko
+3,2016,Nicolas Meister,Mohamed Safwat
+3,2016,Ivan Nedelko,Pedro Sousa
+3,2016,Dominic Thiem,Novak Djokovic
+3,2016,Joao Sousa,Dominic Thiem
+3,2016,Pablo Carreno Busta,Milos Raonic
+3,2016,David Goffin,Lucas Pouille
+3,2016,Dusan Lajovic,Ivo Karlovic
+3,2016,Albert Ramos,Jo-Wilfried Tsonga
+3,2016,Albert Ramos,Paul Henri Mathieu
+3,2016,Laurynas Grigelis,Stefanos Tsitsipas
+3,2016,Inigo Cervantes Huegun,Pablo Carreno Busta
+3,2016,John Millman,Steve Johnson
+3,2016,Andrey Kuznetsov,Rafael Nadal
+3,2016,Bernard Tomic,Milos Raonic
+3,2016,Arata Onozawa,Makoto Ochi
+3,2016,Jorge Hernando Ruano,Pablo Vivero Gonzalez
+4,2017,Yusuke Takahashi,Yosuke Watanuki
+4,2017,David Goffin,Grigor Dimitrov
+4,2017,Michael Linzer,Andrea Collarini
+4,2017,Ben Patael,Edan Leshem
+4,2017,Yunseong Chung,Tsung Hua Yang
+4,2017,Jorge Brian Panta Herreros,Federico Zeballos
+4,2017,Max Purcell,John Millman
+4,2017,Rafael Nadal,Roger Federer
+4,2017,Goncalo Oliveira,Joao Domingues
+4,2017,Borna Coric,Marin Cilic
+4,2017,Mackenzie Mcdonald,Tennys Sandgren
+3,2017,Leny Mitjana,Nicolaas Scholtz
+3,2017,Walter Trusendi,Lorenzo Giustino
+3,2017,Jacopo Stefanini,Omar Giacalone
+3,2017,Guido Andreozzi,Nicolas Kicker
+3,2017,Niels Lootsma,Petr Nouza
+3,2017,Yasutaka Uchiyama,Peter Polansky
+3,2017,Shahar Elbaz,Mor Bulis
+3,2017,Carlos Gomez Herrera,Roberto Ortega Olmedo
+3,2017,Antoine Bellier,Lucas Miedler
+3,2017,Sergio Gutierrez Ferrol,Pedro Martinez
+3,2017,Cristian Carli,Goncalo Oliveira
+3,2017,Dominic Thiem,Rafael Nadal
+3,2017,Jake Delaney,Maverick Banes
+3,2017,Dominic Thiem,David Goffin
+3,2017,Davide Galoppini,Jay Clarke
+3,2017,Gerard Granollers,Pedro Martinez
+3,2017,Matias Franco Descotte,Igor Smilansky
+3,2017,Dimitar Kuzmanov,Ivan Nedelko
+3,2017,Guy Orly Iradukunda,Dennis Nevolo
+3,2017,Dimitar Kuzmanov,Martin Cuevas
+3,2017,Muhammet Haylaz,Altug Celikbilek
+3,2017,Viktor Filipenko,Nino Serdarusic
+3,2017,Vullnet Tashi,Gerard Granollers
+3,2017,Alessandro Giannessi,Jeremy Chardy
+3,2017,Cristian Carli,Nino Serdarusic
+3,2017,Jan Lennard Struff,Lucas Pouille
+3,2017,Dominik Boehler,Elmar Ejupovic
+3,2017,Xin Gao,Zhe Li
+3,2017,Maxime Tchoutakian,David Guez
+3,2017,Alexander Zverev,Nick Kyrgios
+3,2017,Aitor Sanz Llopis,Jaume Pla Malfeito
+3,2017,Jack Sock,Rafael Nadal
+3,2017,Rrezart Cungu,David Pichler
+3,2017,Michael Mmoh,Tennys Sandgren
+3,2017,Hugo Largo,Pedja Krstin
+3,2017,Mubarak Shannan Zayid,Jonas Merckx
+3,2017,Marek Gengel,Karim Mohamed Maamoun
+3,2017,Takuto Niki,Yusuke Takahashi
+3,2017,Alexander Brown,Luke Bambridge
+3,2017,Bjorn Fratangelo,Tim Smyczek
+3,2017,Nathaniel Lammons,Nicolaas Scholtz
+3,2017,Takanyi Garanganga,Jared Hiltzik
+3,2017,Facundo Juarez,Gonzalo Villanueva
+3,2017,Kento Takeuchi,Marinko Matosevic
+3,2017,Dalwinder Singh,Sasi Kumar Mukund
+3,2017,Andrey Rublev,Hyeon Chung
+3,2017,Sergi Perez Contri,Pedro Martinez
+3,2017,Frances Tiafoe,Roger Federer
+3,2017,Baptiste Crepatte,Michal Konecny
+3,2017,Andres Artunedo Martinavarro,Carlos Gomez Herrera
+3,2017,Pablo Vivero Gonzalez,Joao Monteiro
+3,2017,Markos Kalovelonis,Pavel Kotov
+3,2017,Pablo Vivero Gonzalez,Karim Mohamed Maamoun
+3,2017,Jose Olivares,Juan Ignacio Londero
+3,2017,Pablo Vivero Gonzalez,Carlos Gomez Herrera
+3,2017,Christian Harrison,Tennys Sandgren
+3,2017,Corentin Denolly,Andrea Collarini
+3,2017,Nick Kyrgios,Roger Federer
+3,2017,Bernardo Saraiva,Lorenzo Frigerio
+3,2017,Steve Johnson,Marin Cilic
+3,2017,Fran Zvonimir Zgombic,Mor Bulis
+3,2017,Robin Haase,Richard Gasquet
+3,2017,Alessandro Luisi,Pol Toledo Bague
+3,2017,Martin Cuevas,Geoffrey Blancaneaux
+3,2017,Vit Kopriva,David Poljak
+3,2017,Jose Hernandez,Evan King
+3,2017,Oriol Roca Batalla,Nino Serdarusic
+3,2017,Viktor Troicki,Milos Raonic
+3,2017,Zdenek Kolar,Laslo Djere
+3,2017,Thiago Monteiro,Carlos Berlocq
+3,2017,Bernabe Zapata Miralles,Pedro Cachin
+3,2017,Mischa Zverev,Grigor Dimitrov
+3,2017,Sarp Agabigun,Dmitry Popko
+3,2017,Mischa Zverev,Roger Federer
+3,2017,Raul Brancaccio,Bernabe Zapata Miralles
+3,2017,Juan Martin del Potro,Roger Federer
+3,2017,Moez Echargui,Oriol Roca Batalla
+3,2017,Blaz Kavcic,Yuki Bhambri
+3,2017,Tennys Sandgren,Cameron Norrie
+3,2017,Juan Martin del Potro,Novak Djokovic
+3,2017,Soon Woo Kwon,Hubert Hurkacz
+3,2017,Fabio Fognini,Rafael Nadal
+3,2017,Jordi Samper Montana,Pedro Cachin
+3,2017,Gilles Simon,Dominic Thiem
+3,2017,Gregoire Barrere,Constant Lestienne
+3,2017,Florian Mayer,Marin Cilic
+3,2017,Salvatore Caruso,Marco Cecchinato
+3,2017,Tomas Berdych,Roger Federer
+3,2017,Sekou Bangoura,Blaz Kavcic
+3,2017,Fernando Verdasco,Kei Nishikori
+3,2017,Gonzalo Villanueva,Daniel Dutra Da Silva
+3,2017,Richard Gasquet,Alexander Zverev
+3,2017,Andrea Collarini,Martin Cuevas
+3,2017,Go Soeda,Yen Hsun Lu
+3,2017,Facundo Mena,Facundo Arguello
+3,2017,Lukas Rosol,Filip Krajinovic
+3,2017,Samuel Monette,Dennis Nevolo
+3,2017,John Isner,Mischa Zverev
+3,2017,Javier Pulgar Garcia,David Guez
+3,2017,Kevin Anderson,Fernando Verdasco
+3,2017,Elmar Ejupovic,Jan Choinski
+3,2017,Radu Albot,Jeremy Chardy
+3,2017,Sergio Martos Gornes,Javier Marti
+3,2017,Filip Krajinovic,Marco Cecchinato
+3,2017,Mircea Alexandru Jecan,Alessandro Petrone
+3,2017,Anis Ghorbel,Carlos Boluda Purkiss
+3,2017,Gonzalo Villanueva,Juan Ignacio Galarza
+3,2017,Vishnu Vardhan,N Sriram Balaji
+3,2017,Marc Giner,Goncalo Oliveira
+3,2017,Ryan Harrison,Tomas Berdych
+3,2017,Masato Shiga,Wishaya Trongcharoenchaikul
+3,2017,Brydan Klein,Vincent Millot
+3,2017,Hiroyasu Ehara,Takuto Niki
+3,2017,Brydan Klein,Matthew Ebden
+3,2017,Francois Arthur Vibert,Goncalo Oliveira
+3,2017,Grigor Dimitrov,Rafael Nadal
+3,2017,Yuuya Kibi,Duck Hee Lee
+3,2017,Tim Smyczek,Henri Laaksonen
+3,2017,Erik Crepaldi,Joao Monteiro
+3,2017,Adrian Mannarino,Dominic Thiem
+3,2017,Siddharth Vishwakarma,N Sriram Balaji
+3,2017,Yuichi Sugita,Adrian Mannarino
+3,2017,Alessandro Luisi,Marc Giner
+3,2017,Mikhail Kukushkin,Roberto Bautista Agut
+3,2017,Rogerio Dutra Silva,Alessandro Giannessi
+3,2017,Denis Matsukevitch,Pavel Kotov
+3,2017,Kevin Anderson,Alexander Zverev
+3,2017,Damir Dzumhur,Robin Haase
+3,2017,Lucas Catarina,Nicolaas Scholtz
+4,2018,Vasile Antonescu,Dragos Dima
+4,2018,Mohamed Safwat,Prajnesh Gunneswaran
+4,2018,Marc Giner,Raul Brancaccio
+4,2018,Roberto Quiroz,Juan Ignacio Londero
+4,2018,Roberto Cid,Pedja Krstin
+4,2018,Matteo Viola,Luca Vanni
+4,2018,Nicolas Jarry,Diego Schwartzman
+4,2018,Kei Nishikori,Novak Djokovic
+3,2018,Suraj R Prabodh,Arjun Kadhe
+3,2018,Lukas Lacko,Denis Kudla
+3,2018,Jacob Grills,Renta Tokuda
+3,2018,Facundo Arguello,Pedro Sousa
+3,2018,Antonio Massara,Riccardo Bonadio
+3,2018,Jan Lennard Struff,Roger Federer
+3,2018,Simone Roncalli,Alexander Erler
+3,2018,Nick Kyrgios,Roger Federer
+3,2018,Pavel Nejedly,Patrik Rikl
+3,2018,Juan Ignacio Londero,Cristian Garin
+3,2018,Alberto Romero De Avila Senise,Javier Barranco Cosano
+3,2018,Danylo Kalenichenko,Alex Molcan
+3,2018,Alberto Romero De Avila Senise,Raul Brancaccio
+3,2018,Karen Khachanov,Juan Martin del Potro
+3,2018,Milan Drinic,Marko Miladinovic
+3,2018,Karen Khachanov,Rafael Nadal
+3,2018,Shi Hong Zeng,Yan Bai
+3,2018,Nikoloz Basilashvili,Kevin Anderson
+3,2018,Tiago Cacao,Frederico Ferreira Silva
+3,2018,Viktor Galovic,Simone Bolelli
+3,2018,Enrique Bogo,Federico Zeballos
+3,2018,Diego Schwartzman,Rafael Nadal
+3,2018,Tyler Lu,Ivan Nedelko
+3,2018,Frances Tiafoe,Kevin Anderson
+3,2018,Ryan Nijboer,David Perez Sanz
+3,2018,Takanyi Garanganga,Borna Gojo
+3,2018,Fabio Coelho,Francisco Cabral
+3,2018,Christopher Eubanks,Michael Mmoh
+3,2018,Adelchi Virgili,Francesco Forti
+3,2018,Calvin Hemery,Ruben Bemelmans
+3,2018,Stefanos Tsitsipas,Dominic Thiem
+3,2018,Marat Deviatiarov,Alessandro Bega
+3,2018,Raphael Baltensperger,Joao Monteiro
+3,2018,Thiago Monteiro,Jose Hernandez
+3,2018,Gabriel Alejandro Hidalgo,Genaro Alberto Olivieri
+3,2018,Casper Ruud,Diego Schwartzman
+3,2018,Stefanos Tsitsipas,Daniil Medvedev
+3,2018,Roberto Ortega Olmedo,Lloyd Harris
+3,2018,Alexei Popyrin,John Millman
+3,2018,Daniil Medvedev,Borna Coric
+3,2018,Miomir Kecmanovic,Jason Jung
+3,2018,Enrique Lopez Perez,Pedja Krstin
+3,2018,Filip Horansky,Dusan Lajovic
+3,2018,Marcos Giron,Jc Aragone
+3,2018,Max Purcell,Marc Polmans
+3,2018,Robin Haase,David Goffin
+3,2018,Darko Bojanovic,Alen Rogic Hadzalic
+3,2018,Alexis Klegou,Moez Echargui
+3,2018,Marcos Giraldi Requena,Omar Salman
+3,2018,David Ferrer,Juan Martin del Potro
+3,2018,Adam Moundir,David Perez Sanz
+3,2018,Pedro Sousa,Cristian Garin
+3,2018,Raul Brancaccio,Javier Barranco Cosano
+3,2018,Pedro Sousa,Marco Trungelliti
+3,2018,Kaichi Uchida,Jordan Thompson
+3,2018,John Isner,Alexander Zverev
+3,2018,Gonzalo Villanueva,Daniel Dutra Da Silva
+3,2018,Mischa Zverev,Benoit Paire
+3,2018,Genaro Alberto Olivieri,Camilo Ugo Carabelli
+3,2018,Kevin Anderson,Novak Djokovic
+3,2018,Javier Barranco Cosano,Jeremy Jahn
+3,2018,Denis Matsukevitch,Konstantin Kravchuk
+3,2018,Cheong Eui Kim,Ji Sung Nam
+3,2018,Denis Matsukevitch,Maxim Ratniuk
+3,2018,Rogerio Dutra Silva,Federico Delbonis
+3,2018,Mikhail Kukushkin,Kevin Anderson
+3,2018,Luke Saville,Makoto Ochi
+3,2018,Jurgen Zopp,Oscar Otte
+3,2018,Marin Cilic,Novak Djokovic
+3,2018,Radu Albot,John Isner
+3,2018,Di Wu,Tatsuma Ito
+3,2018,Andrej Martin,Alexander Bublik
+3,2018,Guilherme Clezar,Cristian Garin
+3,2018,Pablo Carreno Busta,Marin Cilic
+3,2018,Dominic Thiem,Rafael Nadal
+3,2018,Daniel Gimeno Traver,Sergio Gutierrez Ferrol
+3,2018,David Ferrer,Alexander Zverev
+3,2018,Ricardas Berankis,Adrian Mannarino
+3,2018,Alex De Minaur,Alexander Zverev
+4,2019,Juan Alejandro Hernandez Serrano,Jorge Brian Panta Herreros
+4,2019,Fajing Sun,Yan Bai
+4,2019,Reilly Opelka,Alex De Minaur
+4,2019,Denis Shapovalov,Novak Djokovic
+4,2019,Issei Okamura,Yu Hsiou Hsu
+3,2019,Zdenek Kolar,Lorenzo Giustino
+3,2019,Arklon Huertas Del Pino,Tomas Martin Etcheverry
+3,2019,Strong Kirchheimer,Sekou Bangoura
+3,2019,Yu Hsiou Hsu,Yan Bai
+3,2019,Federico Coria,Juan Pablo Varillas
+3,2019,Zdenek Kolar,Norbert Gombos
+3,2019,Rinky Hijikata,Harry Bourchier
+3,2019,Thomas Fancutt,Harry Bourchier
+3,2019,Thiago Agustin Tirante,Sebastian Baez
+3,2019,Sebastian Baez,Genaro Alberto Olivieri
+3,2019,Jay Clarke,James Duckworth
+3,2019,Pedro Sakamoto,Nicolas Alvarez
+3,2019,Jan Zielinski,Kacper Zuk
+3,2019,Pietro Rondoni,Dmitry Popko
+3,2019,Naoki Tajima,Shintaro Imai
+3,2019,Luca Gelhardt,Ronald Slobodchikov
+3,2019,Mark Tryakshin,Beibit Zhukayev
+3,2019,Tomas Farjat,Hernan Casanova
+3,2019,Sebastian Korda,Dmitry Popko
+3,2019,Fermin Tenti,Mauricio Echazu
+3,2019,Michiel De Krom,Jesper De Jong
+3,2019,Paul C Oosterbaan,Dmitry Popko
+3,2019,Clement Tabur,Corentin Denolly
+3,2019,Evan Song,Stefan Kozlov
+3,2019,Clement Tabur,Maxime Hamou
+3,2019,Luca Castelnuovo,Christopher Oconnell
+3,2019,Facundo Juarez,Hernan Casanova
+3,2019,Agustin Riquelme,Gabriel Alejandro Hidalgo
+3,2019,Sebastian Prechtel,Ronald Slobodchikov
+3,2019,Julian Bradley,Jorge Brian Panta Herreros
+3,2019,Niels Lootsma,Dan Added
+3,2019,Matias Zukas,Camilo Ugo Carabelli
+3,2019,Alexander Weis,Sebastian Baez
+3,2019,Tennys Sandgren,Alexander Bublik
+3,2019,Viktor Galovic,Salvatore Caruso
+3,2019,Jason Jung,Akira Santillan
+3,2019,Damir Dzumhur,Marco Cecchinato
+3,2019,Orlando Luz,Oscar Jose Gutierrez
+3,2019,Tsung Hua Yang,Andrew Harris
+3,2019,Grigor Dimitrov,Stan Wawrinka
+3,2019,Mikhail Kukushkin,Adrian Mannarino
+3,2019,John Isner,Reilly Opelka
+3,2019,Lukas Rosol,Egor Gerasimov
+3,2019,Pablo Cuevas,Dominic Thiem
+3,2019,Pablo Cuevas,Cristian Garin
+3,2019,Guillermo Garcia Lopez,Federico Delbonis
+3,2019,Stan Wawrinka,Roger Federer
+3,2019,Richard Gasquet,Roberto Bautista Agut
+3,2019,Philipp Kohlschreiber,Novak Djokovic
+3,2019,Roger Federer,Stefanos Tsitsipas
+3,2019,Roger Federer,Dominic Thiem
+3,2019,David Goffin,Roger Federer
+3,2019,Pablo Carreno Busta,Benoit Paire
+3,2019,Denis Kudla,Pierre Hugues Herbert
+3,2019,Hiroki Moriya,Andrew Harris
+3,2019,Stefanos Tsitsipas,Rafael Nadal
+3,2019,Akira Santillan,Andrew Harris
+3,2019,Tristan Lamasine,Jannik Sinner
+3,2019,Julius Tverijonas,Ivan Nedelko
+3,2019,Daniil Medvedev,Rafael Nadal
+3,2019,Hubert Hurkacz,Stefanos Tsitsipas
+3,2019,Lucas Miedler,Jannik Sinner
+3,2019,Xin Gao,Yecong He
+3,2019,Jan Choinski,Daniel Altmaier
+3,2019,Diego Schwartzman,Rafael Nadal
+3,2019,Nikoloz Basilashvili,Marton Fucsovics
+3,2019,Karen Khachanov,Matteo Berrettini
+3,2019,Kevin King,Marcos Giron
+3,2019,Alexander Zverev,Stefanos Tsitsipas
+3,2019,Lucas Pouille,Novak Djokovic
+3,2019,Yoshihito Nishioka,Diego Schwartzman
+4,2020,Ernests Gulbis,Aslan Karatsev
+3,2020,Alejandro Davidovich Fokina,Diego Schwartzman
+3,2020,Lucas Catarina,Evan Furness
+3,2020,Thiago Agustin Tirante,Laurynas Grigelis
+3,2020,Miljan Zekic,Erik Crepaldi
+3,2020,Colin Sinclair,Skander Mansouri
+3,2020,Jordan Thompson,Miomir Kecmanovic
+3,2020,Marco Bortolotti,Javier Barranco Cosano
+3,2020,Jan Lennard Struff,Novak Djokovic
+3,2020,David Pichler,Matias Franco Descotte
+3,2020,Adrian Mannarino,Alexander Zverev
+3,2020,Mathieu Perchicot,Nikolas Sanchez Izquierdo
+3,2020,Diego Schwartzman,Novak Djokovic
+3,2020,Pablo Carreno Busta,Rafael Nadal
+3,2020,Diego Schwartzman,Daniil Medvedev
+3,2020,Federico Coria,Guilherme Clezar
+4,2021,Marton Fucsovics,Andrey Rublev
+4,2021,Titouan Droguet,Kyrian Jacquet
+4,2021,Juan Bautista Torres,Santiago Fa Rodriguez Taverna
+3,2021,Andrea Collarini,Juan Pablo Varillas
+3,2021,Shintaro Mochizuki,Jiri Lehecka
+3,2021,Vit Kopriva,Mirza Basic
+3,2021,Alexander Ritschard,Tallon Griekspoor
+3,2021,Camilo Ugo Carabelli,Nicolas Jarry
+3,2021,Maxime Cressy,Oscar Otte
+3,2021,Ajeet Rai,Santiago Fa Rodriguez Taverna
+3,2021,Felipe Meligeni Alves,Hugo Dellien
+3,2021,Francisco Cerundolo,Federico Coria
+3,2021,Evgeny Karlovskiy,Matteo Viola
+3,2021,Pedro Martinez,Tommy Paul
+3,2021,Felix Auger Aliassime,Stefanos Tsitsipas
+3,2021,J J Wolf,Stefan Kozlov
+3,2021,Arthur Fils,Pedro Cachin
+3,2021,Jose Fco Vidal Azorin,Alex Marti Pujolras
+3,2021,Juan Sebastian Gomez,Christian Langmo
+3,2021,Sebastian Gima,Nicholas David Ionel
+3,2021,Felix Gill,Jose Fco Vidal Azorin
+3,2021,Alejo Lorenzo Lingua Lavallen,Santiago Fa Rodriguez Taverna
+3,2021,Fabio Coelho,Sebastian Fanselow
+3,2021,Santiago De La Fuente,Franco Emanuel Egea
+3,2021,Sergey Fomin,Vladyslav Manafov
+3,2021,Tomas Farjat,Santiago Fa Rodriguez Taverna
+3,2021,Maxence Beauge,Santiago Fa Rodriguez Taverna
+3,2021,Alejandro Hoyos Franco,Juan Sebastian Gomez
+3,2021,Hugo Pontico,Antoine Escoffier
+3,2021,Alfredo Perez,Christian Langmo
+3,2021,Aleksandar Vukic,Stefan Kozlov
+3,2021,Joao Lucas Reis Da Silva,Jelle Sels
+3,2021,Dominik Koepfer,Pablo Carreno Busta
+3,2021,Juan Pablo Paz,Mariano Navone
+3,2021,Alexandre Muller,Elias Ymer
+3,2021,Taro Daniel,Elias Ymer
+3,2021,Mackenzie Mcdonald,Daniil Medvedev
+3,2021,Alexander Zverev,Daniil Medvedev
+3,2021,Alexander Zverev,Novak Djokovic
+3,2021,Egor Gerasimov,Aslan Karatsev
+3,2021,Pablo Carreno Busta,Daniil Medvedev
+3,2021,Steve Johnson,Taylor Fritz
+3,2021,Roberto Bautista Agut,Jannik Sinner
+3,2021,Kei Nishikori,Alexander Zverev
+3,2021,Jeremy Chardy,Daniel Evans
+3,2021,Fabio Fognini,Andrey Rublev
+3,2021,Teymuraz Gabashvili,Altug Celikbilek
+3,2021,Cameron Norrie,Rafael Nadal
+3,2021,Norbert Gombos,Marcos Giron
+3,2021,Brayden Schnur,Prajnesh Gunneswaran
+3,2021,Illya Marchenko,Liam Broady
+3,2021,Juan Pablo Varillas,Sebastian Baez
+3,2021,Matteo Berrettini,Novak Djokovic
+3,2021,Dmitry Popko,Blaz Rola
+3,2021,Emil Ruusuvuori,Ilya Ivashka
+3,2021,Tomas Barrios Vera,Sebastian Baez
+3,2021,Alex De Minaur,Stefanos Tsitsipas
+3,2021,Roberto Marcora,Marc Andrea Huesler
+3,2021,Sumit Nagal,Stefano Travaglia
+3,2021,Alexander Bublik,Daniil Medvedev
+3,2021,Tommy Paul,Roberto Bautista Agut
+3,2021,Tommy Paul,Sebastian Korda
+3,2021,Taylor Fritz,Novak Djokovic
+3,2021,Maximilian Marterer,Filip Horansky
+3,2021,Lorenzo Giustino,Timofey Skatov
+3,2021,Casper Ruud,Alexander Zverev
+3,2021,Yoshihito Nishioka,Jack Sock
+4,2022,Matthew Dellavedova,Eliakim Coulibaly
+4,2022,Karen Khachanov,Novak Djokovic
+4,2022,Orel Kimhi,Ben Patael
+4,2022,Amr Elsayed Abdou Ahmed Mohamed,Leonardo Aboian
+4,2022,Dayne Kelly,Omar Jasika
+4,2022,Daniel Cox,Arthur Fery
+4,2022,Matias Franco Descotte,Gonzalo Lama
+4,2022,Soon Woo Kwon,Andrey Rublev
+4,2022,Joao Victor Couto Loureiro,Eduardo Ribeiro
+4,2022,Stefanos Tsitsipas,Novak Djokovic
+4,2022,Saba Purtseladze,Samuel Vincent Ruggeri
+3,2022,Juan Bautista Torres,Facundo Bagnis
+3,2022,Cameron Norrie,Felix Auger Aliassime
+3,2022,Arthur Bouquier,Constantin Bittoun Kouzmine
+3,2022,Miljan Zekic,Roberto Carballes Baena
+3,2022,Arthur Bouquier,Aziz Dougaz
+3,2022,Holger Rune,Cameron Norrie
+3,2022,Robin Bertrand,Skander Mansouri
+3,2022,Jurij Rodionov,Cedrik Marcel Stebe
+3,2022,Jack Anthrop,Nathan Ponwith
+3,2022,Ugo Humbert,Alex De Minaur
+3,2022,Federico Arnaboldi,Luca Potenza
+3,2022,Nicolas Mejia,Emilio Gomez
+3,2022,Edouard Villoslada,Kris Van Wyk
+3,2022,Brandon Nakashima,Frances Tiafoe
+3,2022,Maxim Zhukov,Yanki Erel
+3,2022,Olaf Pieczkowski,Alexander Donski
+3,2022,Kyle Kang,Gage Brymer
+3,2022,Andrea Collarini,Franco Agamenone
+3,2022,Tobias Franco,Jorge Brian Panta Herreros
+3,2022,Alvaro Guillen Meza,Arklon Huertas Del Pino
+3,2022,Charles Broom,Daniel Cox
+3,2022,Murkel Alejandro Dellien Velasco,Hernan Casanova
+3,2022,Stuart Parker,Kacper Zuk
+3,2022,Ryan Peniston,Antoine Escoffier
+3,2022,Jake Delaney,Ajeet Rai
+3,2022,Hernan Casanova,Facundo Diaz Acosta
+3,2022,Jea Moon Lee,Thomas Fancutt
+3,2022,Aleksandar Kovacevic,Ben Shelton
+3,2022,Leopold Zima,Sandro Kopp
+3,2022,Conner Huertas Del Pino,Arklon Huertas Del Pino
+3,2022,Mark Whitehouse,Alastair Gray
+3,2022,Yunseong Chung,Yosuke Watanuki
+3,2022,Denys Klok,Daniel Michalski
+3,2022,Billy Harris,Stuart Parker
+3,2022,Aaron Addison,James Mccabe
+3,2022,Skander Mansouri,Aziz Dougaz
+3,2022,Mitchell Harper,Philip Sekulic
+3,2022,Ricardas Berankis,Quentin Halys
+3,2022,Makoto Ochi,Yu Hsiou Hsu
+3,2022,Ilya Ivashka,Stefanos Tsitsipas
+3,2022,Mick Veldheer,Emil Reinberg
+3,2022,James Mccabe,Dane Sweeny
+3,2022,Jordan Hasson,Edan Leshem
+3,2022,Marin Cilic,Karen Khachanov
+3,2022,Gabriel Alejandro Hidalgo,Matias Franco Descotte
+3,2022,Marin Cilic,Carlos Alcaraz
+3,2022,Maximus Jones,Constantin Bittoun Kouzmine
+3,2022,Pedro Sousa,Nuno Borges
+3,2022,Mikhail Kukushkin,Tommy Paul
+3,2022,Daniel Evans,Yoshihito Nishioka
+3,2022,Tatsuma Ito,Rio Noguchi
+3,2022,Grigor Dimitrov,Stefanos Tsitsipas
+3,2022,Joao Sousa,Radu Albot
+3,2022,Albert Ramos,Sebastian Baez
+3,2022,Steve Johnson,Stefan Kozlov
+3,2022,Diego Schwartzman,Stefanos Tsitsipas
+3,2022,Laslo Djere,Andrey Rublev
+3,2022,Nikoloz Basilashvili,Mackenzie Mcdonald
+3,2022,Renzo Olivo,Tomas Martin Etcheverry
+3,2022,Frances Tiafoe,Taylor Fritz
+3,2022,Kento Takeuchi,Shintaro Imai
+3,2022,Tommy Paul,Alex De Minaur
+3,2022,Mikael Ymer,Stefanos Tsitsipas
+3,2022,Alexander Merino,Conner Huertas Del Pino
+3,2022,Antoine Escoffier,Vasek Pospisil
+5,2023,Alexander Zverev,Daniil Medvedev
+4,2023,Jaime Faria,Henrique Rocha
+4,2023,Francisco Comesana,Mariano Navone
+4,2023,Lorenzo Sonego,Jannik Sinner
+4,2023,Moerani Bouzige,Blake Ellis
+4,2023,Christopher Eubanks,Aleksandar Vukic
+4,2023,Juan Manuel La Serna,Valerio Aboian
+4,2023,Grigor Dimitrov,Alexander Zverev
+4,2023,Andy Murray,Alex De Minaur
+3,2023,Samuele Pieri,Alessandro Pecci
+3,2023,Makoto Ochi,Ajeet Rai
+3,2023,Jacob Bradshaw,Matthew Dellavedova
+3,2023,Facundo Juarez,Carlos Sanchez Jover
+3,2023,Amit Vales,Yshai Oliel
+3,2023,Nitin Kumar Sinha,Sidharth Rawat
+3,2023,Mihai Alexandru Coman,Luka Pavlovic
+3,2023,Calin Manda,Juan Pablo Paz
+3,2023,Patrik Oplustil,Yuta Kawahashi
+3,2023,Matias Zukas,Matias Franco Descotte
+3,2023,Goncalo Oliveira,Gabriele Piraino
+3,2023,Issei Okamura,San Hui Sin
+3,2023,David Perez Sanz,John Echeverria
+3,2023,Steve Johnson,Nuno Borges
+3,2023,Maximilian Neuchrist,Facundo Bagnis
+3,2023,Ilya Snitari,Nicholas David Ionel
+3,2023,Siddharth Vishwakarma,Philip Sekulic
+3,2023,Jose Rubin Statham,Nick Chappell
+3,2023,Roman Andres Burruchaga,Alejandro Tabilo
+3,2023,Gonzalo Bueno,Thiago Seyboth Wild
+3,2023,Yi Zhou,Stefanos Sakellaridis
+3,2023,Nick Chappell,Jose Rubin Statham
+3,2023,Giovanni Fonio,Arthur Cazaux
+3,2023,Alejandro Hoyos Franco,Ignacio Monzon
+3,2023,Lior Goldenberg,Yshai Oliel
+3,2023,Isaiah Strode,Dmitry Popko
+3,2023,Stefan Popovic,Andrej Nedic
+3,2023,Marat Sharipov,Andrej Nedic
+3,2023,Marlon Vankan,Jeremy Jahn
+3,2023,Diego Augusto Barreto Sanchez,Vilius Gaubas
+3,2023,Alejo Lorenzo Lingua Lavallen,Lorenzo Joaquin Rodriguez
+3,2023,Jaime Caldes,Carlos Lopez Montagud
+3,2023,Nicolas Tepmahc,Omni Kumar
+3,2023,Pedro Araujo,Jaime Faria
+3,2023,Siddhant Banthia,S D Prajwal Dev
+3,2023,Takuya Kumasaka,Jumpei Yamasaki
+3,2023,Takuya Kumasaka,Kasidit Samrej
+3,2023,Guido Ivan Justo,Tomas Farjat
+3,2023,Stan Wawrinka,Jannik Sinner
+3,2023,Benjamin Winter Lopez,Svyatoslav Gulin
+3,2023,Arthur Weber,Marc Polmans
+3,2023,Matias Soto,Pedro Boscardin Dias
+3,2023,Colin Markes,Aidan Mayo
+3,2023,Santiago Fa Rodriguez Taverna,Roman Andres Burruchaga
+3,2023,Santiago Fa Rodriguez Taverna,Hugo Dellien
+3,2023,Rinky Hijikata,Jordan Thompson
+3,2023,Alexandros Skorilas,Alexis Gautier
+3,2023,Emil Ruusuvuori,Tallon Griekspoor
+3,2023,Duck Hee Lee,Fitriadi M Rifqi
+3,2023,Tomas Barrios Vera,Juan Manuel Cerundolo
+3,2023,Alexander Bublik,Hubert Hurkacz
+3,2023,Daniil Medvedev,Jannik Sinner
+3,2023,Daniil Medvedev,Carlos Alcaraz
+3,2023,Daniel Evans,Carlos Alcaraz
+3,2023,Hubert Hurkacz,Novak Djokovic
+3,2023,Andrey Rublev,Daniil Medvedev
+3,2023,Andrey Rublev,Novak Djokovic
+3,2023,Thanasi Kokkinakis,Hubert Hurkacz
+3,2023,Karen Khachanov,Daniil Medvedev
+3,2023,Borna Coric,Stefanos Tsitsipas
+3,2023,Joao Sousa,Albert Ramos
+3,2023,Diego Schwartzman,Jannik Sinner
+3,2023,Diego Schwartzman,Alex De Minaur
+3,2023,Dominic Thiem,Stefanos Tsitsipas
+3,2023,Emil Ruusuvuori,Grigor Dimitrov
+3,2023,Dusan Lajovic,Carlos Alcaraz
+3,2023,Jason Jung,Yuta Shimizu
+3,2023,Aleksandar Vukic,Zachary Svajda
+3,2023,Ignacio Carou,Gustavo Heide
+3,2023,Tristan Schoolkate,Luke Saville
+3,2023,Li Tu,James Duckworth
+3,2023,Leo Borg,Alexander Blockx
+3,2023,Alex Molcan,Alexander Zverev
+3,2023,Carlos Alcaraz,Novak Djokovic
+3,2023,Juan Pablo Ficovich,Luciano Darderi
+3,2023,Jiri Lehecka,Taylor Fritz
+3,2023,Kasidit Samrej,Maximus Jones
+3,2023,Alejandro Davidovich Fokina,Tommy Paul
+3,2023,Alejandro Davidovich Fokina,Novak Djokovic
+3,2023,Antoine Hoang,Lucas Poullain
+3,2023,Antoine Hoang,Tristan Lamasine
+3,2023,Ugo Humbert,Emil Ruusuvuori
+3,2023,Zdenek Kolar,Flavio Cobolli
+3,2023,Federico Coria,Mariano Navone
+3,2023,Stefan Popovic,Matej Dodig
+3,2023,Evgenii Tiurnev,Sergey Fomin
+3,2023,Thiago Seyboth Wild,Camilo Ugo Carabelli
+5,2024,Mihai Alexandru Coman,Nicholas David Ionel
+5,2024,Daniil Medvedev,Jannik Sinner
+5,2024,Francisco Cerundolo,Karen Khachanov
+4,2024,Murkel Alejandro Dellien Velasco,Camilo Ugo Carabelli
+4,2024,Tallon Griekspoor,Alexander Zverev
+4,2024,Tallon Griekspoor,Jannik Sinner
+4,2024,Cem Ilkel,Gastao Elias
+4,2024,Blake Ellis,Alex Bolt
+4,2024,Lorenzo Musetti,Novak Djokovic
+4,2024,Alexandr Binda,Marek Gengel
+4,2024,Harold Mayot,Lucas Pouille
+4,2024,Alexander Zverev,Taylor Fritz
+3,2024,Moerani Bouzige,James Watt
+3,2024,Jesse Delaney,Kasidit Samrej
+3,2024,Rafael Izquierdo Luque,Frederico Ferreira Silva
+3,2024,Lorenzo Joaquin Rodriguez,Juan Bautista Torres
+3,2024,Sheng Tang,Fajing Sun
+3,2024,Jesse Delaney,Jake Delaney
+3,2024,Daisuke Sumizawa,Keisuke Saitoh
+3,2024,Carlos Sanchez Jover,Pol Martin Tiffon
+3,2024,Alvaro Guillen Meza,Federico Agustin Gomez
+3,2024,Jose Pereira,Juan Carlos Prado Angelo
+3,2024,Yurii Dzhavakian,Alexandr Binda
+3,2024,Jake Delaney,Tristan Schoolkate
+3,2024,Aoran Wang,Jie Cui
+3,2024,Corentin Denolly,Calvin Hemery
+3,2024,Duarte Vale,Jaime Faria
+3,2024,Sergi Perez Contri,Miguel Damas
+3,2024,Yuki Mochizuki,Masamichi Imamura
+3,2024,Moerani Bouzige,Aleksandre Bakshi
+3,2024,Michiel De Krom,Daniel Merida Aguilar
+3,2024,Imanol Lopez Morillo,Daniel Merida Aguilar
+3,2024,Miguel Damas,Nicolas Alvarez Varona
+3,2024,Tomas Farjat,Lautaro Midon
+3,2024,Rafael Tosetto,Daniel Dutra Da Silva
+3,2024,Gabriele Piraino,Gianluca Cadenasso 
+3,2024,Andre Ilagan,Colton Smith
+3,2024,Lautaro Midon,Facundo Mena
+3,2024,Juan Estevez,Alex Barrena
+3,2024,Stefan Adrian Andreescu,Nicholas David Ionel
+3,2024,Stefan Adrian Andreescu,Cezar Cretu
+3,2024,Ofek Shimanov ,Orel Kimhi
+3,2024,Patrik Oplustil,Alec Beckley
+3,2024,Marco Alvarez,Jacob Brumm
+3,2024,Seydina Andre,Eliakim Coulibaly
+3,2024,Joao Eduardo Schiessl,Matias Soto
+3,2024,Joao Eduardo Schiessl,Carlos Lopez Montagud
+3,2024,Juan Manuel La Serna,Luciano Emanuel Ambrogi
+3,2024,Pedro Boscardin Dias,Valerio Aboian
+3,2024,Tomas Farjat,Andrea Collarini
+3,2024,Matteo Martineau,Quentin Halys
+3,2024,Yuta Kikuchi,Kokoro Isomura
+3,2024,Ryan Nijboer,Michiel De Krom
+3,2024,Evgeny Philippov,Vadym Ursu
+3,2024,Valerio Aboian,Alvaro Guillen Meza
+3,2024,Thiago Cigarran,Alejo Lorenzo Lingua Lavallen
+3,2024,Samuel Vincent Ruggeri,Richard Gasquet
+3,2024,Juan Carlos Aguilar,Taha Baadi
+3,2024,Evgeny Philippov,Petr Bar Biryukov
+3,2024,Yi Zhou,Yan Bai
+3,2024,Luciano Darderi,Mariano Navone
+3,2024,Eliot Spizzirri,Nishesh Basavareddy
+3,2024,Taylor Fritz,Jannik Sinner
+3,2024,Casper Ruud,Jordan Thompson
+3,2024,Casper Ruud,Felix Auger Aliassime
+3,2024,Denis Shapovalov,Ben Shelton
+3,2024,Alex De Minaur,Jannik Sinner
+3,2024,Orlando Luz,Gustavo Heide
+3,2024,Daniel Altmaier,Arthur Fils
+3,2024,Zsombor Piros,Jozef Kovalik
+3,2024,Carlos Taberner,Albert Ramos
+3,2024,Taylor Fritz,Lorenzo Musetti
+3,2024,Felix Auger Aliassime,Carlos Alcaraz
+3,2024,Alex Bolt,Adam Walton
+3,2024,Renzo Olivo,Valerio Aboian
+3,2024,Gael Monfils,Lorenzo Musetti
+3,2024,Yan Bai,Sho Shimabukuro
+3,2024,Illya Marchenko,Seong Chan Hong
+3,2024,Mohamed Safwat,Marek Gengel
+3,2024,Hugo Dellien,Vilius Gaubas
+3,2024,Hiroki Moriya,Alex Bolt
+3,2024,Jan Lennard Struff,Jannik Sinner
+3,2024,Jan Lennard Struff,Alex De Minaur
+3,2024,Pierre Hugues Herbert,Benjamin Bonzi
+3,2024,Alex Bolt,Seong Chan Hong
+3,2024,Thiago Seyboth Wild,Tomas Martin Etcheverry
+3,2024,Holger Rune,Alexander Zverev
+3,2024,Jannik Sinner,Carlos Alcaraz
+3,2024,Rinky Hijikata,Grigor Dimitrov
+3,2024,Rinky Hijikata,Aleksandar Kovacevic
+3,2024,Ben Shelton,Jannik Sinner
+3,2024,Arthur Fils,Matteo Arnaldi
+3,2024,Karol Filar,Dominik Kellovsky
+3,2024,Luciano Darderi,Sebastian Baez
+3,2024,Ethan Quinn,Nishesh Basavareddy
+3,2024,Ethan Quinn,Zachary Svajda
+3,2024,Ethan Quinn,Patrick Kypson
+3,2024,Bor Artnak,Goncalo Oliveira
+3,2024,Kaichi Uchida,Rio Noguchi
+3,2024,Matheus Pucinelli De Almeida,Andrea Collarini
+3,2024,Nuno Borges,Daniil Medvedev
+3,2024,Botic Van De Zandschulp,Matteo Berrettini
+3,2024,Botic Van De Zandschulp,Ugo Humbert
+3,2024,Adolfo Daniel Vallejo,Roman Andres Burruchaga
+3,2024,Franco Roncadelli,Mariano Kestelboim
+3,2024,Philip Sekulic,Li Tu
+3,2024,Brandon Nakashima,Ugo Humbert
+3,2024,Otto Virtanen,Marc Andrea Huesler
+3,2024,Andrea Collarini,Roman Andres Burruchaga
+3,2024,Andrea Collarini,Gustavo Heide
+3,2024,Tomas Martin Etcheverry,Ben Shelton
+3,2024,Maxime Cressy,Zachary Svajda
+3,2024,Giulio Perego ,Gabriele Pennaforti

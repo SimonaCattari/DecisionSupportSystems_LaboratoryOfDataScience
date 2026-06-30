@@ -1,0 +1,57 @@
+-- Assignment 9: Show the player that lost the most matches for each continent.
+WITH MEMBER n_losses AS [Measures].[n Matches]
+
+SELECT 
+	n_losses ON COLUMNS,
+	([Loser].[Nationality].[Continent], GENERATE ([Loser].[Nationality].[Continent], 
+	TOPCOUNT([Loser].[Player Name].[Player Name], 1, [Measures].[n Matches]))) ON ROWS
+FROM [Matches]
+
+
+
+-- Assignment 10: For each tournament, show the number of players.
+WITH 
+MEMBER [Measures].[Player Count] AS  
+    DistinctCount(  
+        Union(  
+            [Winner].[Player Id].[Player Id],  
+            [Loser].[Loser Id].[Loser Id]  
+        )  
+    )  
+
+SELECT  
+    [Measures].[Player Count] ON COLUMNS,  
+    NON EMPTY [tournament].[Tourney Name].[Tourney Name] ON ROWS  
+FROM [Matches]
+
+
+-- Assignment 11: For each quarter, calculate the percentage increase or decrease in profit for each
+-- tournament compared to the profit in the same tournament during the corresponding quarter of the previous year.
+WITH MEMBER prev_year_profit AS
+IIF(
+	ISEMPTY(
+		(PARALLELPERIOD([Tournament].[DayMonthYear].[Year], 
+		1, 
+		[Tournament].[DayMonthYear].CURRENTMEMBER)
+		, [Measures].[Profit])
+		), 
+		0, 
+		(PARALLELPERIOD([Tournament].[DayMonthYear].[Year], 
+		1, 
+		[Tournament].[DayMonthYear].CURRENTMEMBER)
+		, [Measures].[Profit])
+	)
+
+MEMBER pct AS
+IIF(
+    ISEMPTY(prev_year_profit) OR prev_year_profit = 0, 
+    0, 
+    (([Measures].[Profit] - prev_year_profit) / (prev_year_profit))
+	)
+, FORMAT_STRING = 'Percent'
+
+SELECT {[Measures].[Profit], prev_year_profit, pct} ON COLUMNS,
+    ([Tournament].[Tourney Name].[Tourney Name], 
+     [Tournament].[Year].[Year], 
+     [Tournament].[DayMonthYear].[Quarter]) ON ROWS
+FROM [Matches]

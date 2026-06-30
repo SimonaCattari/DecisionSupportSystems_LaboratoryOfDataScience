@@ -1,0 +1,1050 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="3/10/2025 10:16:00 AM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="SIMONA"
+  DTS:CreatorName="SIMONA\catta"
+  DTS:DTSID="{38DAC630-00DE-4B05-9CAF-3183014ACAD4}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="16.0.5685.0"
+  DTS:LocaleID="1040"
+  DTS:ObjectName="Package2"
+  DTS:PackageType="5"
+  DTS:VersionBuild="21"
+  DTS:VersionGUID="{945A57E9-D0FF-4CB6-8FEA-CF0F722AB2F0}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:ConnectionManagers>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[Flat File Connection Manager]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{A97D48B6-B7C6-42A2-B951-1861768619DB}"
+      DTS:ObjectName="Flat File Connection Manager">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="1033"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1252"
+          DTS:ConnectionString="C:\Users\catta\OneDrive\Desktop\cv.csv">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="302"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Colonna di output degli errori per l'origine file flat"
+              DTS:DTSID="{045F6F24-7C78-4AC8-A009-36E3E0384AA8}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="ErrorCode"
+              DTS:DTSID="{AF61685B-133F-4B3A-A19D-F4D9E898B336}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="ErrorColumn"
+              DTS:DTSID="{43F2EC97-3C6A-4E33-A79C-804C8B54324E}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[Gestione connessione file flat]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{DBD04D1A-012C-4CCA-A6EC-6FD142BB908F}"
+      DTS:ObjectName="Gestione connessione file flat">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="1033"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="65001"
+          DTS:ConnectionString="C:\Users\catta\OneDrive\Desktop\LAB2\tabelle\tabAttm\player.csv">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="player_pk"
+              DTS:DTSID="{A0BAB68F-09B3-4C6F-BA3E-8D90CCA038F8}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="player_id"
+              DTS:DTSID="{59F7878F-56DD-41A6-BAF0-3F8832E90821}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="255"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="player_name"
+              DTS:DTSID="{2E45EFFF-EED0-4D3A-B67D-C5D7AE307395}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="player_hand"
+              DTS:DTSID="{EAFB8E37-AC2F-4178-A8FE-599E5DB8885C}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="player_ht"
+              DTS:DTSID="{887E0B5F-E92C-405F-A0E5-CC8E1382A6F1}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="geo_fk"
+              DTS:DTSID="{7991A1BD-CB94-433A-A861-698558A43D35}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[Gestione connessione file flat 1]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{39999A11-0CF6-4A9E-AB4D-8E0FF6761C5B}"
+      DTS:ObjectName="Gestione connessione file flat 1">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="1033"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1252"
+          DTS:ConnectionString="C:\Users\catta\OneDrive\Desktop\LAB2\tabelle\tabAttm\player.csv">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="player_pk"
+              DTS:DTSID="{C2F940BD-43CA-4DE4-8CF1-33866CCEF0FD}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="player_id"
+              DTS:DTSID="{7D27E1E6-B040-486C-AA84-140C5F811144}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="player_name"
+              DTS:DTSID="{C3B52946-CE34-4AE1-8574-1473226F62F7}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="player_hand"
+              DTS:DTSID="{DD3E5AB1-4182-4B69-8E7B-59499F550796}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="player_ht"
+              DTS:DTSID="{2805C9C1-7F16-4A72-BAF8-B41BF3FC0030}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="geo_fk"
+              DTS:DTSID="{3BF2AFC2-A081-44D6-AE1A-6BE4DB228061}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[lds.di.unipi.it.Group_ID_13_DB.Group_ID_13]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{757B1768-86A3-40F3-BDF2-445B8662D459}"
+      DTS:ObjectName="lds.di.unipi.it.Group_ID_13_DB.Group_ID_13">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=lds.di.unipi.it;User ID=Group_ID_13;Initial Catalog=Group_ID_13_DB;Provider=SQLOLEDB.1;Persist Security Info=True;Auto Translate=False;Application Name=SSIS-Package1-{757B1768-86A3-40F3-BDF2-445B8662D459}lds.di.unipi.it.Group_ID_13_DB.Group_ID_13;">
+          <DTS:Password
+            DTS:Name="Password"
+            Sensitive="1"
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAqw1pzXHdwEKX3SwLcRKb6wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADXFlVgF6t74E5soV2HKdocW4i1xR6kR166nHcxtK4eQQAAAAAOgAAAAAIAACAAAAArLr3cSIBQOcf/0YER5BOPFzFnE4GhJFeDpYlU8sFvfCAAAACxpWi6UvTQdTeUXKRYU4RcmJ1MtzdHKJfmBgHqmKaZiUAAAACu0u5eUbf/4xhI45gQ3cmrIP9cutPjFWVdWV4IiaJFCFwU7z6JREVh925ZhZXSDK+EA9UD0JJQEGw47wQ7pf9j</DTS:Password>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+  </DTS:ConnectionManagers>
+  <DTS:Variables />
+  <DTS:Executables>
+    <DTS:Executable
+      DTS:refId="Package\player"
+      DTS:CreationName="Microsoft.Pipeline"
+      DTS:Description="Attività Flusso di dati"
+      DTS:DTSID="{dd7b6a9e-6ae5-4265-a56f-627b85a9546c}"
+      DTS:ExecutableType="Microsoft.Pipeline"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="player"
+      DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <pipeline
+          version="1">
+          <components>
+            <component
+              refId="Package\player\Campionamento percentuale"
+              componentClassID="Microsoft.PctSampling"
+              contactInfo="Campionamento percentuale;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; Tutti i diritti sono riservati; http://www.microsoft.com/sql/support;0"
+              description="Esegue campionamenti casuali in una percentuale di righe da un flusso di dati di input. Ad esempio, utilizzarlo due volte per creare un modello di data mining: creare un campione di modello a scopo formativo e uno a scopo di test."
+              name="Campionamento percentuale">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="Specifica le dimensioni del campione in percentuale."
+                  expressionType="Notify"
+                  name="SamplingValue">20</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifica il valore di inizializzazione per il generatore di numeri casuali."
+                  name="SamplingSeed">0</property>
+              </properties>
+              <inputs>
+                <input
+                  refId="Package\player\Campionamento percentuale.Inputs[Campionamento percentuale Input 1]"
+                  name="Campionamento percentuale Input 1">
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\player\Campionamento percentuale.Outputs[Output selezionato campionamento]"
+                  exclusionGroup="1"
+                  name="Output selezionato campionamento"
+                  synchronousInputId="Package\player\Campionamento percentuale.Inputs[Campionamento percentuale Input 1]">
+                  <properties>
+                    <property
+                      dataType="System.Boolean"
+                      description="Output per le righe nel campione"
+                      name="Selected">true</property>
+                  </properties>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\player\Campionamento percentuale.Outputs[Output non selezionato campionamento]"
+                  exclusionGroup="1"
+                  name="Output non selezionato campionamento"
+                  synchronousInputId="Package\player\Campionamento percentuale.Inputs[Campionamento percentuale Input 1]">
+                  <properties>
+                    <property
+                      dataType="System.Boolean"
+                      description="Output per le righe nel campione"
+                      name="Selected">false</property>
+                  </properties>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\player\Destinazione OLE DB"
+              componentClassID="Microsoft.OLEDBDestination"
+              contactInfo="Destinazione OLE DB;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; Tutti i diritti sono riservati; http://www.microsoft.com/sql/support;4"
+              description="Destinazione OLE DB"
+              name="Destinazione OLE DB"
+              usesDispositions="true"
+              version="4">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="Numero di secondi prima del timeout di un comando. Il valore 0 indica nessun timeout."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="Specifica il nome dell'oggetto di database utilizzato per aprire un set di righe."
+                  name="OpenRowset">[Group_ID_13].[player_SSIS]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifica la variabile contenente il nome dell'oggetto di database utilizzato per aprire un set di righe."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="Comando SQL da eseguire."
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifica la tabella codici della colonna da utilizzare quando l'origine dati non rende disponibili informazioni sulla tabella codici."
+                  name="DefaultCodePage">1252</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Forza l'utilizzo del valore della proprietà DefaultCodePage per la descrizione di dati di tipo carattere."
+                  name="AlwaysUseDefaultCodePage">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifica la modalità utilizzata per accedere al database."
+                  name="AccessMode"
+                  typeConverter="AccessMode">3</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indica se i valori specificati per le colonne Identity verranno copiati nella destinazione. Se false, i valori delle colonne Identity verranno generati automaticamente nella destinazione. Applicabile solo se è abilitato il caricamento rapido."
+                  name="FastLoadKeepIdentity">false</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indica se per le colonne con valori Null, tali valori verranno inseriti nella destinazione. Se false, per le colonne con valori Null verranno inseriti i valori predefiniti corrispondenti nella destinazione. Applicabile solo se è attivato il caricamento rapido."
+                  name="FastLoadKeepNulls">false</property>
+                <property
+                  dataType="System.String"
+                  description="Specifica le opzioni da utilizzare con il caricamento rapido. Applicabile solo se è attivato il caricamento rapido."
+                  name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifica se vengono eseguiti commit durante l'inserimento dei dati. Il valore 0 indica che verrà eseguito un solo commit al termine dell'inserimento dei dati. Applicabile solo se è attivato il caricamento rapido."
+                  name="FastLoadMaxInsertCommitSize">2147483647</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\player\Destinazione OLE DB.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[lds.di.unipi.it.Group_ID_13_DB.Group_ID_13]"
+                  connectionManagerRefId="Package.ConnectionManagers[lds.di.unipi.it.Group_ID_13_DB.Group_ID_13]"
+                  description="Connessione di run-time OLE DB utilizzata per accedere al database."
+                  name="OleDbConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\player\Destinazione OLE DB.Inputs[Input destinazione OLE DB]"
+                  errorOrTruncationOperation="Inserimento"
+                  errorRowDisposition="FailComponent"
+                  hasSideEffects="true"
+                  name="Input destinazione OLE DB">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\player\Destinazione OLE DB.Inputs[Input destinazione OLE DB].Columns[player_pk]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="player_pk"
+                      externalMetadataColumnId="Package\player\Destinazione OLE DB.Inputs[Input destinazione OLE DB].ExternalColumns[player_pk]"
+                      lineageId="Package\player\Origine file flat.Outputs[Output origine file flat].Columns[player_pk]" />
+                    <inputColumn
+                      refId="Package\player\Destinazione OLE DB.Inputs[Input destinazione OLE DB].Columns[player_id]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="player_id"
+                      externalMetadataColumnId="Package\player\Destinazione OLE DB.Inputs[Input destinazione OLE DB].ExternalColumns[player_id]"
+                      lineageId="Package\player\Origine file flat.Outputs[Output origine file flat].Columns[player_id]" />
+                    <inputColumn
+                      refId="Package\player\Destinazione OLE DB.Inputs[Input destinazione OLE DB].Columns[player_name]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="player_name"
+                      externalMetadataColumnId="Package\player\Destinazione OLE DB.Inputs[Input destinazione OLE DB].ExternalColumns[player_name]"
+                      lineageId="Package\player\Origine file flat.Outputs[Output origine file flat].Columns[player_name]" />
+                    <inputColumn
+                      refId="Package\player\Destinazione OLE DB.Inputs[Input destinazione OLE DB].Columns[player_hand]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="100"
+                      cachedName="player_hand"
+                      externalMetadataColumnId="Package\player\Destinazione OLE DB.Inputs[Input destinazione OLE DB].ExternalColumns[player_hand]"
+                      lineageId="Package\player\Origine file flat.Outputs[Output origine file flat].Columns[player_hand]" />
+                    <inputColumn
+                      refId="Package\player\Destinazione OLE DB.Inputs[Input destinazione OLE DB].Columns[player_ht]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="player_ht"
+                      externalMetadataColumnId="Package\player\Destinazione OLE DB.Inputs[Input destinazione OLE DB].ExternalColumns[player_ht]"
+                      lineageId="Package\player\Origine file flat.Outputs[Output origine file flat].Columns[player_ht]" />
+                    <inputColumn
+                      refId="Package\player\Destinazione OLE DB.Inputs[Input destinazione OLE DB].Columns[geo_fk]"
+                      cachedDataType="i4"
+                      cachedName="geo_fk"
+                      externalMetadataColumnId="Package\player\Destinazione OLE DB.Inputs[Input destinazione OLE DB].ExternalColumns[geo_fk]"
+                      lineageId="Package\player\Origine file flat.Outputs[Output origine file flat].Columns[geo_fk]" />
+                  </inputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\player\Destinazione OLE DB.Inputs[Input destinazione OLE DB].ExternalColumns[player_pk]"
+                      dataType="i4"
+                      name="player_pk" />
+                    <externalMetadataColumn
+                      refId="Package\player\Destinazione OLE DB.Inputs[Input destinazione OLE DB].ExternalColumns[player_id]"
+                      dataType="i4"
+                      name="player_id" />
+                    <externalMetadataColumn
+                      refId="Package\player\Destinazione OLE DB.Inputs[Input destinazione OLE DB].ExternalColumns[player_name]"
+                      codePage="1252"
+                      dataType="str"
+                      length="100"
+                      name="player_name" />
+                    <externalMetadataColumn
+                      refId="Package\player\Destinazione OLE DB.Inputs[Input destinazione OLE DB].ExternalColumns[player_hand]"
+                      codePage="1252"
+                      dataType="str"
+                      length="100"
+                      name="player_hand" />
+                    <externalMetadataColumn
+                      refId="Package\player\Destinazione OLE DB.Inputs[Input destinazione OLE DB].ExternalColumns[player_ht]"
+                      dataType="r8"
+                      name="player_ht" />
+                    <externalMetadataColumn
+                      refId="Package\player\Destinazione OLE DB.Inputs[Input destinazione OLE DB].ExternalColumns[geo_fk]"
+                      dataType="i4"
+                      name="geo_fk" />
+                  </externalMetadataColumns>
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\player\Destinazione OLE DB.Outputs[Output errori destinazione OLE DB]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="Output errori destinazione OLE DB"
+                  synchronousInputId="Package\player\Destinazione OLE DB.Inputs[Input destinazione OLE DB]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\player\Destinazione OLE DB.Outputs[Output errori destinazione OLE DB].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\player\Destinazione OLE DB.Outputs[Output errori destinazione OLE DB].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\player\Destinazione OLE DB.Outputs[Output errori destinazione OLE DB].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\player\Destinazione OLE DB.Outputs[Output errori destinazione OLE DB].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\player\Origine file flat"
+              componentClassID="Microsoft.FlatFileSource"
+              contactInfo="Origine file flat;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; Tutti i diritti sono riservati; http://www.microsoft.com/sql/support;1"
+              description="Origine file flat"
+              localeId="1033"
+              name="Origine file flat"
+              usesDispositions="true"
+              version="1">
+              <properties>
+                <property
+                  dataType="System.Boolean"
+                  description="Specifica se le colonne di lunghezza zero vengono considerate Null."
+                  name="RetainNulls">false</property>
+                <property
+                  dataType="System.String"
+                  description="Specifica il nome di una colonna di output contenente il nome del file. Se non si specifica un nome, non verrà generata alcuna colonna di output con il nome di file."
+                  name="FileNameColumnName"></property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\player\Origine file flat.Connections[FlatFileConnection]"
+                  connectionManagerID="Package.ConnectionManagers[Gestione connessione file flat 1]"
+                  connectionManagerRefId="Package.ConnectionManagers[Gestione connessione file flat 1]"
+                  name="FlatFileConnection" />
+              </connections>
+              <outputs>
+                <output
+                  refId="Package\player\Origine file flat.Outputs[Output origine file flat]"
+                  name="Output origine file flat">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\player\Origine file flat.Outputs[Output origine file flat].Columns[player_pk]"
+                      codePage="1252"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversione"
+                      errorRowDisposition="IgnoreFailure"
+                      externalMetadataColumnId="Package\player\Origine file flat.Outputs[Output origine file flat].ExternalColumns[player_pk]"
+                      length="50"
+                      lineageId="Package\player\Origine file flat.Outputs[Output origine file flat].Columns[player_pk]"
+                      name="player_pk"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indica se la colonna utilizza le routine di analisi più veloci indipendenti dalle impostazioni locali."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indica se i dati sono in formato binario."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\player\Origine file flat.Outputs[Output origine file flat].Columns[player_id]"
+                      codePage="1252"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversione"
+                      errorRowDisposition="IgnoreFailure"
+                      externalMetadataColumnId="Package\player\Origine file flat.Outputs[Output origine file flat].ExternalColumns[player_id]"
+                      length="50"
+                      lineageId="Package\player\Origine file flat.Outputs[Output origine file flat].Columns[player_id]"
+                      name="player_id"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indica se la colonna utilizza le routine di analisi più veloci indipendenti dalle impostazioni locali."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indica se i dati sono in formato binario."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\player\Origine file flat.Outputs[Output origine file flat].Columns[player_name]"
+                      codePage="1252"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversione"
+                      errorRowDisposition="IgnoreFailure"
+                      externalMetadataColumnId="Package\player\Origine file flat.Outputs[Output origine file flat].ExternalColumns[player_name]"
+                      length="50"
+                      lineageId="Package\player\Origine file flat.Outputs[Output origine file flat].Columns[player_name]"
+                      name="player_name"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indica se la colonna utilizza le routine di analisi più veloci indipendenti dalle impostazioni locali."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indica se i dati sono in formato binario."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\player\Origine file flat.Outputs[Output origine file flat].Columns[player_hand]"
+                      codePage="1252"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversione"
+                      errorRowDisposition="IgnoreFailure"
+                      externalMetadataColumnId="Package\player\Origine file flat.Outputs[Output origine file flat].ExternalColumns[player_hand]"
+                      length="100"
+                      lineageId="Package\player\Origine file flat.Outputs[Output origine file flat].Columns[player_hand]"
+                      name="player_hand"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indica se la colonna utilizza le routine di analisi più veloci indipendenti dalle impostazioni locali."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indica se i dati sono in formato binario."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\player\Origine file flat.Outputs[Output origine file flat].Columns[player_ht]"
+                      codePage="1252"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversione"
+                      errorRowDisposition="IgnoreFailure"
+                      externalMetadataColumnId="Package\player\Origine file flat.Outputs[Output origine file flat].ExternalColumns[player_ht]"
+                      length="50"
+                      lineageId="Package\player\Origine file flat.Outputs[Output origine file flat].Columns[player_ht]"
+                      name="player_ht"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indica se la colonna utilizza le routine di analisi più veloci indipendenti dalle impostazioni locali."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indica se i dati sono in formato binario."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\player\Origine file flat.Outputs[Output origine file flat].Columns[geo_fk]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversione"
+                      errorRowDisposition="IgnoreFailure"
+                      externalMetadataColumnId="Package\player\Origine file flat.Outputs[Output origine file flat].ExternalColumns[geo_fk]"
+                      lineageId="Package\player\Origine file flat.Outputs[Output origine file flat].Columns[geo_fk]"
+                      name="geo_fk"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indica se la colonna utilizza le routine di analisi più veloci indipendenti dalle impostazioni locali."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indica se i dati sono in formato binario."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\player\Origine file flat.Outputs[Output origine file flat].ExternalColumns[player_pk]"
+                      dataType="i4"
+                      name="player_pk" />
+                    <externalMetadataColumn
+                      refId="Package\player\Origine file flat.Outputs[Output origine file flat].ExternalColumns[player_id]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      name="player_id" />
+                    <externalMetadataColumn
+                      refId="Package\player\Origine file flat.Outputs[Output origine file flat].ExternalColumns[player_name]"
+                      codePage="1252"
+                      dataType="str"
+                      length="100"
+                      name="player_name" />
+                    <externalMetadataColumn
+                      refId="Package\player\Origine file flat.Outputs[Output origine file flat].ExternalColumns[player_hand]"
+                      codePage="1252"
+                      dataType="str"
+                      length="100"
+                      name="player_hand" />
+                    <externalMetadataColumn
+                      refId="Package\player\Origine file flat.Outputs[Output origine file flat].ExternalColumns[player_ht]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      name="player_ht" />
+                    <externalMetadataColumn
+                      refId="Package\player\Origine file flat.Outputs[Output origine file flat].ExternalColumns[geo_fk]"
+                      dataType="i4"
+                      name="geo_fk" />
+                  </externalMetadataColumns>
+                </output>
+                <output
+                  refId="Package\player\Origine file flat.Outputs[Output errori origine file flat]"
+                  isErrorOut="true"
+                  name="Output errori origine file flat">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\player\Origine file flat.Outputs[Output errori origine file flat].Columns[Colonna di output degli errori per l'origine file flat]"
+                      codePage="1252"
+                      dataType="text"
+                      description="Colonna di output degli errori per l'origine file flat"
+                      lineageId="Package\player\Origine file flat.Outputs[Output errori origine file flat].Columns[Colonna di output degli errori per l'origine file flat]"
+                      name="Colonna di output degli errori per l'origine file flat" />
+                    <outputColumn
+                      refId="Package\player\Origine file flat.Outputs[Output errori origine file flat].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\player\Origine file flat.Outputs[Output errori origine file flat].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\player\Origine file flat.Outputs[Output errori origine file flat].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\player\Origine file flat.Outputs[Output errori origine file flat].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\player\Ricerca"
+              componentClassID="Microsoft.Lookup"
+              contactInfo="Ricerca;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; Tutti i diritti sono riservati; http://www.microsoft.com/sql/support;6"
+              description="Crea un join delle colonne aggiuntive al flusso di dati cercando valori in una tabella. Ad esempio, creare un join della colonna 'employee id' alla tabella dei dipendenti per ottenere data di assunzione e nome del dipendente. Questa trasformazione è consigliata quando la memoria disponibile è sufficiente per la tabella di ricerca."
+              name="Ricerca"
+              usesDispositions="true"
+              version="6">
+              <properties>
+                <property
+                  dataType="System.String"
+                  description="Specifica l'istruzione SQL che genera la tabella di ricerca."
+                  expressionType="Notify"
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select * from [Group_ID_13].[geography_SSIS]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifica un'istruzione SQL che utilizza parametri per generare la tabella di ricerca."
+                  expressionType="Notify"
+                  name="SqlCommandParam"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select * from (select * from [Group_ID_13].[geography_SSIS]) [refTable]
+where [refTable].[geo_pk] = ?</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifica il tipo di connessione utilizzata per accedere al set di dati di riferimento."
+                  name="ConnectionType"
+                  typeConverter="LookupConnectionType">0</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifica il tipo di cache della tabella di ricerca."
+                  name="CacheType"
+                  typeConverter="CacheType">0</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifica il modo in cui la trasformazione Ricerca gestisce le righe senza voci corrispondenti nel set di dati di riferimento."
+                  name="NoMatchBehavior"
+                  typeConverter="LookupNoMatchBehavior">0</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifica la percentuale della cache allocata per le righe senza voci corrispondenti nel set di dati di riferimento."
+                  name="NoMatchCachePercentage">0</property>
+                <property
+                  dataType="System.Int32"
+                  description="Utilizzo massimo della memoria per la cache dei riferimenti in una piattaforma a 32 bit."
+                  name="MaxMemoryUsage">25</property>
+                <property
+                  dataType="System.Int64"
+                  description="Utilizzo massimo della memoria per la cache dei riferimenti in una piattaforma a 64 bit."
+                  name="MaxMemoryUsage64">25</property>
+                <property
+                  dataType="System.String"
+                  description="Indica se fare riferimento ai metadati in un formato XML."
+                  name="ReferenceMetadataXml">&lt;referenceMetadata&gt;&lt;referenceColumns&gt;&lt;referenceColumn name="geo_pk" dataType="DT_I4" length="0" precision="0" scale="0" codePage="0"/&gt;&lt;referenceColumn name="geo_id" dataType="DT_STR" length="50" precision="0" scale="0" codePage="1252"/&gt;&lt;referenceColumn name="country_name" dataType="DT_STR" length="50" precision="0" scale="0" codePage="1252"/&gt;&lt;referenceColumn name="continent" dataType="DT_STR" length="50" precision="0" scale="0" codePage="1252"/&gt;&lt;/referenceColumns&gt;&lt;/referenceMetadata&gt;</property>
+                <property
+                  containsID="true"
+                  dataType="System.String"
+                  description="Specifica l'elenco di identificatori di derivazione corrispondenti ai parametri utilizzati dall'istruzione SQL nella proprietà SQLCommand. Le voci nell'elenco sono separate da punti e virgola."
+                  name="ParameterMap">#{Package\player\Origine file flat.Outputs[Output origine file flat].Columns[geo_fk]};</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifica la tabella codici della colonna da utilizzare quando l'origine dati non rende disponibili informazioni sulla tabella codici."
+                  name="DefaultCodePage">1252</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Determina se le chiavi duplicate nei dati di riferimento devono essere considerate come errori in caso di utilizzo della modalità di Full cache."
+                  name="TreatDuplicateKeysAsError">false</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\player\Ricerca.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[lds.di.unipi.it.Group_ID_13_DB.Group_ID_13]"
+                  connectionManagerRefId="Package.ConnectionManagers[lds.di.unipi.it.Group_ID_13_DB.Group_ID_13]"
+                  description="Gestione connessione utilizzata per accedere ai dati di ricerca."
+                  name="OleDbConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\player\Ricerca.Inputs[Input ricerca]"
+                  name="Input ricerca">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\player\Ricerca.Inputs[Input ricerca].Columns[geo_fk]"
+                      cachedDataType="i4"
+                      cachedName="geo_fk"
+                      lineageId="Package\player\Origine file flat.Outputs[Output origine file flat].Columns[geo_fk]">
+                      <properties>
+                        <property
+                          dataType="System.String"
+                          description="Specifica la colonna nella tabella di riferimento a cui viene unita in join una colonna."
+                          name="JoinToReferenceColumn">geo_pk</property>
+                        <property
+                          dataType="System.Null"
+                          description="Specifica la colonna nella tabella di riferimento da cui viene copiata una colonna."
+                          name="CopyFromReferenceColumn" />
+                      </properties>
+                    </inputColumn>
+                  </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\player\Ricerca.Outputs[Output corrispondenza ricerca]"
+                  errorOrTruncationOperation="Ricerca"
+                  errorRowDisposition="IgnoreFailure"
+                  exclusionGroup="1"
+                  name="Output corrispondenza ricerca"
+                  synchronousInputId="Package\player\Ricerca.Inputs[Input ricerca]">
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\player\Ricerca.Outputs[Output nessuna corrispondenza ricerca]"
+                  description="Output ricerca che gestisce le righe senza voci corrispondenti nel set di dati di riferimento. Usare questo output quando la proprietà NoMatchBehavior è impostata su &quot;Invia le righe senza voci corrispondenti all'output nessuna corrispondenza&quot;."
+                  exclusionGroup="1"
+                  name="Output nessuna corrispondenza ricerca"
+                  synchronousInputId="Package\player\Ricerca.Inputs[Input ricerca]">
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\player\Ricerca.Outputs[Output errori ricerca]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="Output errori ricerca"
+                  synchronousInputId="Package\player\Ricerca.Inputs[Input ricerca]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\player\Ricerca.Outputs[Output errori ricerca].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\player\Ricerca.Outputs[Output errori ricerca].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\player\Ricerca.Outputs[Output errori ricerca].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\player\Ricerca.Outputs[Output errori ricerca].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+          </components>
+          <paths>
+            <path
+              refId="Package\player.Paths[Output corrispondenza ricerca]"
+              endId="Package\player\Destinazione OLE DB.Inputs[Input destinazione OLE DB]"
+              name="Output corrispondenza ricerca"
+              startId="Package\player\Ricerca.Outputs[Output corrispondenza ricerca]" />
+            <path
+              refId="Package\player.Paths[Output origine file flat]"
+              endId="Package\player\Campionamento percentuale.Inputs[Campionamento percentuale Input 1]"
+              name="Output origine file flat"
+              startId="Package\player\Origine file flat.Outputs[Output origine file flat]" />
+            <path
+              refId="Package\player.Paths[Output selezionato campionamento]"
+              endId="Package\player\Ricerca.Inputs[Input ricerca]"
+              name="Output selezionato campionamento"
+              startId="Package\player\Campionamento percentuale.Outputs[Output selezionato campionamento]" />
+          </paths>
+        </pipeline>
+      </DTS:ObjectData>
+    </DTS:Executable>
+  </DTS:Executables>
+  <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
+<!--Questa sezione CDATA contiene le informazioni sul layout del pacchetto e include informazioni quali coordinate (x,y), larghezza e altezza.-->
+<!--Se si modifica manualmente la sezione e si commette un errore, è possibile eliminarla. -->
+<!--Sarà comunque possibile caricare manualmente il pacchetto, ma le informazioni precedenti sul layout verranno perse e gli elementi verranno nuovamente disposti nell'area di progettazione all'interno dell'apposita finestra.-->
+<Objects
+  Version="8">
+  <!--Ogni nodo seguente conterrà proprietà che non influiscono sul comportamento di runtime.-->
+  <Package
+    design-time-name="Package">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
+        <NodeLayout
+          Size="107.2,41.6"
+          Id="Package\player"
+          TopLeft="124.285714550286,52.7647058361026" />
+      </GraphLayout>
+    </LayoutInfo>
+  </Package>
+  <TaskHost
+    design-time-name="Package\player">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="213.6,41.6"
+          Id="Package\player\Campionamento percentuale"
+          TopLeft="16.5000002831221,77.4999993741512" />
+        <NodeLayout
+          Size="112,41.6"
+          Id="Package\player\Ricerca"
+          TopLeft="118.071428913243,184.676470017454" />
+        <NodeLayout
+          Size="148,41.6"
+          Id="Package\player\Origine file flat"
+          TopLeft="6.21428571580623,5.5" />
+        <NodeLayout
+          Size="176.8,41.6"
+          Id="Package\player\Destinazione OLE DB"
+          TopLeft="112.50000064075,288.499998018146" />
+        <EdgeLayout
+          Id="Package\player.Paths[Output selezionato campionamento]"
+          TopLeft="123.300000283122,119.099999374151">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="50.7714286301205,65.5764706433026"
+              Start="0,0"
+              End="50.7714286301205,58.0764706433026">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,28.7882353216513" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,28.7882353216513"
+                    Point2="0,32.7882353216513"
+                    Point3="4,32.7882353216513" />
+                  <mssgle:LineSegment
+                    End="46.7714286301205,32.7882353216513" />
+                  <mssgle:CubicBezierSegment
+                    Point1="46.7714286301205,32.7882353216513"
+                    Point2="50.7714286301205,32.7882353216513"
+                    Point3="50.7714286301205,36.7882353216513" />
+                  <mssgle:LineSegment
+                    End="50.7714286301205,58.0764706433026" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-53.3588364661898,37.7882353216513,157.4891015625,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\player.Paths[Output corrispondenza ricerca]"
+          TopLeft="174.071428913243,226.276470017454">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="26.8285717275074,62.2235280006922"
+              Start="0,0"
+              End="26.8285717275074,54.7235280006922">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,27.1117640003461" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,27.1117640003461"
+                    Point2="0,31.1117640003461"
+                    Point3="4,31.1117640003461" />
+                  <mssgle:LineSegment
+                    End="22.8285717275074,31.1117640003461" />
+                  <mssgle:CubicBezierSegment
+                    Point1="22.8285717275074,31.1117640003461"
+                    Point2="26.8285717275074,31.1117640003461"
+                    Point3="26.8285717275074,35.1117640003461" />
+                  <mssgle:LineSegment
+                    End="26.8285717275074,54.7235280006922" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-62.0327258549963,36.1117640003461,150.8940234375,16"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\player.Paths[Output origine file flat]"
+          TopLeft="80.2142857158062,47.1">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="43.0857145673159,30.3999993741512"
+              Start="0,0"
+              End="43.0857145673159,22.8999993741512">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,11.1999996870756" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,11.1999996870756"
+                    Point2="0,15.1999996870756"
+                    Point3="4,15.1999996870756" />
+                  <mssgle:LineSegment
+                    End="39.0857145673159,15.1999996870756" />
+                  <mssgle:CubicBezierSegment
+                    Point1="39.0857145673159,15.1999996870756"
+                    Point2="43.0857145673159,15.1999996870756"
+                    Point3="43.0857145673159,19.1999996870756" />
+                  <mssgle:LineSegment
+                    End="43.0857145673159,22.8999993741512" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="13.5428572836579,20.1999996870756,16,16"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\player\Ricerca">
+    <Properties>
+      <Property>
+        <Name>OverwriteParamsSQLProp</Name>
+        <Value
+          type="q2:boolean">false</Value>
+      </Property>
+      <Property>
+        <Name>UsedTableName</Name>
+        <Value
+          type="q3:string">[Group_ID_13].[geography_SSIS]</Value>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q4:int">0</Value>
+      </Property>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\player\Destinazione OLE DB">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+</Objects>]]></DTS:DesignTimeProperties>
+</DTS:Executable>
